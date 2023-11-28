@@ -1,0 +1,3378 @@
+Year,Gender,Place,Team,Finish Time,Laps
+2023,M,1,CUTTERS,2:15:28.61,200
+2023,M,2,Delta Tau Delta,2:15:28.74,200
+2023,M,3,Sigma Phi Epsilon,2:15:28.87,200
+2023,M,4,Chi Alpha,2:15:29.65,200
+2023,M,5,Phi Kappa Psi,2:15:29.66,200
+2023,M,6,Sigma Alpha Epsilon,2:15:32.68,200
+2023,M,7,Beta Sigma Psi,2:15:33.47,200
+2023,M,8,Phi Delta Theta,2:16:04.68,200
+2023,M,9,Phi Gamma Delta,2:15:32.28,199
+2023,M,10,IUDM,2:16:06.15,199
+2023,M,11,Ghost Cycling,2:15:39.97,198
+2023,M,12,3PH,2:15:58.76,198
+2023,M,13,Gray Goat,2:15:42.72,197
+2023,M,14,Alpha Sigma Phi,2:15:39.72,196
+2023,M,15,Forest Cycling,2:15:41.44,196
+2023,M,16,Bears,2:15:28.56,195
+2023,M,17,Alpha Kappa Psi,2:15:40.12,195
+2023,M,18,Sigma Nu,2:15:40.53,194
+2023,M,19,Cinzano,2:16:06.36,194
+2023,M,20,Novus,2:15:40.28,192
+2023,M,21,Evans Scholars,2:16:05.23,192
+2023,M,22,CSF Cycling,2:15:39.94,190
+2023,M,23,Lambda Chi Alpha,2:15:50.40,190
+2023,M,24,Delta Sigma Pi,2:15:42.21,188
+2023,M,25,Pi Kappa Alpha,2:15:25.51,187
+2023,M,26,Human Wheels,2:16:07.84,186
+2023,M,27,Beta Theta Pi,2:15:43.71,185
+2023,M,28,Tau Epsilon Phi,2:15:50.23,183
+2023,M,29,Alpha Kappa Lambda,2:16:06.11,182
+2023,M,30,Wild Aces,2:15:56.86,181
+2023,M,31,Phi Sigma Kappa,2:15:40.75,178
+2023,M,32,Chi Phi,2:15:46.00,178
+2023,M,33,Army,2:15:48.59,177
+2023,F,1,Melanzana,1:12:23.66,100
+2023,F,2,Teter,1:12:34.25,100
+2023,F,3,Alpha Chi Omega,1:12:53.66,100
+2023,F,4,Delta Gamma,1:12:53.70,100
+2023,F,5,Independent Council,1:12:33.34,99
+2023,F,6,Ride On Cycling,1:12:57.92,99
+2023,F,7,SKI,1:13:00.70,99
+2023,F,8,Kappa Alpha Theta,1:13:01.26,99
+2023,F,9,Kappa Kappa Gamma,1:12:29.92,98
+2023,F,10,CSF Cycling,1:12:42.47,96
+2023,F,11,Alpha Gamma Delta,1:13:04.38,96
+2023,F,12,Kappa Delta,1:13:01.10,95
+2023,F,13,Novus,1:12:53.61,94
+2023,F,14,Sigma Kappa,1:12:28.82,93
+2023,F,15,Delta Zeta,1:12:23.49,91
+2023,F,16,Phi Gamma Nu,1:12:36.70,90
+2023,F,17,Gamma Phi Beta,1:12:29.01,89
+2023,F,18,Cru Cycling,1:12:30.21,89
+2023,F,19,Alpha Omicron Pi,1:12:30.98,89
+2023,F,20,Theta Phi Alpha,1:12:53.60,89
+2023,F,21,Phi Mu,1:12:48.28,88
+2023,F,22,Bison Cycling,1:12:24.52,85
+2023,F,23,Chi Omega,1:12:36.06,85
+2023,F,24,Alpha Delta Pi,1:12:24.01,81
+2023,F,25,Sigma Delta Tau,1:12:25.49,77
+2023,F,26,Alpha Sigma Alpha,1:12:38.87,77
+2023,F,27,Alpha Epsilon Phi,1:12:24.88,69
+2022,M,1,Phi Delta Theta,2:15:43.47,200
+2022,M,2,Sigma Phi Epsilon,2:15:43.66,200
+2022,M,3,JETBLACH,2:15:43.78,200
+2022,M,4,CUTTERS,2:15:46.78,200
+2022,M,5,Gray Goat,2:15:58.66,200
+2022,M,6,Phi Kappa Psi,2:15:31.79,199
+2022,M,7,Chi Alpha,2:15:32.70,199
+2022,M,8,Beta Sigma Psi,2:15:58.35,199
+2022,M,9,Black Key Bulls,2:14:30.52,198
+2022,M,10,Phi Gamma Delta,2:15:48.05,197
+2022,M,11,Alpha Sigma Phi,2:15:30.52,194
+2022,M,12,Bears,2:15:54.05,194
+2022,M,13,Forest Cycling,2:16:03.95,194
+2022,M,14,3PH Cycling,2:15:56.98,193
+2022,M,15,CSF Cycling,2:15:32.44,191
+2022,M,16,Delta Sigma Pi,2:15:47.44,191
+2022,M,17,Ghost Cycling,2:15:59.10,191
+2022,M,18,IUDM Cycling,2:15:41.15,189
+2022,M,19,Novus Cycling,2:15:32.45,187
+2022,M,20,Sigma Alpha Epsilon,2:15:49.74,187
+2022,M,21,Beta Theta Pi,2:15:32.45,186
+2022,M,22,Wild Aces Cycling,2:15:49.74,183
+2022,M,23,Sigma Chi,2:15:39.81,181
+2022,M,24,Sigma Nu,2:16:03.81,179
+2022,M,25,Alpha Kappa Psi,2:16:09.77,179
+2022,M,26,Team 25,2:15:18.07,179
+2022,M,27,Delta Upsilon,2:15:34.44,177
+2022,M,28,Lambda Chi Alpha,2:15:34.39,176
+2022,M,29,Army Cycling,2:15:32.84,172
+2022,M,30,Phi Sigma Kappa,2:15:57.54,172
+2022,M,31,Phi Gamma Nu,2:15:59.13,171
+2022,M,32,Evans Scholars,2:16:11.84,169
+2022,M,33,McNutt,2:15:37.42,166
+2022,F,1,Melanzana Cycling,1:14:15.06,100
+2022,F,2,Kappa Alpha Theta,1:15:28.05,100
+2022,F,3,Alpha Chi Omega,1:15:39.03,100
+2022,F,4,Delta Gamma,1:15:39.04,100
+2022,F,5,Teter,1:15:39.06,100
+2022,F,6,Kappa Kappa Gamma,1:15:12.07,98
+2022,F,7,Theta Phi Alpha,1:15:01.08,97
+2022,F,8,SKI,1:15:11.09,97
+2022,F,9,Alpha Delta Pi,1:14:59.07,96
+2022,F,10,Kappa Delta,1:15:08.05,96
+2022,F,11,CSF Cycling,1:15:35.07,96
+2022,F,12,RideOn Cycling,1:15:41.00,96
+2022,F,13,Phi Mu,1:15:36.06,93
+2022,F,14,Delta Zeta,1:15:01.05,92
+2022,F,15,Phi Gamma Nu,1:15:06.06,92
+2022,F,16,Independent Council Cycling,1:15:32.00,92
+2022,F,17,Alpha Omicron Pi,1:15:01.07,91
+2022,F,18,Cru Cycling,1:15:06.01,91
+2022,F,19,Alpha Gamma Delta,1:14:53.07,90
+2022,F,20,Sigma Kappa,1:15:19.00,89
+2022,F,21,Sigma Delta Tau,1:15:15.06,86
+2022,F,22,Alpha Epsilon Phi,1:15:09.04,71
+2021,M,1,Jetblach,2:13:21.22,200
+2021,M,2,Cutters,2:13:21.71,200
+2021,M,3,Sigma Phi Epsilon,2:13:22.36,200
+2021,M,4,Chi Alpha,2:13:22.37,200
+2021,M,5,Phi Kappa Psi,2:13:24.87,200
+2021,M,6,Black Key Bulls,2:13:36.94,200
+2021,M,7,Gray Goat,2:13:37.00,200
+2021,M,8,Beta Sigma Psi,2:13:37.36,200
+2021,M,9,Phi Delta Theta,2:13:54.00,200
+2021,M,10,Phi Gamma delta,,199
+2021,M,11,3PH Cycling,,199
+2021,M,12,Bears,,198
+2021,M,13,CSF Cycling,,198
+2021,M,14,Acacia,,198
+2021,M,15,Pi Lambda Phi,,194
+2021,M,16,Delta Sigma Pi,,191
+2021,M,17,Army Cycling,,189
+2021,M,18,Phi Kappa Sigma,,189
+2021,M,19,Beta Theta Pi,,189
+2021,M,20,Delta Upsilon,,189
+2021,M,21,Forest Cycling,,188
+2021,M,22,Novus Cycling,,184
+2021,M,23,Theta Chi,,171
+2021,F,1,Delta Gamma,1:12:30.69,100
+2021,F,2,Alpha Xi Delta,1:13:12.38,100
+2021,F,3,Kappa Alpha Theta,1:13:13.96,100
+2021,F,4,Melanzana Cycling,1:13:14.66,100
+2021,F,5,SKI,1:13:44.73,100
+2021,F,6,Theta Phi Alpha,,99
+2021,F,7,Alpha Chi Omega,,98
+2021,F,8,Alpha Delta Pi,,98
+2021,F,9,RideOn Cycling,,98
+2021,F,10,Teter,,95
+2021,F,11,Alpha Omicron Pi,,95
+2021,F,12,Phi Gamma Nu,,94
+2021,F,13,Independent Council,,93
+2021,F,14,Kappa Delta,,92
+2021,F,15,Phi Mu,,92
+2021,F,16,Sigma Kappa,,92
+2021,F,17,Sigma Delta Tau,,85
+2019,F,1,Teter,1:12:42.291,100
+2019,F,2,Delta Gamma,1:12:42.494,100
+2019,F,3,Ski,1:12:44.828,100
+2019,F,4,Alpha Chi Omega,1:12:52.329,100
+2019,F,5,Independent Council,1:12:52.690,99
+2019,F,6,Theta Phi Alpha,1:13:00.364,98
+2019,F,7,Phi Mu,1:13:13.189,98
+2019,F,8,Alpha Xi Delta,1:13:13.562,98
+2019,F,9,Kappa Alpha Theta,1:13:35.102,98
+2019,F,10,Melanzana Cycling,1:13:14.589,97
+2019,F,11,Alpha Gamma Delta,1:13:19.767,97
+2019,F,12,Alpha Delta Pi,1:12:44.599,96
+2019,F,13,CSF Cycling,1:13:24.048,96
+2019,F,14,Alpha Omicron Pi,1:13:26.840,96
+2019,F,15,Alpha Kappa Psi,1:13:27.320,96
+2019,F,16,Nursing,1:13:03.103,94
+2019,F,17,Cru Cycling,1:13:05.243,94
+2019,F,18,Kappa Delta,1:13:12.894,94
+2019,F,19,Zeta Tau Alpha,1:12:57.997,93
+2019,F,20,Godspeed,1:13:01.769,93
+2019,F,21,Sigma Kappa,1:12:50.295,92
+2019,F,22,Phi Gamma Nu,1:13:31.626,91
+2019,F,23,Gamma Phi Beta,1:12:55.436,90
+2019,F,24,Kappa Kappa Gamma,1:13:01.598,90
+2019,F,25,Delta Sigma Pi,1:12:58.281,88
+2019,F,26,Alpha Sigma Alpha,1:13:01.895,88
+2019,F,27,Delta Phi Epsilon,1:13:00.196,83
+2019,F,28,Sigma Delta Tau,1:13:36.390,83
+2019,F,29,Pi Beta Phi,1:12:55.060,82
+2019,F,30,Camp Kesem Cycling,1:12:55.728,82
+2019,F,31,Alpha Epsilon Phi,1:13:25.790,73
+2019,M,1,Cutters,2:10:25.879,200
+2019,M,2,Bears,2:10:26.013,200
+2019,M,3,Black Key Bulls,2:10:26.015,200
+2019,M,4,Gray Goat,2:10:26.419,200
+2019,M,5,3PH Cycling,2:10:26.541,200
+2019,M,6,Jetblach,2:10:26.768,200
+2019,M,7,Sigma Phi Epsilon,2:10:26.819,200
+2019,M,8,Phi Kappa Psi,2:10:27.254,200
+2019,M,9,Sigma Alpha Epsilon,2:10:35.649,200
+2019,M,10,NEH Cycling,2:10:48.055,200
+2019,M,11,Gafombi,2:10:52.008,200
+2019,M,12,Phi Delta Theta,2:10:56.685,200
+2019,M,13,Forest Cycling,2:10:52.253,199
+2019,M,14,Sigma Chi,2:10:52.312,199
+2019,M,15,Phi Gamma Delta,2:10:40.874,198
+2019,M,16,Beta Sigma Psi,2:10:41.931,198
+2019,M,17,Pi Lambda Phi,2:10:27.654,197
+2019,M,18,Delta Upsilon,2:10:49.420,197
+2019,M,19,Pi Kappa Alpha,2:10:57.770,196
+2019,M,20,CSF Cycling,2:10:33.520,195
+2019,M,21,Delta Sigma Pi,2:10:41.455,194
+2019,M,22,Acacia,2:10:28.171,193
+2019,M,23,Delta Chi,2:10:30.818,193
+2019,M,24,Phi Gamma Nu,2:10:31.803,193
+2019,M,25,Black Ice Cycling,2:10:32.369,192
+2019,M,26,Chi Alpha,2:11:04.691,192
+2019,M,27,Alpha Kappa Lambda,2:10:35.317,191
+2019,M,28,Godspeed,2:10:31.901,190
+2019,M,29,Theta Chi,2:10:28.174,186
+2019,M,30,Alpha Sigma Phi,2:11:09.890,185
+2019,M,31,Phi Kappa Tau,2:11:12.319,180
+2019,M,32,Evans Scholars,2:10:35.949,179
+2019,M,33,Phi Kappa Sigma,2:10:49.334,172
+2018,F,1,Kappa Alpha Theta,1:13:40.134,100
+2018,F,2,Delta Gamma,1:13:40.985,100
+2018,F,3,Teter,1:13:41.164,100
+2018,F,4,Alpha Chi Omega,1:13:.41.193,100
+2018,F,5,Melanzana Cycling,1:13:41.202,100
+2018,F,6,Theta Phi Alpha,1:13:41.316,100
+2018,F,7,Phi Mu,1:13:41.696,100
+2018,F,8,Ski,1:13:41.983,100
+2018,F,9,RideOn,1:13:45.953,100
+2018,F,10,Alpha Omicron Pi,1:13:49.091,100
+2018,F,11,Alpha Sigma Alpha,1:13:57.653,100
+2018,F,12,Independent Council,1:14:09.256,100
+2018,F,13,Alpha Gamma Delta,1:13:42.244,99
+2018,F,14,Alpha Xi Delta,1:13:42.505,99
+2018,F,15,Delta Sigma Pi,1:14:04.287,99
+2018,F,16,Alpha Delta Pi,1:13:48.060,98
+2018,F,17,Cru Cycling,1:14:09.150,98
+2018,F,18,CSF Cycling,1:14:23.345,98
+2018,F,19,Kappa Delta,1:13:47.996,97
+2018,F,20,Phi Gamma Nu,1:14:01.046,96
+2018,F,21,Sigma Kappa,1:14:12.387,96
+2018,F,22,Chi Omega,1:14:01.319,95
+2018,F,23,IU Nursing,1:13:42.614,93
+2018,F,24,Delta Zeta,1:14:10.370,93
+2018,F,25,Kappa Kappa Gamma,1:13:42.361,92
+2018,F,26,Centripedal Force,1:13:56.125,91
+2018,F,27,Alpha Phi,1:13:58.032,90
+2018,F,28,Gamma Phi Beta,1:14:29.995,89
+2018,F,29,Camp Kesem Cycling,1:13:48.739,87
+2018,F,30,Sigma Delta Tau,1:13:53.152,85
+2018,F,31,Delta Phi Epsilon,1:14:07.960,84
+2018,F,32,Alpha Epsilon Phi,1:13:47.779,77
+2018,M,1,Cutters,2:10:19.861,200
+2018,M,2,Gray Goat,2:10:20.014,200
+2018,M,3,Black Key Bulls,2:10:20.244,200
+2018,M,4,Sigma Phi Epsilon,2:10:20.619,200
+2018,M,5,Jetblach,2:10:20.748,200
+2018,M,6,Sigma Alpha Epsilon,2:10:20.757,200
+2018,M,7,Bears,2:10:20.869,200
+2018,M,8,Beta Theta Pi,2:10:21.069,200
+2018,M,9,Phi Kappa Psi,2:10:21.385,200
+2018,M,10,3PH Cycling,2:10:21.562,200
+2018,M,11,Delta Chi,2:10:21.683,200
+2018,M,12,CSF Cycling,2:10:43.287,200
+2018,M,13,Kappa Sigma,2:10:43.981,200
+2018,M,14,Sigma Chi,2:10:44.405,200
+2018,M,15,Forest Cycling,2:10:46.371,200
+2018,M,16,Phi Delta Theta,2:11:07.322,200
+2018,M,17,Phi Gamma Delta,2:11:12.345,200
+2018,M,18,Delta Upsilon,2:10:44.929,196
+2018,M,19,Pi Lambda Phi,2:11:06.985,195
+2018,M,20,Acacia,2:11:13.175,194
+2018,M,21,Chi Alpha,2:11:16.296,194
+2018,M,22,Black Ice Cycling,2:10:47.161,193
+2018,M,23,Pi Kappa Alpha,2:10:50.819,192
+2018,M,24,Phi Sigma Kappa,2:10:53.119,192
+2018,M,25,Alpha Epsilon Pi,2:10:50.626,191
+2018,M,26,Delta Sigma Phi,2:10:45.872,190
+2018,M,27,Beta Sigma Psi,2:10:52.226,186
+2018,M,28,Alpha Kappa Lambda,2:10:49.189,185
+2018,M,29,Alpha Sigma Phi,2:10:50.814,184
+2018,M,30,Evans Scholars,2:11:06.255,179
+2018,M,31,Lambda Chi Alpha,2:11:12.649,174
+2018,M,32,Young Pioneers,2:10:43.394,167
+2018,M,33,Theta Chi,2:10:58.048,161
+2017,M,1,Black Key Bulls,02:12:29.518,200
+2017,M,2,Gray Goat,02:12:41.262,200
+2017,M,3,Cutters,02:12:41.639,200
+2017,M,4,Beta Theta Pi,02:12:42.104,200
+2017,M,5,Sigma Alpha Epsilon,02:12:58.817,200
+2017,M,6,Bears,02:12:59.964,200
+2017,M,7,Sigma Chi,02:12:31.500,199
+2017,M,8,Sigma Phi Epsilon,02:12:31.897,199
+2017,M,9,Phi Gamma Delta,02:12:38.265,199
+2017,M,10,3PH,02:12:38.447,199
+2017,M,11,Forest Cycling,02:12:44.240,199
+2017,M,12,Delta Chi,02:12:30.071,198
+2017,M,13,Lambda Chi Alpha,02:12:36.693,198
+2017,M,14,CSF Cycling (M),02:12:36.928,198
+2017,M,15,Pi Kappa Alpha,02:12:36.429,197
+2017,M,16,Kappa Sigma,02:12:36.368,195
+2017,M,17,JETBLACH,02:12:37.188,195
+2017,M,18,Acacia,02:12:40.387,192
+2017,M,19,Pi Lambda Phi,02:12:30.035,191
+2017,M,20,Phi Sigma Kappa,02:12:56.485,188
+2017,M,21,Delta Sigma Pi (M),02:13:08.180,188
+2017,M,22,Phi Delta Theta,02:13:07.948,187
+2017,M,23,Alpha Sigma Phi,02:12:58.466,186
+2017,M,24,Sigma Nu,02:12:59.761,186
+2017,M,25,Alpha Epsilon Pi,02:13:05.866,186
+2017,M,26,Theta Chi,02:12:38.414,185
+2017,M,27,Black Ice Cycling,02:12:59.014,185
+2017,M,28,Beta Sigma Psi,02:13:07.342,183
+2017,M,29,Tau Kappa Epsilon,02:13:09.847,182
+2017,M,30,Evans Scholars,02:12:30.305,180
+2017,M,31,Young Life Cycling (M),02:12:31.462,173
+2017,M,32,Sigma Pi,02:12:42.619,167
+2017,M,33,Sigma Alpha Mu,02:12:45.335,103
+2017,F,1,Kappa Alpha Theta,01:09:49.116,100
+2017,F,2,Alpha Omicron Pi,01:09:53.065,100
+2017,F,3,Delta Gamma,01:09:59.115,100
+2017,F,4,Alpha Chi Omega,01:09:59.235,100
+2017,F,5,SKI,01:09:59.987,100
+2017,F,6,Melanzana Cycling,01:09:51.849,99
+2017,F,7,Alpha Xi Delta,01:10:00.206,99
+2017,F,8,Kappa Delta,01:10:00.606,99
+2017,F,9,RideOn,01:10:00.645,99
+2017,F,10,Teter,01:10:03.434,99
+2017,F,11,Phi Mu,01:10:32.895,99
+2017,F,12,Alpha Gamma Delta,01:09:55.735,98
+2017,F,13,Independent Council Cycling,01:10:03.095,98
+2017,F,14,Alpha Sigma Alpha,01:10:28.313,98
+2017,F,15,Theta Phi Alpha,01:09:51.541,97
+2017,F,16,Cru Cycling,01:10:02.607,97
+2017,F,17,Sigma Kappa,01:09:57.900,96
+2017,F,18,Alpha Delta Pi,01:10:01.035,96
+2017,F,19,Delta Sigma Pi (W),01:10:01.278,96
+2017,F,20,Phi Gamma Nu,01:10:29.213,95
+2017,F,21,Delta Zeta,01:10:14.771,94
+2017,F,22,CSF Cycling,01:10:15.013,94
+2017,F,23,Sweet Potato Club,01:09:54.369,92
+2017,F,24,Kappa Kappa Gamma,01:09:59.403,92
+2017,F,25,Delta Phi Epsilon,01:10:17.922,91
+2017,F,26,IU Nursing,01:09:50.138,88
+2017,F,27,Camp Kesem Cycling,01:10:36.583,86
+2017,F,28,Gamma Phi Beta,01:10:33.196,85
+2017,F,29,Wing It Cycling,01:09:51.622,84
+2017,F,30,Sigma Delta Tau,01:10:13.674,83
+2017,F,31,Alpha Phi,01:09:57.974,80
+2017,F,32,Alpha Epsilon Phi,01:10:10.218,74
+2016,M,1,Delta Tau Delta,02:05:12.031,200
+2016,M,2,Sigma Alpha Epsilon,02:05:13.091,200
+2016,M,3,Black Key Bulls,02:05:13.397,200
+2016,M,4,Cutters,02:05:18.891,200
+2016,M,5,3PH Cycling,02:05:36.139,200
+2016,M,6,Gray Goat,02:05:33.798,199
+2016,M,7,Beta Theta Pi,02:05:36.303,199
+2016,M,8,Phi Delta Theta,02:05:19.296,198
+2016,M,9,Sigma Nu,02:05:35.861,198
+2016,M,10,Forest Cycling,02:05:53.798,198
+2016,M,11,Phi Gamma Delta,02:05:54.191,197
+2016,M,12,Sigma Chi,02:05:33.707,196
+2016,M,13,Sigma Phi Epsilon,02:05:34.557,195
+2016,M,14,Wright,02:05:35.613,195
+2016,M,15,Delta Chi,02:05:36.757,194
+2016,M,16,Pi Kappa Alpha,02:05:33.586,192
+2016,M,17,Theta Chi,02:05:33.790,192
+2016,M,18,Lambda Chi Alpha,02:05:35.093,192
+2016,M,19,CSF,02:05:53.918,190
+2016,M,20,Acacia,02:05:50.275,186
+2016,M,21,Alpha Sigma Phi,02:05:47.331,185
+2016,M,22,Phi Kappa Sigma,02:05:14.960,184
+2016,M,23,Pi Lambda Phi,02:05:44.818,184
+2016,M,24,Pi Kappa Phi,02:05:15.387,183
+2016,M,25,Alpha Epsilon Pi,02:05:19.634,182
+2016,M,26,Sigma Alpha Mu,02:05:56.633,180
+2016,M,27,Phi Sigma Kappa,02:05:23.986,177
+2016,M,28,Beta Sigma Psi,02:05:18.064,176
+2016,M,29,Young Pioneer,02:05:18.149,176
+2016,M,30,Young Life,02:05:42.137,175
+2016,M,31,Delta Sigma Pi,02:05:32.170,171
+2016,M,32,Tau Kappa Epsilon,02:05:33.984,161
+2016,M,33,Zeta Beta Tau,02:05:48.012,156
+2016,F,1,Phoenix,01:09:11.744,100
+2016,F,2,Delta Gamma,01:09:11.795,100
+2016,F,3,Teter,01:09:13.086,100
+2016,F,4,Kappa Alpha Theta,01:09:13.319,100
+2016,F,5,Alpha Omicron Pi,01:09:14.356,100
+2016,F,6,Phi Mu,01:09:42.395,100
+2016,F,7,Alpha Chi Omega,01:09:15.021,99
+2016,F,8,Ski,01:09:15.938,98
+2016,F,9,CSF,01:09:14.775,97
+2016,F,10,Alpha Sigma Alpha,01:09:16.172,97
+2016,F,11,Kappa Delta,01:09:21.842,97
+2016,F,12,Alpha Gamma Delta,01:09:30.836,97
+2016,F,13,Alpha Xi Delta,01:09:39.047,97
+2016,F,14,Kappa Kappa Gamma,01:09:25.124,96
+2016,F,15,Melanzana,01:09:25.879,96
+2016,F,16,RideOn,01:09:38.881,95
+2016,F,17,Cru,01:09:31.416,94
+2016,F,18,Alpha Delta Pi,01:09:32.043,94
+2016,F,19,Delta Zeta,01:09:32.980,94
+2016,F,20,Delta Sigma Pi,01:10:15.594,94
+2016,F,21,Chi Omega,01:09:32.769,93
+2016,F,22,IU Nursing,01:09:32.586,92
+2016,F,23,Alpha Phi,01:09:32.841,92
+2016,F,24,Gamma Phi Beta,01:09:31.941,91
+2016,F,25,Wing It,01:09:26.193,90
+2016,F,26,Indpendent Council Cycling,01:09:30.247,89
+2016,F,27,Theta Phi Alpha,01:09:55.186,88
+2016,F,28,Delta Phi Epsilon,01:09:13.797,87
+2016,F,29,Sigma Delta Tau,01:09:17.327,84
+2016,F,30,Delta Delta Delta,01:09:56.969,84
+2016,F,31,Alpha Epsilon Phi,01:09:27.338,83
+2015,M,1,Sigma Phi Epsilon,02:07:58.495,200
+2015,M,2,Black Key Bulls,02:07:58.519,200
+2015,M,3,Beta Theta Pi,02:07:58.839,200
+2015,M,4,Sigma Alpha Epsilon,02:07:58.850,200
+2015,M,5,Forest,02:07:58.851,200
+2015,M,6,Delta Tau Delta,02:07:58.875,200
+2015,M,7,Cutters,02:08:06.309,200
+2015,M,8,3PH Cycling,02:08:08.253,200
+2015,M,9,Phi Kappa Sigma,02:08:27.256,200
+2015,M,10,Phi Delta Theta,02:08:34.750,200
+2015,M,11,Phi Gamma Delta,02:08:38.137,200
+2015,M,12,Gray Goat,02:08:18.736,199
+2015,M,13,Delta Chi,02:08:19.396,199
+2015,M,14,Wright,02:08:30.931,199
+2015,M,15,Sigma Nu,02:08:15.137,197
+2015,M,16,Northern Indiana Cycling,02:08:20.334,197
+2015,M,17,Pi Kappa Phi,02:08:19.064,194
+2015,M,18,Evans Scholars,02:08:32.083,194
+2015,M,19,Lamda Chi Alpha,02:08:20.067,193
+2015,M,20,CSF,02:08:39.650,193
+2015,M,21,Theta Chi,02:08:14.526,191
+2015,M,22,Pi Kappa Alpha,02:08:20.240,191
+2015,M,23,Sigma Alpha Mu,02:08:30.558,191
+2015,M,24,Delta Sigma Pi,02:08:29.228,189
+2015,M,25,Alpha Epsilon Pi,02:08:18.975,188
+2015,M,26,Kappa Sigma,02:05:44.367,186
+2015,M,27,Young Life,02:08:39.555,186
+2015,M,28,Phi Sigma Kappa,02:08:08.913,183
+2015,M,29,Delta Upsilon,02:08:29.247,183
+2015,M,30,Sigma Pi,02:08:15.229,179
+2015,M,31,Collins Bucaneers,02:08:24.218,178
+2015,M,32,Alpha Tau Omega,02:08:38.428,175
+2015,M,33,Beta Sigma Psi,02:08:19.862,174
+2015,F,1,Kappa Alpha Theta,01:14:19.819,100
+2015,F,2,Phoenix Cycling,01:14:21.108,100
+2015,F,3,Cru,01:14:26.928,100
+2015,F,4,Ski,01:14:30.151,100
+2015,F,5,Delta Gamma,01:14:30.151,100
+2015,F,6,CSF,01:14:30.151,100
+2015,F,7,Alpha Omicron Pi,01:14:30.672,100
+2015,F,8,Gamma Phi Beta,01:14:58.647,100
+2015,F,9,Alpha Chi Omega,01:15:11.628,100
+2015,F,10,Alpha Xi Delta,01:14:27.422,99
+2015,F,11,Teter,01:14:58.716,99
+2015,F,12,Alpha Sigma Alpha,01:14:26.762,98
+2015,F,13,Delta Sigma Pi,01:14:32.169,98
+2015,F,14,Alpha Gamma Delta,01:14:58.490,98
+2015,F,15,Kappa Delta,01:14:27.147,97
+2015,F,16,Phi Mu,01:14:29.007,97
+2015,F,17,Kappa Kappa Gamma,01:14:59.556,97
+2015,F,18,Melanzana,01:14:25.439,96
+2015,F,19,RideOn,01:14:26.621,96
+2015,F,20,Theta Phi Alpha,01:14:27.154,93
+2015,F,21,Independent Council,01:14:31.702,93
+2015,F,22,Wing It,01:14:39.634,93
+2015,F,23,IU Nursing,01:14:26.951,92
+2015,F,24,Alpha Delta Pi,01:14:26.993,92
+2015,F,25,Chi Omega,01:14:33.592,91
+2015,F,26,Pi Beta Phi,01:15:00.518,91
+2015,F,27,Delta Zeta,01:14:27.490,89
+2015,F,28,Zeta Tau Alpha,01:14:25.862,86
+2015,F,29,Alpha Phi,01:14:26.262,84
+2015,F,30,Sigma Delta Tau,01:14:21.858,83
+2015,F,31,Delta Phi Epsilon,01:14:22.764,82
+2015,F,32,Alpha Epsilon Phi,01:05:23.221,65
+2014,M,1,Black Key Bulls,02:09:35.419,200
+2014,M,2,Phi Delta Theta,02:09:41.352,200
+2014,M,3,Delta Tau Delta,02:09:41.372,200
+2014,M,4,Sigma Phi Epsilon,02:09:41.771,200
+2014,M,5,Phi Gamma Delta,02:09:43.033,200
+2014,M,6,Sigma Chi,02:09:55.584,200
+2014,M,7,Beta Theta Pi,02:09:56.207,200
+2014,M,8,Sigma Alpha Epsilon,02:09:56.468,200
+2014,M,9,Cutters,02:09:56.556,200
+2014,M,10,Wright Cycling,02:10:04.799,200
+2014,M,11,Phi Kappa Sigma,02:09:40.195,198
+2014,M,12,Delta Sigma Pi,02:09:58.931,197
+2014,M,13,Forest Cycling,02:10:05.477,197
+2014,M,14,Gray Goat,02:09:41.198,196
+2014,M,15,CSF Cycling,02:09:57.638,196
+2014,M,16,Delta Chi,02:09:44.390,195
+2014,M,17,Lambda Chi Alpha,02:09:48.093,195
+2014,M,18,Pi Kappa Phi,02:09:56.793,194
+2014,M,19,Alpha Epsilon Pi,02:10:04.632,194
+2014,M,20,Phi Kappa Psi,02:09:27.174,193
+2014,M,21,Sigma Nu,02:09:27.417,192
+2014,M,22,Dodds House,02:09:33.905,191
+2014,M,23,Collins Buccaneers,02:09:28.062,190
+2014,M,24,Evans Scholars,02:09:37.427,190
+2014,M,25,Delta Upsilon,02:10:00.863,187
+2014,M,26,Sigma Alpha Mu,02:09:27.871,181
+2014,M,27,Northern Indiana Cycling,02:09:30.229,181
+2014,M,28,Kappa Delta Rho,02:09:32.516,179
+2014,M,29,Pi Kappa Alpha,02:10:06.569,179
+2014,M,30,Sigma Pi,02:09:29.148,178
+2014,M,31,Phi Sigma Kappa,02:09:45.382,178
+2014,M,32,Phi Kappa Tau,02:09:34.090,174
+2014,M,33,Alpha Tau Omega,02:08:52.337,172
+2014,F,1,Kappa Alpha Theta,01:13:11.425,100
+2014,F,2,Teter,01:13:11.557,100
+2014,F,3,Alpha Chi Omega,01:13:11.625,100
+2014,F,4,Phi Mu,01:13:11.677,100
+2014,F,5,Cru,01:13:12.028,100
+2014,F,6,CSF Cycling,01:13:14.400,100
+2014,F,7,Ski,01:13:23.280,100
+2014,F,8,Melanzana Cycling,01:13:53.181,100
+2014,F,9,Chi Omega,01:13:12.597,99
+2014,F,10,Kappa Delta,01:13:33.253,99
+2014,F,11,Delta Gamma,01:13:52.036,99
+2014,F,12,Collins,01:13:33.358,98
+2014,F,13,Alpha Gamma Delta,01:13:42.380,98
+2014,F,14,Kappa Kappa Gamma,01:13:52.790,98
+2014,F,15,Army Cycling,01:13:33.951,97
+2014,F,16,Mezcla,01:13:39.773,97
+2014,F,17,Theta Phi Alpha,01:13:27.861,96
+2014,F,18,Alpha Xi Delta,01:13:40.094,96
+2014,F,19,Alpha Sigma Alpha,01:13:54.484,96
+2014,F,20,Gamma Phi Beta,01:13:21.441,95
+2014,F,21,Alpha Omicron Pi,01:13:22.502,95
+2014,F,22,Delta Sigma Pi,01:13:44.887,93
+2014,F,23,RideOn,01:13:24.457,92
+2014,F,24,Air Force,01:13:34.241,91
+2014,F,25,Wing It,01:13:40.303,91
+2014,F,26,Alpha Delta Pi,01:13:59.117,91
+2014,F,27,Zeta Tau Alpha,01:13:18.843,90
+2014,F,28,Delta Zeta,01:14:02.603,90
+2014,F,29,IU Nursing,01:13:27.150,89
+2014,F,30,Delta Phi Epsilon,01:13:26.688,87
+2014,F,31,Alpha Phi,01:13:24.475,86
+2014,F,32,Delta Delta Delta,01:13:24.586,75
+2014,F,33,Sigma Delta Tau,01:13:24.138,66
+2013,M,1,Beta Theta Pi,02:07:34.66,200
+2013,M,2,Delta Tau Delta,02:07:34.97,200
+2013,M,3,Phi Delta Theta,02:07:42.23,200
+2013,M,4,Cutters,02:07:48.03,200
+2013,M,5,Black Key Bulls,02:07:48.08,200
+2013,M,6,Sigma Phi Epsilon,02:07:58.43,200
+2013,M,7,Sigma Nu,02:08:07.01,200
+2013,M,8,Phi Gamma Delta,02:08:07.06,200
+2013,M,9,Theta Chi,02:07:39.08,199
+2013,M,10,Kappa Sigma,02:08:07.48,199
+2013,M,11,Wright Cycling,02:08:07.70,199
+2013,M,12,Gray Goat,02:07:55.84,197
+2013,M,13,Lambda Chi Alpha,02:08:09.65,197
+2013,M,14,Sigma Chi,02:08:10.14,196
+2013,M,15,Delta Upsilon,02:07:59.22,195
+2013,M,16,Forest,02:08:08.66,194
+2013,M,17,Phi Kappa Psi,02:07:45.48,193
+2013,M,18,Sigma Alpha Epsilon,02:07:52.62,193
+2013,M,19,Hillel,02:08:10.07,192
+2013,M,20,Air Force,02:08:09.57,191
+2013,M,21,Phi Kappa Sigma,02:08:09.91,191
+2013,M,22,Pi Kappa Phi,02:07:44.35,190
+2013,M,23,CSF,02:07:58.62,190
+2013,M,24,CRU Cycling,02:07:56.59,189
+2013,M,25,Alpha Epsilon Pi,02:07:41.81,188
+2013,M,26,Delta Chi,02:07:59.07,188
+2013,M,27,Delta Sigma Pi,02:07:48.91,187
+2013,M,28,Alpha Tau Omega,02:08:10.85,186
+2013,M,29,Collins,02:07:58.86,183
+2013,M,30,Evans Scholars,02:08:10.00,182
+2013,M,31,Kappa Delta Rho,02:07:49.97,173
+2013,M,32,Sigma Alpha Mu,02:07:42.03,172
+2013,M,33,Pi Kappa Alpha,02:07:42.40,167
+2013,F,1,Delta Gamma,01:16:40.34,100
+2013,F,2,Kappa Alpha Theta,01:16:41.45,100
+2013,F,3,Wing It Cycling,01:16:41.78,100
+2013,F,4,CRU Cycling,01:16:41.95,100
+2013,F,5,Melanzana,01:16:42.37,100
+2013,F,6,Alpha Chi Omega,01:16:42.56,100
+2013,F,7,Kappa Kappa Gamma,01:16:42.68,100
+2013,F,8,Teter,01:16:49.05,100
+2013,F,9,Zeta Tau Alpha,01:17:19.64,100
+2013,F,10,Phi Mu,01:16:44.05,99
+2013,F,11,Kappa Delta,01:16:46.65,98
+2013,F,12,Chi Omega,01:16:47.01,98
+2013,F,13,Gamma Phi Beta,01:16:47.34,98
+2013,F,14,Rainbow,01:16:46.67,97
+2013,F,15,Army,01:17:22.17,97
+2013,F,16,Delta Sigma Pi,01:16:51.86,96
+2013,F,17,CSF,01:17:10.99,96
+2013,F,18,Alpha Gamma Delta,01:17:21.62,96
+2013,F,19,Last Chance,01:17:06.76,95
+2013,F,20,RideOn,01:17:19.88,95
+2013,F,21,Pi Beta Phi,01:16:59.12,94
+2013,F,22,Alpha Xi Delta,01:17:10.20,93
+2013,F,23,Air Force Cycling,01:17:14.03,93
+2013,F,24,Alpha Omicron Pi,01:17:33.84,93
+2013,F,25,Alpha Sigma Alpha,01:17:23.49,91
+2013,F,26,Theta Phi Alpha,01:16:54.35,90
+2013,F,27,Alpha Delta Pi,01:17:23.40,89
+2013,F,28,Alpha Phi,01:17:13.99,87
+2013,F,29,Mezcla,01:16:59.49,86
+2013,F,30,Delta Zeta,01:17:29.10,86
+2013,F,31,Sigma Delta Tau,01:17:04.09,85
+2013,F,32,Alpha Epsilon Phi,01:17:29.40,85
+2013,F,33,Delta Delta Delta,01:17:16.37,80
+2012,M,1,Delta Tau Delta,02:11:28,200
+2012,M,2,Phi Delta Theta,02:11:33,200
+2012,M,3,Sigma Chi,02:11:35,200
+2012,M,4,Cutters,02:11:36,200
+2012,M,5,Theta Chi,02:11:56,200
+2012,M,6,Black Key Bulls,02:11:58,200
+2012,M,7,Beta Theta Pi,02:12:12,200
+2012,M,8,Gray Goat,02:12:29,200
+2012,M,9,Acacia,02:13:00,200
+2012,M,10,Wright Cycling,02:13:13,200
+2012,M,11,CRU Cycling,,198
+2012,M,12,Sigma Phi Epsilon,,197
+2012,M,13,Sigma Nu,,197
+2012,M,14,Phi Gamma Delta,,197
+2012,M,15,Delta Sigma Pi,,197
+2012,M,16,Forest,,196
+2012,M,17,Alpha Epsilon Pi,,196
+2012,M,18,Phi Kappa Sigma,,196
+2012,M,19,Phi Kappa Psi,,196
+2012,M,20,Air Force Cycling,,196
+2012,M,21,Delta Chi,,196
+2012,M,22,Kappa Sigma,,195
+2012,M,23,Delta Upsilon,,195
+2012,M,24,Dodds House,,193
+2012,M,25,Lambda Chi Alpha,,192
+2012,M,26,Amalgam,,192
+2012,M,27,CSF Cycling,,191
+2012,M,28,Phi Kappa Tau,,190
+2012,M,29,Sigma Alpha Epsilon,,189
+2012,M,30,Alpha Tau Omega,,187
+2012,M,31,Pi Kappa Phi,,185
+2012,M,32,Evans Scholars,,174
+2012,M,33,Zeta Beta Tau,,171
+2012,F,1,Delta Gamma,01:12.59,100
+2012,F,2,Kappa Alpha Theta,01:13.00,100
+2012,F,3,Teter,01:13.00,100
+2012,F,4,Wing It Cycling,01:13.01,100
+2012,F,5,Kappa Kappa Gamma,01:13.02,100
+2012,F,6,Delta Sigma Pi,01:13.04,99
+2012,F,7,Alpha Gamma Delta,01:13.09,99
+2012,F,8,Collins,01:13.20,99
+2012,F,9,Chi Omega,01:13.50,99
+2012,F,10,Alpha Chi Omega,01:13.56,99
+2012,F,11,CRU Cycling,01:14.12,99
+2012,F,12,Zeta Tau Alpha,01:14.19,99
+2012,F,13,Kappa Delta,01:14.19,99
+2012,F,14,RideOn,01:14.19,98
+2012,F,15,Melanzana Cycling,01:13.53,97
+2012,F,16,Army Women Cycling,01:14.09,96
+2012,F,17,Rainbow Cycling,01:14.19,95
+2012,F,18,Delta Zeta,01:14.31,95
+2012,F,19,Gamma Phi Beta,01:14.40,95
+2012,F,20,Last Chance,01:14.01,94
+2012,F,21,Alpha Xi Delta,01:14.21,94
+2012,F,22,Sigma Delta Tau,01:13.54,93
+2012,F,23,Willkie,01:14.10,93
+2012,F,24,Pi Beta Phi,01:14.14,93
+2012,F,25,Mezcla,01:13.55,91
+2012,F,26,Air Force Cycling,01:13.59,91
+2012,F,27,Anchors Away,01:13.47,89
+2012,F,28,Alpha Phi,01:14.18,89
+2012,F,29,Alpha Omicron Pi,01:13.55,88
+2012,F,30,Alphie,01:13.57,88
+2012,F,31,Delta Delta Delta,01:13.56,87
+2012,F,32,Theta Phi Alpha,01:13.46,85
+2012,F,33,Alpha Delta Pi,01:14.26,83
+2011,M,1,Cutters,02:12:34,200
+2011,M,2,Phi Delta Theta,02:12:38,200
+2011,M,3,Sigma Chi,02:12:41,200
+2011,M,4,Delta Tau Delta,02:13:22,200
+2011,M,5,Acacia,02:13:50,200
+2011,M,6,Black Key Bulls,02:14:29,200
+2011,M,7,Hoosier Climber?,02:15:24,200
+2011,M,8,Delta Chi,02:15:53,200
+2011,M,9,Sigma Nu Fraternity,02:14:50,199
+2011,M,10,Phi Kappa Psi,02:15:24,199
+2011,M,11,Kappa Sigma,02:15:52,199
+2011,M,12,Theta Chi,02:15:52,199
+2011,M,13,Gray Goat Cycling,02:15:53,199
+2011,M,14,Sigma Phi Epsilon,02:15:55,199
+2011,M,15,Phi Gamma Delta,02:15:57,199
+2011,M,16,CRU Cycling,02:15:41,198
+2011,M,17,Beta Theta Pi,02:15:54,198
+2011,M,18,Air Force Cycling,02:15:19,196
+2011,M,19,Emanon,02:15:42,196
+2011,M,20,Dodds House,02:15:57,195
+2011,M,21,Wright Cycling,02:15:35,194
+2011,M,22,LAMP,02:15:54,194
+2011,M,23,CSF Cycling,02:15:57,194
+2011,M,24,#Jungle Express,02:15:51,193
+2011,M,25,Sigma Pi,02:15:57,193
+2011,M,26,Delta Sigma Pi,02:15:19,192
+2011,M,27,Sigma Alpha Epsilon,02:15:57,191
+2011,M,28,Sigma Alpha Mu,02:15:22,190
+2011,M,29,Delta Upsilon,02:15:57,190
+2011,M,30,Pi Kappa Alpha,02:15:57,189
+2011,M,31,Achtung,02:15:36,187
+2011,M,32,Evans Scholars,02:15:16,185
+2011,M,33,Phi Kappa Sigma,02:15:26,184
+2011,F,1,Teter,01:10:43,100
+2011,F,2,Pi Beta Phi,01:11:49,100
+2011,F,3,Delta Gamma,01:11:57,100
+2011,F,4,Army Women,01:12:32,100
+2011,F,5,Wing It Cycling,01:12:37,100
+2011,F,6,Alpha Gamma Delta,01:12:43,100
+2011,F,7,Kappa Kappa Gamma,01:12:44,100
+2011,F,8,Kappa Delta,01:13:24,100
+2011,F,9,Gamma Phi Beta,01:13:58,100
+2011,F,10,Delta Sigma Pi (W),01:14:16,100
+2011,F,11,Kappa Alpha Theta,01:14:23,100
+2011,F,12,Delta Zeta,01:13:49,99
+2011,F,13,SPQR,01:14:08,99
+2011,F,14,Alpha Chi Omega,01:13:59,98
+2011,F,15,Cru Cycling (W),01:14:01,98
+2011,F,16,RideOn,01:14:00,97
+2011,F,17,Phi Mu,01:14:08,97
+2011,F,18,Team Revolution,01:13:47,96
+2011,F,19,Alpha Xi Delta,01:14:00,96
+2011,F,20,Chi Omega,01:14:13,96
+2011,F,21,Delta Delta Delta,01:14:05,94
+2011,F,22,Mezcla,01:14:14,94
+2011,F,23,Zeta Tau Alpha,01:14:04,93
+2011,F,24,Rainbow Cycling,01:14:21,93
+2011,F,25,Last Chance,01:14:17,91
+2011,F,26,Alpha Omicron Pi,01:13:30,89
+2011,F,27,Alpha Delta Pi,01:13:53,89
+2011,F,28,Team Gluff,01:14:20,89
+2011,F,29,Alpha Phi,01:13:50,88
+2011,F,30,Air Force Women,01:13:39,87
+2011,F,31,Sigma Delta Tau,01:14:23,87
+2011,F,32,Alpha Epsilon Phi,01:14:11,77
+2010,M,1,Cutters,02:09:00,200
+2010,M,2,Phi Delta Theta,02:09:01,200
+2010,M,3,Phi Gamma Delta,02:09:02,200
+2010,M,4,Delta Tau Delta,02:09:03,200
+2010,M,5,Beta Theta Pi,02:09:05,200
+2010,M,6,Gray Goat Cycling,02:09:06,200
+2010,M,7,Sigma Chi,02:09:45,200
+2010,M,8,Sigma Nu,02:09:50,200
+2010,M,9,Phi Kappa Psi,02:09:51,200
+2010,M,10,Black Key Bulls,02:09:52,200
+2010,M,11,Hoosier Climber?,02:10:02,200
+2010,M,12,Wright Cycling,,198
+2010,M,13,Delta Chi,,198
+2010,M,14,Cru,,197
+2010,M,15,Sigma Phi Epsilon,,196
+2010,M,16,Delta Upsilon,,196
+2010,M,17,Pi Kappa Phi,,196
+2010,M,18,Kappa Sigma,,195
+2010,M,19,Acacia,,195
+2010,M,20,Theta Chi,,195
+2010,M,21,Dodds House,,193
+2010,M,22,Delta Sigma Pi (M),,193
+2010,M,23,Evans Scholars,,193
+2010,M,24,Air Force Cycling,,192
+2010,M,25,Zeta Beta Tau,,191
+2010,M,26,Achtung!,,190
+2010,M,27,Collins Bunny Gamma,,190
+2010,M,28,Emanon,,189
+2010,M,29,Phi Sigma Kappa,,187
+2010,M,30,Sigma Alpha Mu,,187
+2010,M,31,Cycling For Freedom,,186
+2010,M,32,Lambda Chi Alpha,,178
+2010,M,33,Phi Kappa Sigma,,164
+2010,F,1,Teter,01:12:19,100
+2010,F,2,Alpha Gamma Delta,01:12:28,100
+2010,F,3,Delta Gamma,01:12:29,100
+2010,F,4,Kappa Alpha Theta,01:12:30,100
+2010,F,5,Kappa Kappa Gamma,01:12:31,100
+2010,F,6,Pi Beta Phi,01:13:54,100
+2010,F,7,Army Women,01:13:57,100
+2010,F,8,Relativity,01:13:57,100
+2010,F,9,Wing It Cycling,01:13:27,99
+2010,F,10,Kappa Delta,01:13:33,99
+2010,F,11,Delta Sigma Pi,01:13:26,98
+2010,F,12,Gamma Phi Beta,01:13:28,98
+2010,F,13,Team Revolution,01:13:34,98
+2010,F,14,SPQR,01:13:48,97
+2010,F,15,Alpha Xi Delta,01:13:50,97
+2010,F,16,LAMP (W),01:13:30,96
+2010,F,17,Zeta Tau Alpha,01:13:48,96
+2010,F,18,Phi Mu,01:13:52,96
+2010,F,19,Cycledelics,01:13:33,95
+2010,F,20,Alpha Chi Omega,01:13:34,95
+2010,F,21,Alpha Phi,01:13:44,95
+2010,F,22,Mezcla (W),01:13:54,95
+2010,F,23,Dynamica,01:13:13,94
+2010,F,24,Chi Omega,01:13:14,94
+2010,F,25,Delta Zeta,01:13:14,92
+2010,F,26,Delta Delta Delta,01:13:36,92
+2010,F,27,Lioness Cycling,01:13:50,92
+2010,F,28,Alpha Omicron Pi,01:13:30,91
+2010,F,29,Air Force Women,01:13:31,91
+2010,F,30,Alpha Epsilon Phi,01:13:55,91
+2010,F,31,Last Chance,01:13:12,89
+2010,F,32,Team Gluff,01:13:17,89
+2010,F,33,Alpha Delta Pi,01:13:35,88
+2009,M,1,Cutters,02:15:18,200
+2009,M,2,Delta Tau Delta,02:15:19,200
+2009,M,3,Phi Gamma Delta,02:15:20,200
+2009,M,4,Team Major Taylor,02:15:20,200
+2009,M,5,Black Key Bulls,02:15:20,200
+2009,M,6,Phi Kappa Psi,02:15:21,200
+2009,M,7,Delta Upsilon,02:15:22,200
+2009,M,8,Alpha Tau Omega,02:15:23,200
+2009,M,9,Gray Goat Cycling,02:15:24,200
+2009,M,10,Sigma Chi,02:15:26,200
+2009,M,11,Sigma Pi,,200
+2009,M,12,Collins Bunny,,200
+2009,M,13,Delta Sigma Pi,,200
+2009,M,14,Acacia,,199
+2009,M,15,Phi Delta Theta,,198
+2009,M,16,Sigma Nu,,197
+2009,M,17,Sigma Phi Epsilon,,196
+2009,M,18,Delta Chi,,196
+2009,M,19,Achtung,,194
+2009,M,20,Sigma Alpha Mu,,193
+2009,M,21,Twisted Steel,,193
+2009,M,22,Evans Scholars,,193
+2009,M,23,Theta Chi,,193
+2009,M,24,Dodds House,,192
+2009,M,25,Wright Cycling,,191
+2009,M,26,Vicious & Delicious,,190
+2009,M,27,Pi Kappa Phi,,189
+2009,M,28,Kappa Sigma,,189
+2009,M,29,Beta Theta Pi,,187
+2009,M,30,CRU Cycling,,186
+2009,M,31,Phi Sigma Kappa,,186
+2009,M,32,Phi Kappa Sigma,,185
+2009,M,33,Pi Kappa Alpha,,185
+2009,F,1,Pi Beta Phi,01:13:16,100
+2009,F,2,Delta Sigma Pi,01:13:17,100
+2009,F,3,Kappa Delta,01:13:18,100
+2009,F,4,Kappa Kappa Gamma,01:13:19,100
+2009,F,5,Kappa Alpha Theta,01:13:20,100
+2009,F,6,Delta Gamma,01:13:51,100
+2009,F,7,Teter,01:14:14,100
+2009,F,8,Wing It,01:14:17,100
+2009,F,9,Army Women,01:14:44,99
+2009,F,10,Athena,01:14:07,98
+2009,F,11,Gamma Phi Beta,01:14:15,98
+2009,F,12,Alpha Omicron Pi,01:14:16,98
+2009,F,13,Zeta Tau Alpha,01:14:32,97
+2009,F,14,Alpha Gamma Delta,01:14:16,96
+2009,F,15,Couch,01:14:38,96
+2009,F,16,Phi Mu,01:14:07,92
+2009,F,17,Collins,01:14:28,92
+2009,F,18,Cycledelics,01:14:21,91
+2009,F,19,Alpha Xi Delta,01:14:27,91
+2009,F,20,Alpha Chi Omega,01:13:50,90
+2009,F,21,Chi Omega,01:13:54,88
+2009,F,22,Mezcla,01:14:06,88
+2009,F,23,Team Revolution,01:14:21,87
+2009,F,24,Alpha Phi,01:14:38,87
+2009,F,25,SoFA,01:14:43,85
+2009,F,26,Lioness Cycling,01:14:05,82
+2009,F,27,Delta Zeta,01:14:02,81
+2009,F,28,Sigma Delta Tau,01:14:11,80
+2009,F,29,Alpha Epsilon Phi,01:13:55,78
+2009,F,30,Delta Delta Delta,01:13:41,75
+2009,F,31,Alpha Delta Pi,01:13:43,73
+2008,M,1,Cutters,02:10:00,200
+2008,M,2,Team Major Taylor,02:10:22,200
+2008,M,3,Alpha Tau Omega,02:10:23,200
+2008,M,4,Dodds House,02:10:23,200
+2008,M,5,Phi Kappa Psi,02:10:25,200
+2008,M,6,RideDMC,02:11:00,200
+2008,M,7,Wright,02:11:20,200
+2008,M,8,Black Key Bulls,02:11:32,200
+2008,M,9,Delta Upsilon,02:11:33,200
+2008,M,10,Delta Sigma Pi (M),02:11:51,200
+2008,M,11,Phi Gamma Delta,02:11:26,199
+2008,M,12,Gray Goat Cycling,02:11:54,198
+2008,M,13,Delta Tau Delta,02:11:53,196
+2008,M,14,Sigma Alpha Mu,02:11:53,196
+2008,M,15,Phi Delta Theta,02:11:38,194
+2008,M,16,Acacia,02:11:52,193
+2008,M,17,Achtung,02:11:57,193
+2008,M,18,Sigma Nu,02:11:43,192
+2008,M,19,Evans Scholars,02:11:58,192
+2008,M,20,Sigma Pi,02:11:59,192
+2008,M,21,Collins (M),02:11:19,191
+2008,M,22,Phi Kappa Tau,02:11:52,191
+2008,M,23,Beta Theta Pi,02:11:57,191
+2008,M,24,Sigma Chi,02:11:18,190
+2008,M,25,CRU Cycling,02:11:19,187
+2008,M,26,Pi Kappa Alpha,02:11:23,186
+2008,M,27,Team SoFA (M),02:11:43,186
+2008,M,28,Phi Sigma Kappa,02:11:32,183
+2008,M,29,Theta Chi,02:11:44,182
+2008,M,30,Sigma Phi Epsilon,02:11:51,182
+2008,M,31,Pi Kappa Phi,02:11:17,180
+2008,M,32,Phi Kappa Sigma,02:11:57,179
+2008,M,33,Chi Phi,02:11:57,171
+2008,F,1,Delta Gamma,01:12.20,100
+2008,F,2,Teter,01:12.22,100
+2008,F,3,Delta Sigma Pi,01:12.23,100
+2008,F,4,Kappa Alpha Theta,01:12.26,100
+2008,F,5,Kappa Delta,01:12.32,100
+2008,F,6,Wing It,01:13.06,100
+2008,F,7,Cycledelics,01:13.07,100
+2008,F,8,Pi Beta Phi,01:13.22,100
+2008,F,9,Alpha Omicron Pi,01:13.53,100
+2008,F,10,Alpha Gamma Delta,01:14.04,99
+2008,F,11,Zeta Tau Alpha,01:14.08,99
+2008,F,12,Kappa Kappa Gamma,01:14.09,98
+2008,F,13,Couch,01:14.10,98
+2008,F,14,Army,01:14.12,98
+2008,F,15,Delta Zeta,01:14.12,98
+2008,F,16,Gamma Phi Beta,01:13.46,97
+2008,F,17,Athena,01:13.50,96
+2008,F,18,Alpha Phi,01:13.46,95
+2008,F,19,Alpha Xi Delta,01:14.06,95
+2008,F,20,Phi Mu,01:13.46,93
+2008,F,21,Collins,01:13.37,90
+2008,F,22,Clutch,01:13.50,89
+2008,F,23,Alpha Chi Omega,01:14.10,89
+2008,F,24,Team Revolution,01:14.12,88
+2008,F,25,Team SOFA,01:14.07,87
+2008,F,26,Sigma Delta Tau,01:13.50,86
+2008,F,27,Chi Omega,01:14.06,86
+2008,F,28,Tau Tau Tau,01:13.36,85
+2008,F,29,Delta Delta Delta,01:14.07,82
+2008,F,30,Mezcla,01:13.32,81
+2008,F,31,Alplha Epsilon Phi,01:14.12,79
+2008,F,32,Alpha Delta Pi,01:14.00,77
+2007,M,1,Cutters,02:07:48,200
+2007,M,2,Phi Kappa Psi,02:07:48,200
+2007,M,3,Black Key Bulls,02:07:48,200
+2007,M,4,Dodds House,02:07:49,200
+2007,M,5,Team Major Taylor,02:07:49,200
+2007,M,6,Delta Upsilon,,0
+2007,M,7,Phi Gamma Delta,,0
+2007,M,8,Delta Sigma Pi,,0
+2007,M,9,Achtung,,0
+2007,M,10,Beta Theta Pi,,0
+2007,M,11,Sigma Alpha Mu,,0
+2007,M,12,Delta Tau Delta,,0
+2007,M,13,Cinzano,,0
+2007,M,14,Phi Delta Theta,,0
+2007,M,15,Sigma Nu,,0
+2007,M,16,Phi Sigma Kappa,,0
+2007,M,17,Pi Kappa Phi,,0
+2007,M,18,Wright Cycling,,0
+2007,M,19,Acacia,,0
+2007,M,20,Pi Kappa Alpha,,0
+2007,M,21,IU Men's Rugby,,0
+2007,M,22,Alpha Epsilon Pi,,0
+2007,M,23,Evans Scholars,,0
+2007,M,24,Theta Chi,,0
+2007,M,25,Phi Kappa Sigma,,0
+2007,M,26,Team SOFA,,0
+2007,M,27,Kappa Sigma,,0
+2007,M,28,Sigma Phi Epsilon,,0
+2007,M,29,Chi Phi,,0
+2007,M,30,Sigma Chi,,0
+2007,M,31,Sigma Pi,,0
+2007,M,32,Lambda Chi Alpha,,0
+2007,M,33,ACC,,0
+2007,F,1,Kappa Delta,01:11:09,100
+2007,F,2,Teter (W),01:11:37,100
+2007,F,3,Kappa Alpha Theta,01:11:38,100
+2007,F,4,Cycledelics,01:11:49,100
+2007,F,5,Kappa Kappa Gamma,01:11:51,100
+2007,F,6,Delta Gamma,01:12:28,100
+2007,F,7,Delta Sigma Pi (W),01:12:30,100
+2007,F,8,Alpha Gamma Delta,01:12:30,100
+2007,F,9,Athena,01:12:33,100
+2007,F,10,Alpha Phi,01:12:40,100
+2007,F,11,Delta Zeta,01:12:41,100
+2007,F,12,Army Women,01:13:24,100
+2007,F,13,Alpha Omicron Pi,01:13:25,100
+2007,F,14,Gamma Phi Beta,01:13:28,100
+2007,F,15,Bella Veloce,01:13:07,99
+2007,F,16,Alpha Chi Omega,01:13:26,99
+2007,F,17,Team Gluff,01:13:17,98
+2007,F,18,Wing It,01:13:26,98
+2007,F,19,High Ride,01:13:29,98
+2007,F,20,Zeta Tau Alpha,01:13:34,97
+2007,F,21,Chi Omega,01:13:01,96
+2007,F,22,ACC (W),01:13:18,96
+2007,F,23,Phi Mu,01:13:13,95
+2007,F,24,Alpha Xi Delta,01:13:17,95
+2007,F,25,Collins (W),01:13:35,95
+2007,F,26,Pi Beta Phi,01:13:13,94
+2007,F,27,Team Revolution,01:13:17,93
+2007,F,28,Sigma Delta Tau,01:13:17,90
+2007,F,29,Alpha Epsilon Phi,01:13:35,87
+2007,F,30,Alpha Delta Pi,01:12:50,84
+2007,F,31,Delta Delta Delta,01:13:28,81
+2006,M,1,Alpha Tau Omega,02:08:11,200
+2006,M,2,Dodds House,02:08:46,200
+2006,M,3,Acacia,02:08:46,200
+2006,M,4,Phi Gamma Delta,02:08:47,200
+2006,M,5,Cutters,02:08:52,200
+2006,M,6,Delta Upsilon,02:09:25,200
+2006,M,7,Black Key Bulls,02:09:25,200
+2006,M,8,Forest,02:09:25,198
+2006,M,9,Beta Theta Pi,02:09:33,198
+2006,M,10,Phi Kappa Sigma,02:09:28,197
+2006,M,11,Sigma Pi,02:09:27,196
+2006,M,12,Cinzano,02:09:02,195
+2006,M,13,Phi Kappa Psi,02:09:20,195
+2006,M,14,Briscoe,02:09:27,195
+2006,M,15,Alpha Epsilon Pi,02:08:58,193
+2006,M,16,LiSiHi,02:09:21,193
+2006,M,17,Pi Kappa Phi,02:08:58,192
+2006,M,18,Collins,02:09:32,192
+2006,M,19,Evans Scholars,02:09:01,191
+2006,M,20,Major Taylor United,02:09:03,191
+2006,M,21,Chi Phi,02:09:04,191
+2006,M,22,Achtung,02:09:08,191
+2006,M,23,Wright,02:09:24,191
+2006,M,24,Parrothead Cycling,02:08:57,190
+2006,M,25,Sigma Alpha Mu,02:09:21,190
+2006,M,26,Lambda Chi Alpha,02:09:28,190
+2006,M,27,Rainbow Cycling,02:09:22,189
+2006,M,28,Delta Sigma Pi (M),02:09:28,189
+2006,M,29,Sigma Chi,02:09:06,188
+2006,M,30,Pi Kappa Alpha,02:09:12,186
+2006,M,31,Delta Tau Delta,02:08:55,183
+2006,M,32,Theta Chi,02:09:31,183
+2006,M,33,Ashton,02:09:32,181
+2006,F,1,Kappa Kappa Gamma,01:08:34,100
+2006,F,2,Kappa Delta,01:08:35,100
+2006,F,3,Alpha Gamma Delta,01:08:36,100
+2006,F,4,Alpha Phi,01:08:38,100
+2006,F,5,Wright Cycledelics,01:08:53,100
+2006,F,6,Alpha Chi Omega,01:09:07,100
+2006,F,7,Kappa Alpha Theta,01:09:17,100
+2006,F,8,Bella Veloce,01:09:18,100
+2006,F,9,Athena,01:09:26,100
+2006,F,10,Roadrunners,01:09:26,100
+2006,F,11,Delta Gamma,01:09:10,99
+2006,F,12,Teter,01:09:17,99
+2006,F,13,Army Women,01:09:08,98
+2006,F,14,Zeta Tau Alpha,01:09:18,98
+2006,F,15,Delta Zeta,01:09:26,98
+2006,F,16,Alpha Omicron Pi,01:09:26,98
+2006,F,17,Wing It,01:09:00,97
+2006,F,18,Delta Sigma Pi (W),01:09:08,97
+2006,F,19,Stellar,01:09:18,97
+2006,F,20,Chi Omega,01:09:20,96
+2006,F,21,Team Revolution,01:09:01,95
+2006,F,22,High Ride - Omega,01:09:26,95
+2006,F,23,Phi Mu,01:08:55,93
+2006,F,24,Alpha Kappa Psi,01:09:26,93
+2006,F,25,Vitalita!,01:09:10,92
+2006,F,26,Mezcla,01:09:11,91
+2006,F,27,Pi Beta Phi,01:09:11,90
+2006,F,28,Delta Delta Delta,01:08:52,89
+2006,F,29,Briscoe RA's,01:09:26,89
+2006,F,30,Alpha Xi Delta,01:09:03,87
+2006,F,31,Sigma Delta Tau,01:08:53,85
+2006,F,32,Alpha Zeta Nu,01:09:11,82
+2006,F,33,Alpha Delta Pi,01:09:22,81
+2005,M,1,Dodds House,02:09:51,200
+2005,M,2,Phi Gamma Delta,02:09:51,200
+2005,M,3,Delta Upsilon,02:10:05,200
+2005,M,4,Briscoe,02:10:05,200
+2005,M,5,Alpha Tau Omega,02:10:26,200
+2005,M,6,Phi Kappa Psi,02:10:39,200
+2005,M,7,Cutters,02:10:40,200
+2005,M,8,LiSiHi,02:10:34,199
+2005,M,9,Acacia,02:10:26,197
+2005,M,10,Phi Kappa Sigma,02:10:30,197
+2005,M,11,Chi Phi,02:10:36,197
+2005,M,12,Phi Sigma Kappa,02:10:33,196
+2005,M,13,Sigma Pi,02:10:35,196
+2005,M,14,Forest,02:10:40,196
+2005,M,15,Cinzano,02:10:45,196
+2005,M,16,Team Major Taylor,02:10:32,195
+2005,M,17,Alpha Epsilon Pi,02:10:27,194
+2005,M,18,Beta Theta Pi,02:10:40,194
+2005,M,19,Collins,02:10:12,193
+2005,M,20,Parrothead Cycling,02:10:35,193
+2005,M,21,Delta Sigma Pi,02:10:45,192
+2005,M,22,Wright Cycling,02:10:45,191
+2005,M,23,Achtung,02:10:15,190
+2005,M,24,Sigma Nu,02:10:41,190
+2005,M,25,Pi Kappa Alpha,02:10:45,190
+2005,M,26,Pi Kappa Phi,02:10:45,190
+2005,M,27,Sigma Chi,02:10:43,189
+2005,M,28,Sigma Alpha Mu,02:10:40,185
+2005,M,29,Delta Tau Delta,02:10:42,182
+2005,M,30,Lambda Chi Alpha,02:10:43,180
+2005,M,31,Zeta Beta Tau,02:10:15,178
+2005,M,32,Delta Kappa epsilon,02:10:15,175
+2005,M,33,Evans Scholars,02:10:18,174
+2005,F,1,Teter,01:08:18,100
+2005,F,2,Kappa Alpha Theta,01:08:25,100
+2005,F,3,Kappa Kappa Gamma,01:08:28,100
+2005,F,4,Kappa Delta,01:09:07,100
+2005,F,5,Bella Veloce,01:09:07,100
+2005,F,6,Alpha Phi,01:09:18,100
+2005,F,7,Roadrunners,01:09:07,99
+2005,F,8,Alpha Gamma Delta,01:09:07,99
+2005,F,9,Delta Zeta,01:09:09,99
+2005,F,10,Cycledelics,01:09:12,99
+2005,F,11,Athena,01:09:00,98
+2005,F,12,Delta Gamma,01:09:15,98
+2005,F,13,Alpha Chi Omega,01:08:53,97
+2005,F,14,Gamma Phi Beta,01:08:56,97
+2005,F,15,Chi Omega,01:09:24,96
+2005,F,16,Zeta Tau Alpha,01:08:50,65
+2005,F,17,Alpha Kappa Psi,01:08:54,95
+2005,F,18,Alpha Omicron Pi,01:08:55,95
+2005,F,19,Alpha Xi Delta,01:08:48,94
+2005,F,20,Team Stellar,01:08:56,94
+2005,F,21,Army ROTC,01:09:00,94
+2005,F,22,Delta Sigma Pi,01:09:01,94
+2005,F,23,Collins,01:09:44,94
+2005,F,24,Phi Mu,01:08:44,93
+2005,F,25,Mezcla,01:08:50,93
+2005,F,26,Speed,01:09:02,92
+2005,F,27,Team Marshall,01:08:46,91
+2005,F,28,Pi Beta Phi,01:09:21,91
+2005,F,29,Sigma Delta Tau,01:09:19,87
+2005,F,30,Alpha Delta Pi,01:09:23,87
+2005,F,31,Delta Delta Delta,01:08:39,85
+2005,F,32,Alpha Phi Omega,01:08:44,84
+2004,M,1,Cutters,02:06:34,200
+2004,M,2,Alpha Tau Omega,,0
+2004,M,3,Phi Gamma Delta,,0
+2004,M,4,Team Major Taylor,,0
+2004,M,5,Briscoe,,0
+2004,M,6,Acacia,,0
+2004,M,7,ACR,,0
+2004,M,8,Sigma Chi,,0
+2004,M,9,Chi Phi,,0
+2004,M,10,Dodds House,,0
+2004,M,11,Sigma Nu,,0
+2004,M,12,Delta Upsilon,,0
+2004,M,13,Delta Tau Delta,,0
+2004,M,14,Sincere,,0
+2004,M,15,Phi Delta Theta,,0
+2004,M,16,Phi Kappa Psi,,0
+2004,M,17,Army,,0
+2004,M,18,Forest,,0
+2004,M,19,Delta Sigma Pi,,0
+2004,M,20,Achtung,,0
+2004,M,21,Sigma Pi,,0
+2004,M,22,Teter,,0
+2004,M,23,Kimball,,0
+2004,M,24,Collins,,0
+2004,M,25,Wilkie Cycling,,0
+2004,M,26,Evans Scholars,,0
+2004,M,27,Wright Cycling,,0
+2004,M,28,Phi Kappa Sigma,,0
+2004,M,29,IU Soccer,,0
+2004,M,30,Foster International,,0
+2004,M,31,Zeta Beta Tau,,0
+2004,M,32,Lambda Chi Alpha,,0
+2004,M,33,Sigma Alpha Mu,,0
+2004,F,1,Kappa Kappa Gamma,01:09.29,100
+2004,F,2,Teter,,0
+2004,F,3,Kappa Alpha Theta,,0
+2004,F,4,Alpha Gamma Delta,,0
+2004,F,5,Delta Zeta,,0
+2004,F,6,Delta Gamma,,0
+2004,F,7,Roadrunners,,0
+2004,F,8,Cycledelics,,0
+2004,F,9,Gamma Phi Beta,,0
+2004,F,10,Phi Mu,,0
+2004,F,11,Alpha Chi Omega,,0
+2004,F,12,Bella Veloce,,0
+2004,F,13,Kappa Delta,,0
+2004,F,14,Alpha Phi,,0
+2004,F,15,Collins Women,,0
+2004,F,16,Zeta Tau Alpha,,0
+2004,F,17,Speed,,0
+2004,F,18,Army ROTC,,0
+2004,F,19,Chi Omega,,0
+2004,F,20,Alpha Xi Delta,,0
+2004,F,21,Athena,,0
+2004,F,22,Alpha Omicron Pi,,0
+2004,F,23,Delta Sigma Pi,,0
+2004,F,24,Alpha Kappa Psi,,0
+2004,F,25,Delta Delta Delta,,0
+2004,F,26,Pi Beta Phi,,0
+2004,F,27,McNutt Cycling,,0
+2004,F,28,Alpha Phi Omega,,0
+2004,F,29,Alpha Delta Pi,,0
+2004,F,30,Mezcla,,0
+2004,F,31,Sigma Delta Tau,,0
+2004,F,32,Alpha Chi Sigma,,0
+2003,M,1,Gafombi,02:05:33,200
+2003,M,2,Team Major Taylor,02:05:33,200
+2003,M,3,Acacia,02:05:33,200
+2003,M,4,Corleones,02:05:33,200
+2003,M,5,Dodds House,02:05:33,200
+2003,M,6,ACR Cycling,02:05:33,200
+2003,M,7,Cinzano,02:05:34,200
+2003,M,8,Alpha Tau Omega,02:05:36,200
+2003,M,9,Phi Gamma Delta,02:05:37,200
+2003,M,10,Sigma Chi,02:05:37,200
+2003,M,11,Pi Kappa Phi,02:05:53,200
+2003,M,12,Cutters,02:05:56,200
+2003,M,13,Phi Delta Theta,02:06:20,200
+2003,M,14,Kimball,02:06:16,199
+2003,M,15,Sigma Pi,02:06:16,198
+2003,M,16,Briscoe,02:06:24,197
+2003,M,17,Chi Phi,02:05:58,195
+2003,M,18,Kappa Sigma,02:06:16,194
+2003,M,19,Delta Upsilon,02:06:22,194
+2003,M,20,Forest,02:04:45,190
+2003,M,21,Collins,02:06:30,190
+2003,M,22,Teter,02:05:38,185
+2003,M,23,Sigma Nu,02:05:32,183
+2003,M,24,Willkie,02:06:08,183
+2003,M,25,Fratello,02:06:30,182
+2003,M,26,Alpha Epsilon Pi,02:06:30,182
+2003,M,27,Achtung,02:05:58,181
+2003,M,28,Lambda Chi Alpha,02:03:18,180
+2003,M,29,Alpha Sigma Phi,02:06:22,179
+2003,M,30,Army,02:06:00,177
+2003,M,31,Phi Kappa Psi,02:06:25,176
+2003,M,32,ALTAashton,02:04:32,175
+2003,M,33,Delta Sigma Pi,02:05:37,175
+2003,F,1,Kappa Alpha Theta,01:10:25,100
+2003,F,2,Roadrunners,01:10:29,100
+2003,F,3,Kappa Delta,01:10:47,100
+2003,F,4,Kappa Kappa Gamma,01:10:50,100
+2003,F,5,Teter (W),01:11:25,100
+2003,F,6,Delta Zeta,01:11:40,100
+2003,F,7,Alpha Gamma Delta,01:11:32,99
+2003,F,8,Gamma Phi Beta,01:11:33,99
+2003,F,9,Athena,01:11:40,99
+2003,F,10,Alpha Chi Omega,01:11:10,98
+2003,F,11,Alpha Phi,01:11:33,98
+2003,F,12,Cycledelics,01:10:59,97
+2003,F,13,Hatrix,01:11:33,97
+2003,F,14,Delta Delta Delta,01:11:13,96
+2003,F,15,Pi Beta Phi,01:11:13,96
+2003,F,16,Phi Mu,01:11:18,96
+2003,F,17,Speed,01:11:32,96
+2003,F,18,Alpha Xi Delta,01:10:59,95
+2003,F,19,Delta Gamma,01:11:18,95
+2003,F,20,Alpha Delta Pi,01:11:03,94
+2003,F,21,Chi Omega,01:11:13,94
+2003,F,22,Alpha Omicron Pi,01:11:28,94
+2003,F,23,Read T-Dubs,01:11:00,90
+2003,F,24,Army ROTC (W),01:11:17,90
+2003,F,25,Alpha Phi Omega,01:11:32,90
+2003,F,26,Delta Sigma Pi (W),01:11:33,90
+2003,F,27,Zeta Tau Alpha,01:11:31,89
+2003,F,28,Sigma Delta Tau,01:11:37,87
+2003,F,29,Alpha Chi Sigma,01:10:49,68
+2002,M,1,The Corleones,02:04.6,200
+2002,M,2,Gafombi,02:05.3,200
+2002,M,3,The Dodds House,02:05.3,200
+2002,M,4,Sigma Phi Epsilon,02:05.2,199
+2002,M,5,Pi Kappa Phi,02:05.5,199
+2002,M,6,Phi Gamma Delta,02:05.4,198
+2002,M,7,The Cutters,02:05.3,197
+2002,M,8,Acacia,02:05.4,197
+2002,M,9,Team Major Taylor,02:05.4,197
+2002,M,10,Sigma Pi,02:05.3,196
+2002,M,11,Phi Delta Theta,02:05.4,196
+2002,M,12,Delta Chi,02:05.5,195
+2002,M,13,Alpha Tau Omega,02:05.5,194
+2002,M,14,Chi Phi,02:05.4,192
+2002,M,15,Achtung,02:05.1,190
+2002,M,16,Teter,02:05.2,190
+2002,M,17,Kappa Sigma,02:05.4,190
+2002,M,18,Briscoe,02:05.4,189
+2002,M,19,Cinzano,02:05.3,188
+2002,M,20,Fratello,02:05.3,185
+2002,M,21,Delta Upsilon,02:05.6,185
+2002,M,22,Delta Sigma Pi,02:05.6,183
+2002,M,23,Sigma Nu,02:05.6,183
+2002,M,24,Willkie,02:05.5,182
+2002,M,25,Phi Kappa Psi,02:05.5,181
+2002,M,26,Si Senor,02:05.3,179
+2002,M,27,Forest,02:05.3,179
+2002,M,28,ALTAshton,02:05.6,178
+2002,M,29,Godspeed,02:05.6,176
+2002,M,30,Lambda Chi Alpha,02:04.3,175
+2002,M,31,Army,02:03.4,170
+2002,M,32,Alpha Phi Omega,02:05.6,170
+2002,M,33,Phi Sigma Kappa,02:05.6,159
+2002,F,1,Roadrunners,01:09.58,100
+2002,F,2,Kappa Kappa Gamma,01:09.59,100
+2002,F,3,Kappa Alpha Theta,01:10.35,100
+2002,F,4,Alpha Gamma Delta,01:10.41,99
+2002,F,5,Delta Gamma,01:10.41,99
+2002,F,6,Phi Mu,01:10.55,99
+2002,F,7,Kappa Delta,01:10.51,98
+2002,F,8,Landsharks,01:10.51,98
+2002,F,9,Alpha Phi,01:10.54,98
+2002,F,10,Con Fuoco,01:10.48,97
+2002,F,11,Chi Omega,01:10.48,97
+2002,F,12,Athena,01:10.51,97
+2002,F,13,Delta Zeta,01:10.52,97
+2002,F,14,Pi Beta Phi,01:11.08,97
+2002,F,15,Alpha Chi Omega,01:10.50,95
+2002,F,16,Single Speed Sprinters,01:10.56,95
+2002,F,17,Alpha Xi Delta,01:11.07,95
+2002,F,18,Alpha Phi Omega,01:10.56,94
+2002,F,19,Hatrix,01:10.52,93
+2002,F,20,Alpha Delta Pi,01:10.53,92
+2002,F,21,Delta Delta Delta,01:10.56,92
+2002,F,22,Zeta Tau Alpha,01:11.07,92
+2002,F,23,Alpha Omicron Pi,01:11.08,91
+2002,F,24,Delta Sigma Pi,01:10.41,90
+2002,F,25,Forest Fire,01:10.56,90
+2002,F,26,Sigma Delta Tau,01:11.08,88
+2002,F,27,Teter,01:11.08,87
+2002,F,28,Army ROTC,01:10.56,86
+2002,F,29,Alpha Epsilon Phi,01:10.06,84
+2001,M,1,Phi Delta Theta,02:16.6,200
+2001,M,2,Teter,02:17.1,200
+2001,M,3,Sigma Phi Epsilon,02:17.2,200
+2001,M,4,Beta Theta Pi,02:17.3,200
+2001,M,5,Delta Chi,02:17.3,200
+2001,M,6,Chi Phi,02:17.0,199
+2001,M,7,Cutters,02:17.0,199
+2001,M,8,Acacia,02:17.4,199
+2001,M,9,Cinzano,02:17.4,198
+2001,M,10,Pi Kappa Phi,02:17.4,198
+2001,M,11,The Dodds House,02:17.0,197
+2001,M,12,Galveston,02:17.4,197
+2001,M,13,Phi Gamma Delta,02:17.1,196
+2001,M,14,Pi Kappa Alpha,02:16.5,195
+2001,M,15,Kappa Sigma,02:17.0,195
+2001,M,16,Briscoe Blur,02:17.0,195
+2001,M,17,Achtung,02:17.1,195
+2001,M,18,Delta Tau Delta,02:17.2,195
+2001,M,19,Sigma Pi,02:17.2,193
+2001,M,20,Sigma Alpha Epsilon,02:17.1,192
+2001,M,21,Lambda Chi Alpha,02:17.4,191
+2001,M,22,Alpha Tau Omega,02:17.2,189
+2001,M,23,Foster,02:17.0,186
+2001,M,24,Delta Upsilon,02:17.1,186
+2001,M,25,Sigma Chi,02:17.2,185
+2001,M,26,Mezcla,02:17.3,185
+2001,M,27,Phi Kappa Psi,02:17.4,185
+2001,M,28,Delta Sigma Pi,02:17.3,183
+2001,M,29,Sigma Nu,02:17.2,182
+2001,M,30,Forest,02:17.3,181
+2001,M,31,Alpha Sigma Phi,02:17.4,180
+2001,M,32,Evans Scholars,02:17.1,179
+2001,M,33,Alpha Epsilon Pi,02:17.1,174
+2001,F,1,Roadrunners,01:15.09,100
+2001,F,2,Kappa Alpha Theta,01:15.10,100
+2001,F,3,Kappa Delta,01:15.11,100
+2001,F,4,Alpha Gamma Delta,01:15.29,100
+2001,F,5,Con Fuoco,01:15.58,99
+2001,F,6,Kappa Kappa Gamma,01:15.59,99
+2001,F,7,Gamma Phi Beta,01:15.23,98
+2001,F,8,Delta Gamma,01:15.30,98
+2001,F,9,Wright Cycledelics,01:15.58,98
+2001,F,10,Alpha Omicron Pi,01:16.06,98
+2001,F,11,Alpha Delta Pi,01:16.06,98
+2001,F,12,Phi Mu,01:15.31,97
+2001,F,13,Athena,01:15.28,96
+2001,F,14,Delta Zeta,01:15.32,96
+2001,F,15,Alpha Phi,01:16.06,96
+2001,F,16,Alpha Chi Omega,01:16.06,96
+2001,F,17,Chi Omega,01:15.32,95
+2001,F,18,Delta Delta Delta,01:15.39,95
+2001,F,19,Zeta Tau Alpha,01:15.39,95
+2001,F,20,Pi Beta Phi,01:16.04,95
+2001,F,21,Single Speed Sprinters,01:15.23,94
+2001,F,22,Alpha Xi Delta,01:16.06,93
+2001,F,23,Alpha Phi Omega,01:16.06,92
+2001,F,24,Forest,01:16.06,92
+2001,F,25,Ashton,01:15.49,90
+2001,F,26,Teter,01:15.50,90
+2001,F,27,Delta Sigma Pi,01:15.55,89
+2001,F,28,Sigma Delta Tau,01:15.23,88
+2001,F,29,Army ROTC,01:15.35,86
+2001,F,30,Alpha Epsilon Phi,01:15.54,84
+2000,M,1,Cutters,02:08.3,200
+2000,M,2,Phi Gamma Delta,,200
+2000,M,3,Sigma Alpha Epsilon,,200
+2000,M,4,Delta Chi,,200
+2000,M,5,Phi Delta Theta,,199
+2000,M,6,Delta Tau Delta,,198
+2000,M,7,Theta Chi,,198
+2000,M,8,Sigma Phi Epsilon,,198
+2000,M,9,Sigma Chi,,197
+2000,M,10,The Dodds House,,195
+2000,M,11,Acacia,,194
+2000,M,12,Cinzano,,193
+2000,M,13,Pi Kappa Phi,,192
+2000,M,14,Alpha Tau Omega,,192
+2000,M,15,Fratello,,190
+2000,M,16,Phi Kappa Psi,,189
+2000,M,17,Beta Theta Pi,,189
+2000,M,18,Teter Cycling,,188
+2000,M,19,Lambda Chi Alpha,,188
+2000,M,20,Kappa Sigma,,187
+2000,M,21,Region Crew,,184
+2000,M,22,Ashton Cycling,,183
+2000,M,23,Sigma Nu,,181
+2000,M,24,Alta,,180
+2000,M,25,Delta Upsilon,,180
+2000,M,26,Evans Scholars,,179
+2000,M,27,Alpha Epsilon Pi,,176
+2000,M,28,Delta Sigma Pi,,173
+2000,M,29,Zeigler,,172
+2000,M,30,Zeta Beta Tau,,171
+2000,M,31,Sigma Pi,,170
+2000,M,32,Sigma Alpha Mu,,155
+2000,M,33,Chi Phi,,0
+2000,F,1,Kappa Alpha Theta,,100
+2000,F,2,Kappa Kappa Gamma,,100
+2000,F,3,Gamma Phi Beta,,100
+2000,F,4,Roadrunners,,100
+2000,F,5,Delta Gamma,,100
+2000,F,6,Alpha Gamma Delta,,100
+2000,F,7,Chi Omega,,99
+2000,F,8,Delta Delta Delta,,99
+2000,F,9,Alpha Delta Pi,,99
+2000,F,10,Cycledelics,,99
+2000,F,11,Alpha Chi Omega,,99
+2000,F,12,Delta Zeta,,99
+2000,F,13,Kappa Delta,,98
+2000,F,14,Pi Beta Phi,,98
+2000,F,15,Landsharks,,98
+2000,F,16,Athena,,98
+2000,F,17,Phi Mu,,98
+2000,F,18,GDI's,,98
+2000,F,19,Teter-Read,,97
+2000,F,20,Zeta Tau Alpha,,97
+2000,F,21,Con Fuoco,,96
+2000,F,22,Alpha Phi,,95
+2000,F,23,Alpha Phi Omega,,95
+2000,F,24,Delta Sigma Pi (W),,92
+2000,F,25,Sigma Delta Tau,,90
+2000,F,26,Alpha Omicron Pi,,87
+2000,F,27,4ce,,83
+1999,M,1,Sigma Phi Epsilon,02:12:27.056,200
+1999,M,2,Phi Gamma Delta,02:12:27.169,200
+1999,M,3,Chi Phi,02:12:29.799,200
+1999,M,4,Acacia,02:12:30.084,200
+1999,M,5,Dodds House,02:12:30.084,200
+1999,M,6,Theta Chi,02:12:46.284,200
+1999,M,7,Phi Delta Theta,,0
+1999,M,8,Cutters,,0
+1999,M,9,Sigma Chi,,0
+1999,M,10,Delta Chi,,0
+1999,M,11,Sigma Alpha Epsilon,,0
+1999,M,12,Delta Tau Delta,,0
+1999,M,13,Team Dotson,,0
+1999,M,14,Beta Theta Pi,,0
+1999,M,15,Phi Kappa Psi,,0
+1999,M,16,Collins Cycling,,0
+1999,M,17,Alpha Chi Sigma,,0
+1999,M,18,Lambda Chi Alpha,,0
+1999,M,19,Sigma Nu,,0
+1999,M,20,Pi Kappa Phi,,0
+1999,M,21,Alpha Tau Omega,,0
+1999,M,22,Delta Upsilon,,0
+1999,M,23,Fratello,,0
+1999,M,24,Teter,,0
+1999,M,25,Alta,,0
+1999,M,26,Cinzano,,0
+1999,M,27,Wright Cycling,,0
+1999,M,28,Hickory,,0
+1999,M,29,Evans Scholars,,0
+1999,M,30,Kappa Sigma,,0
+1999,M,31,Delta Sigma Pi,,0
+1999,M,32,Alpha Sigma Phi,,0
+1999,M,33,Alpha Phi Omega,,0
+1999,F,1,Kappa Kappa Gamma,01:12:06.545,100
+1999,F,2,Kappa Alpha Theta,01:12:06.699,100
+1999,F,3,Alpha Delta Pi,01:12:08.318,100
+1999,F,4,Phi Mu,,100
+1999,F,5,Pi Beta Phi,,99
+1999,F,6,Team Athena,,99
+1999,F,7,Chi Omega,,99
+1999,F,8,Roadrunners,,99
+1999,F,9,Alpha Phi,,99
+1999,F,10,Gamma Phi Beta,,99
+1999,F,11,Oz,,98
+1999,F,12,Wright Cycledelics,,98
+1999,F,13,Delta Delta Delta,,97
+1999,F,14,Alpha Xi Delta,,95
+1999,F,15,Con Fuoco,,95
+1999,F,16,Delta Zeta,,95
+1999,F,17,Forest,,95
+1999,F,18,Landsharks,,94
+1999,F,19,Vayu,,94
+1999,F,20,Alpha Chi Omega,,94
+1999,F,21,Delta Gamma,,92
+1999,F,22,McNutt,,91
+1999,F,23,Alpha Phi Omega,,91
+1999,F,24,Alpha Gamma Delta,,91
+1999,F,25,Team College Life,,91
+1999,F,26,Briscoe Blaze,,90
+1999,F,27,Zeta Tau Alpha,,90
+1999,F,28,Kappa Delta,,89
+1999,F,29,Delta Sigma Pi,,87
+1999,F,30,Foster 4ce,,87
+1999,F,31,Super Teter,,82
+1999,F,32,Teter Cycling,,79
+1998,M,1,Dodds House,02:06:25.853,200
+1998,M,2,Cutters,02:06:26.093,200
+1998,M,3,Sigma Alpha Epsilon,02:06:26.480,200
+1998,M,4,Beta Theta Pi,02:06:26.770,200
+1998,M,5,Phi Gamma Delta,02:06:27.800,200
+1998,M,6,Acacia,02:06:28.033,200
+1998,M,7,Sigma Phi Epsilon,02:07:02.364,200
+1998,M,8,Sigma Nu,,0
+1998,M,9,Lambda Chi Alpha,,0
+1998,M,10,Pi Kappa Phi,,0
+1998,M,11,Phi Kappa Psi,,0
+1998,M,12,Mezcla,,0
+1998,M,13,Pi Kappa Alpha,,0
+1998,M,14,Chi Phi,,0
+1998,M,15,Delta Tau Delta,,0
+1998,M,16,Alta,,0
+1998,M,17,Alpha Sigma Phi,,0
+1998,M,18,Delta Chi,,0
+1998,M,19,Collins Buccaneers,,0
+1998,M,20,Alpha Epsilon Pi,,0
+1998,M,21,Cinzano,,0
+1998,M,22,Sigma Chi,,0
+1998,M,23,Wright Cycling,,0
+1998,M,24,Sigma Pi,,0
+1998,M,25,Delta Upsilon,,0
+1998,M,26,Region Crew,,0
+1998,M,27,Alpha Tau Omega,,0
+1998,M,28,Forest,,0
+1998,M,29,Delta Sigma Pi,,0
+1998,M,30,Teter,,0
+1998,M,31,Phi Sigma Kappa,,0
+1998,M,32,Sigma Alpha Mu,,0
+1998,M,33,Theta Chi,,0
+1998,F,1,Kappa Kappa Gamma,01:09:34.507,100
+1998,F,2,Chi Omega,01:09:34.644,100
+1998,F,3,Kappa Alpha Theta,01:09:36.015,100
+1998,F,4,Alpha Chi Omega,01:09:36.292,100
+1998,F,5,Landsharks,01:09:47.592,100
+1998,F,6,Roadrunners,01:09:57.653,100
+1998,F,7,Alpha Gamma Delta,01:10:25.016,100
+1998,F,8,Phi Mu,01:10:25.293,100
+1998,F,9,Delta Gamma,01:10:29.835,100
+1998,F,10,Wright Cycledelics,01:10:46.284,98
+1998,F,11,Pi Beta Phi,01:09:55.641,97
+1998,F,12,Vayu,01:10:27.655,97
+1998,F,13,Team Elite,01:09:47.817,96
+1998,F,14,College Life,01:09:55.338,96
+1998,F,15,Perigee,01:10:32.506,96
+1998,F,16,Delta Zeta,01:09:44.510,95
+1998,F,17,Alpha Phi Omega,01:09:45.090,95
+1998,F,18,Alpha Xi Delta,01:09:52.513,95
+1998,F,19,Delta Delta Delta,01:09:55.167,95
+1998,F,20,Alpha  Phi,01:09:57.833,95
+1998,F,21,Sigma Delta Tau,01:10:29.861,95
+1998,F,22,Zeta Tau Alpha,01:10:08.127,94
+1998,F,23,Alpha Kappa Psi,01:09:43.041,93
+1998,F,24,Oz,01:09:47.286,92
+1998,F,25,Backdraft,01:09:47.825,92
+1998,F,26,Delta Sigma Pi,01:10:17.556,92
+1998,F,27,Army ROTC Warriors,01:09:48.445,91
+1998,F,28,Alpha Delta Pi,01:10:07.558,90
+1998,F,29,Teter Cycling,01:10:10.416,88
+1998,F,30,Foster 4ce,01:09:37.217,87
+1998,F,31,Briscoe,01:09:41.882,86
+1998,F,32,Alpha Chi Sigma,01:10:25.689,84
+1997,M,1,Cutters,02:05:26.758,200
+1997,M,2,Phi Gamma Delta,02:05:26.865,200
+1997,M,3,Delta Chi,02:06:06.574,200
+1997,M,4,Dodds,02:06:08.210,200
+1997,M,5,Sigma Chi,02:06:08.278,200
+1997,M,6,Sigma Nu,02:06:08.237,199
+1997,M,7,Acacia,02:06:08.713,199
+1997,M,8,Phi Delta Theta,02:06:14.724,199
+1997,M,9,Sigma Alpha Epsilon,02:06:17.416,199
+1997,M,10,Beta Theta Pi,02:06:05.168,197
+1997,M,11,Cinzano,02:06:07.688,197
+1997,M,12,Pi Kappa Phi,02:06:09.254,197
+1997,M,13,Pi Kappa Alpha,02:06:08.177,196
+1997,M,14,Sigma Phi Epsilon,02:06:08.426,195
+1997,M,15,Theta Chi,02:06:09.381,195
+1997,M,16,Wright Cycling,02:06:07.586,194
+1997,M,17,Delta Upsilon,02:06:16.530,193
+1997,M,18,Delta Tau Delta,02:06:24.532,193
+1997,M,19,Phi Kappa Psi,02:05:52.416,192
+1997,M,20,Lambda Chi Alpha,02:06:07.509,192
+1997,M,21,Chi Phi,02:06:12.262,191
+1997,M,22,Pneuma,02:06:13.559,191
+1997,M,23,Mezcla,02:06:15.299,188
+1997,M,24,Alpha Tau Omega,02:06:22.906,188
+1997,M,25,Collins Buccaneers,02:06:14.507,186
+1997,M,26,Army ROTC,02:06:18.371,183
+1997,M,27,Kappa Sigma,02:06:24.386,183
+1997,M,28,South Cottage Grove,02:05:42.359,180
+1997,M,29,Sigma Pi,02:06:11.952,179
+1997,M,30,Evans Scholars,02:06:17.037,179
+1997,M,31,Zeta Beta Tau,02:07:53.296,179
+1997,M,32,McNutt Cychos,02:06:15.854,178
+1997,M,33,Alpha Sigma Phi,02:06:23.172,172
+1997,F,1,Roadrunners,01:09:57.741,100
+1997,F,2,Kappa Alpha Theta,01:10:07.525,100
+1997,F,3,Phi Mu,01:10:29.297,100
+1997,F,4,Alpha Gamma Delta,01:10:29.668,100
+1997,F,5,Kappa Kappa Gamma,01:10:31.642,100
+1997,F,6,Delta Gamma,01:10:32.650,100
+1997,F,7,Alpha Chi Omega,01:11:12.168,100
+1997,F,8,Landsharks,01:10:51.779,99
+1997,F,9,Alpha Delta Pi,01:11:06.195,99
+1997,F,10,Gamma Phi Beta,01:11:06.358,99
+1997,F,11,Alph Xi Delta,01:11:05.855,99
+1997,F,12,Pi Beta Phi,01:10:43.713,97
+1997,F,13,Kappa Delta,01:11:00.247,97
+1997,F,14,Chi Omega,01:11:09.329,97
+1997,F,15,Wright Cycledelics,01:11:15.251,97
+1997,F,16,Briscoe Banshees,01:11:15.386,97
+1997,F,17,Delta Zetsa,01:11:19.355,97
+1997,F,18,Team Z,01:10:57.947,95
+1997,F,19,Collins Buccanettes,01:11:06.926,95
+1997,F,20,Alpha Phi,01:11:08.986,95
+1997,F,21,Delta Delta Delta,01:11:15.517,95
+1997,F,22,Sigma Delta Tau,01:11:15.004,94
+1997,F,23,Mezcla,01:11:08.889,93
+1997,F,24,Foster 4cs,01:10:51.624,92
+1997,F,25,Teter Cycling,01:10:58.992,92
+1997,F,26,Zeta Tau Alpha,01:11:07.127,92
+1997,F,27,Alpha Kappa Psi,01:10:58.117,91
+1997,F,28,Tortues,01:10:32.218,90
+1997,F,29,Alpha Phi Omega,01:11:14.139,89
+1997,F,30,Alpha Epsilon Phi,01:10:58.891,86
+1996,M,1,Phi Delta Theta,02:08:58,200
+1996,M,2,Sigma Chi,02:09.0,200
+1996,M,3,Phi Gamma Delta,02:09.0,200
+1996,M,4,Delta Chi,02:09.0,200
+1996,M,5,Acacia,02:09.0,200
+1996,M,6,Sigma Nu,,0
+1996,M,7,Cutters,,0
+1996,M,8,Dodds House,,0
+1996,M,9,Theta Chi,,0
+1996,M,10,Pneuma,,0
+1996,M,11,Beta Theta Pi,,0
+1996,M,12,Cinzano,,0
+1996,M,13,McNutt,,0
+1996,M,14,Sigma Phi Epsilon,,0
+1996,M,15,Pi Kappa Phi,,0
+1996,M,16,Delta Tau Delta,,0
+1996,M,17,Phi Kappa Psi,,0
+1996,M,18,Pi Kappa Alpha,,0
+1996,M,19,Lambda Chi Alpha,,0
+1996,M,20,Sigma Alpha Epsilon,,0
+1996,M,21,Wilkie,,0
+1996,M,22,Sigma Alpha Mu,,0
+1996,M,23,Alpha Epsilon Pi,,0
+1996,M,24,Sigma Pi,,0
+1996,M,25,Collins,,0
+1996,M,26,Team College Life,,0
+1996,M,27,Wright,,0
+1996,M,28,TFAT,,0
+1996,M,29,Alpha Sigma Phi,,0
+1996,M,30,Chi Phi,,0
+1996,M,31,Mezcla,,0
+1996,M,32,Briscoe,,0
+1996,M,33,Alpha Tau Omega,,0
+1996,F,1,Kappa Kappa Gamma,01:12.12,100
+1996,F,2,Alpha Chi Omega,,0
+1996,F,3,Roadrunners,,0
+1996,F,4,Kappa Alpha Theta,,0
+1996,F,5,Landsharks,,0
+1996,F,6,Alpha Gamma Delta,,0
+1996,F,7,Delta Gamma,,0
+1996,F,8,Wright,,0
+1996,F,9,Teter,,0
+1996,F,10,Delta Zeta,,0
+1996,F,11,Kappa Delta,,0
+1996,F,12,Alpha Phi,,0
+1996,F,13,Team Unique,,0
+1996,F,14,Zeta Tau Alpha,,0
+1996,F,15,Alpha Xi Delta,,0
+1996,F,16,Pi Beta Phi,,0
+1996,F,17,Gamma Phi Beta,,0
+1996,F,18,Phi Mu,,0
+1996,F,19,Alpha Delta Pi,,0
+1996,F,20,Sigma Delta Tau,,0
+1996,F,21,Delta Delta Delta,,0
+1996,F,22,Delta Sigma Pi,,0
+1996,F,23,Alpha Phi Omega,,0
+1995,M,1,Phi Gamma Delta,02:08:45.121,200
+1995,M,2,Acacia,02:08:45.303,200
+1995,M,3,Sigma Alpha Epsilon,02:08:45.373,200
+1995,M,4,Dodds House,02:08:46.277,200
+1995,M,5,Delta Chi,02:08:46.355,200
+1995,M,6,Phi Delta Theta,02:08:47.373,200
+1995,M,7,Sigma Nu,02:08:48:466,200
+1995,M,8,Beta Theta Pi,02:09:21.044,200
+1995,M,9,Lambda Chi,02:09:23.473,200
+1995,M,10,Sigma Chi,02:09:25.415,200
+1995,M,11,Cutters,,0
+1995,M,12,T.F.A.T.,,0
+1995,M,13,Sigma Phi Epsilon,,0
+1995,M,14,Phi Kappa Psi,,0
+1995,M,15,Pi Kappa Phi,,0
+1995,M,16,Delta Upsilon,,0
+1995,M,17,Pi Kappa Alpha,,0
+1995,M,18,T-C-A-T,,0
+1995,M,19,Delta Tau Delta,,0
+1995,M,20,Theta Chi,,0
+1995,M,21,Team College Life,,0
+1995,M,22,Sigma Alpha Mu,,0
+1995,M,23,Wright Cycling,,0
+1995,M,24,Alpha Epsilon Pi,,0
+1995,M,25,Delta Sigma Pi,,0
+1995,M,26,Kappa Sigma,,0
+1995,M,27,Human Wheels,,0
+1995,M,28,Alpha Tau Omega,,0
+1995,M,29,Zeta Beta Tau,,0
+1995,M,30,Alpha Phi Omega,,0
+1995,M,31,Alpha Sigma Phi,,0
+1995,M,32,Kappa Delta Rho,,0
+1995,M,33,Phi Kappa Theta,,0
+1995,F,1,Kappa Alpha Theta,01:12:16.162,100
+1995,F,2,Kappa Kappa Gamma,01:12:23.201,100
+1995,F,3,Gamma Phi Beta,01:12:47.194,99
+1995,F,4,Alpha Gamma Delta,01:12:49.370,99
+1995,F,5,Landsharks,01:12:50.680,99
+1995,F,6,Delta Zeta,01:13:11.729,99
+1995,F,7,Team College Life,01:12:49.610,98
+1995,F,8,Zeta Tau Alpha,01:12:49.630,98
+1995,F,9,Wright Cycledelics,01:12:52.615,98
+1995,F,10,Pi Beta Phi,01:12:53.984,98
+1995,F,11,Alpha Chi Omega,01:12:49.630,97
+1995,F,12,Roadrunners,01:12:50.819,96
+1995,F,13,Delta Gamma,01:13:01.729,96
+1995,F,14,Tasmanian Devils,01:12:43.479,95
+1995,F,15,Delta Delta Delta,01:13:07.221,95
+1995,F,16,Kappa Delta,01:12:39.323,94
+1995,F,17,Phi Mu,01:12:26.044,93
+1995,F,18,Alpha Xi Delta,01:12:28.062,93
+1995,F,19,Sigma Delta Tau,01:12:45.446,93
+1995,F,20,Alpha Phi,01:12:34.551,92
+1995,F,21,Chi Omega,01:12:45.136,91
+1995,F,22,Delta Sigma Pi,01:12:33.135,89
+1994,M,1,Sigma Chi,02:11.06,200
+1994,M,2,Cutters,02:11.08,200
+1994,M,3,Delta Chi,02:11.09,200
+1994,M,4,Cinzano,02:11.11,200
+1994,M,5,Phi Gamma Delta,02:11.43,200
+1994,M,6,Pi Kappa Alpha,02:11.43,200
+1994,M,7,Phi Kappa Psi,02:11.46,200
+1994,M,8,Phi Delta Theta,02:12.23,200
+1994,M,9,Acacia,02:13.08,200
+1994,M,10,Dodds House,02:13.09,200
+1994,M,11,Team College Life,02:14.04,200
+1994,M,12,Pi Kappa Phi,02:14.10,200
+1994,M,13,Delta Upsilon,,0
+1994,M,14,Lambda Chi Alpha,,0
+1994,M,15,Sigma Alpha Epsilon,,0
+1994,M,16,Sigma Nu,,0
+1994,M,17,Sigma Phi Epsilon,,0
+1994,M,18,Collins - Graitas,,0
+1994,M,19,Cyclones,,0
+1994,M,20,Alpha Epsilon Pi,,0
+1994,M,21,Beta Theta Pi,,0
+1994,M,22,Delta Tau Delta,,0
+1994,M,23,Human Wheels,,0
+1994,M,24,McNutt Racing Team,,0
+1994,M,25,Wright Cucling,,0
+1994,M,26,Team Last Chance,,0
+1994,M,27,Theta Chi,,0
+1994,M,28,Read Zoo Gods,,0
+1994,M,29,Alpha Sigma Phi,,0
+1994,M,30,Sammy & Co.,,0
+1994,M,31,Kappa Sigma,,0
+1994,M,32,Sigma Pi,,0
+1994,M,33,Zeta Beta Tau,,0
+1994,F,1,Kappa Alpha Theta,01:13.09,100
+1994,F,2,Alpha Gamma Delta,01:13.33,100
+1994,F,3,Roadrunners,01:13.38,100
+1994,F,4,Alpha Chi Omega,01:13.39,100
+1994,F,5,Gamma Phi Beta,01:13.56,100
+1994,F,6,Delta Delta Delta,01:14.37,100
+1994,F,7,Alpha Phi,01:14.39,100
+1994,F,8,Kappa Kappa Gamma,01:14.42,100
+1994,F,9,Wright Cycledelics,01:15.08,99
+1994,F,10,Landsharks,01:15.21,99
+1994,F,11,Alpha Omicron Pi,01:15.21,99
+1994,F,12,Delta Zeta,01:15.07,98
+1994,F,13,Kappa Delta,01:15.24,97
+1994,F,14,Zeta Tau Alpha,01:15.04,96
+1994,F,15,Team College Life,01:15.21,96
+1994,F,16,Phi Mu,01:15.21,95
+1994,F,17,Delta Sigma Pi,01:15.29,94
+1994,F,18,Willkie Dream Team,01:15.05,93
+1994,F,19,McNutt Racing Team,01:15.08,93
+1994,F,20,Collins Women,01:15.05,92
+1994,F,21,Alpha Delta Pi,01:15.05,92
+1994,F,22,Alpha Epsilon Phi,01:14.48,91
+1994,F,23,Chi Omega,01:14.48,91
+1994,F,24,Human Wheels,01:14.47,86
+1994,F,25,Alpha Xi Delta,01:14.49,86
+1993,M,1,Delta Chi,02:06:19.594,200
+1993,M,2,Cinzano,02:06:19.845,200
+1993,M,3,Pi Kappa Alpha,02:06:20.304,200
+1993,M,4,Sigma Alpha Epsilon,02:06:20.316,200
+1993,M,5,Cutters,02:06:28.116,200
+1993,M,6,Sigma Nu,02:06:55.789,200
+1993,M,7,Delta Upsilon,02:06:58.938,200
+1993,M,8,Delta Tau Delta,02:07:00.562,200
+1993,M,9,Pi Kappa Phi,02:07:01.211,200
+1993,M,10,Acacia,02:07:37.750,200
+1993,M,11,Sigma Chi,,0
+1993,M,12,Theta Chi,,0
+1993,M,13,Phi Kappa Psi,,0
+1993,M,14,Team College Life,,0
+1993,M,15,Phi Gamma Delta,,0
+1993,M,16,Cyclones,,0
+1993,M,17,Foster RSV,,0
+1993,M,18,Sigma Alpha Mu,,0
+1993,M,19,Phi Delta Theta,,0
+1993,M,20,Wright-Dodds,,0
+1993,M,21,T.F.A.T.,,0
+1993,M,22,Tau Kappa Epsilon,,0
+1993,M,23,Collins-Graitas,,0
+1993,M,24,Lambda Chi Alpha,,0
+1993,M,25,Alpha Epsilon Pi,,0
+1993,M,26,Evans Scholars,,0
+1993,M,27,Chi Phi,,0
+1993,M,28,Zeta Beta Tau,,0
+1993,M,29,McNutt,,0
+1993,M,30,Sigma Pi,,0
+1993,M,31,Sigma Phi Epsilon,,0
+1993,M,32,Kappa Delta Rho,,0
+1993,M,33,Beta Theta Pi,,0
+1993,F,1,Landsharks,01:16:48.043,100
+1993,F,2,Alpha Gamma Delta,01:16:48.241,100
+1993,F,3,Gamma Phi Beta,01:16:48.359,100
+1993,F,4,Kappa Alpha Theta,01:16:48.468,100
+1993,F,5,Delta Gamma,01:17:40.932,100
+1993,F,6,Alpha Sigma Alpha,01:18:28.585,100
+1993,F,7,Alpha Phi,01:19:01.951,100
+1993,F,8,Roadrunners,01:19:28.242,100
+1993,F,9,Alpha  Omicron Pi,01:19:46.110,100
+1993,F,10,Willkie Dream Team,01:19:46.175,100
+1993,F,11,Alpha Chi Omega,01:19:46.326,100
+1993,F,12,Zeta Tau Alpha,01:19:47.166,100
+1993,F,13,Kappa Delta,01:19:53.650,100
+1993,F,14,Delta Zeta,01:19:59.464,100
+1993,F,15,Forest,01:19:59.899,100
+1993,F,16,Phi Mu,01:20:00.058,99
+1993,F,17,Delta Delta Delta,01:20:04.888,99
+1993,F,18,Kappa Kappa Gamma,01:19:39.905,98
+1993,F,19,Collins,01:19:51.778,98
+1993,F,20,Wright Cycledelics,01:20:05.308,97
+1993,F,21,Sigma Sigma Sigma,01:19:26.926,95
+1993,F,22,McNutt,01:19:14.401,92
+1993,F,23,Alpha Deltla Pi,01:19:27.258,92
+1993,F,24,Sigma Kappa,01:19:40.343,85
+1992,M,1,Cutters,02:05:52.840,200
+1992,M,2,Acacia,02:06:29.013,200
+1992,M,3,Cinzano,02:07:01.138,200
+1992,M,4,Delta Chi,02:07.37.398,200
+1992,M,5,Delta Upsilon,02:07:40.383,200
+1992,M,6,Phi Gamma Delta,02:07:40.464,200
+1992,M,7,Theta Chi,02:07:48.261,200
+1992,M,8,Pi Kappa Alpha,02:07:51.685,200
+1992,M,9,Sigma Chi,02:08:15.468,200
+1992,M,10,Team College Life,02:08:20.674,200
+1992,M,11,Alpha Epsilon Pi,02:09:10.518,200
+1992,M,12,Dodds House,02:08:23.492,199
+1992,M,13,Phi Kappa Psi,02:08:04.747,198
+1992,M,14,Pi Kappa Phi,02:08:23.705,198
+1992,M,15,Phi Delta Theta,02:08:17.154,197
+1992,M,16,Sigma Alpha Epsilon,02:08:18.382,197
+1992,M,17,Delta Tau Delta,02:08:19.230,197
+1992,M,18,McNutt,02:08:19.354,196
+1992,M,19,Lambda Chi Alpha,02:08:27.921,196
+1992,M,20,Phi Kappa Tau,02:08:20.682,195
+1992,M,21,Kappa Sigma,02:08:21.370,195
+1992,M,22,Willkie-Read,02:08:23.893,194
+1992,M,23,Alpha Sigma Phi,02:08:23.900,194
+1992,M,24,Evans Scholars,02:08:23.078,193
+1992,M,25,Sigma Pi,02:07:51.324,192
+1992,M,26,Chi Phi,02:08:19.507,191
+1992,M,27,Ashton Cyclones,02:08:18.744,189
+1992,M,28,Tau Kappa Epsilon,02:08:24.090,188
+1992,M,29,Sigma Phi Epsilon,02:08:19.017,187
+1992,M,30,Zeta Beta Tau,02:08:36.952,185
+1992,M,31,Foster RSV,02:08:05.861,182
+1992,M,32,Sigma Alpha Mu,02:08:35.497,179
+1992,M,33,IMO Major Taylor,02:08:13.243,169
+1992,F,1,Landsharks,01:11:25.179,100
+1992,F,2,Kappa Alpha Theta,01:11:45.710,100
+1992,F,3,Delta Gamma,01:11:45.978,100
+1992,F,4,Alpha Delta Pi,01:11:49.221,100
+1992,F,5,Forest,01:12:24.935,100
+1992,F,6,Willkie,01:12:48.000,100
+1992,F,7,Delta Zeta,01:12:49.486,100
+1992,F,8,Kappa Delta,01:13:11.637,100
+1992,F,9,Read Fury,01:13:12.823,100
+1992,F,10,Alpha Gamma Delta,01:13:18.765,100
+1992,F,11,Zeta Tau Alpha,01:13:20.521,100
+1992,F,12,Gamma Phi Beta,01:13:51.817,100
+1992,F,13,Kappa Kappa Gamma,01:13:02.030,99
+1992,F,14,Team Brio,01:13:03.966,99
+1992,F,15,FM Nirvana,01:13:18.413,99
+1992,F,16,Alpha  Phi,01:13:40.098,99
+1992,F,17,Alpha Omicron Pi,01:13:03.325,97
+1992,F,18,Phi Mu,01:13:03.432,97
+1992,F,19,Wright Cycledelics,01:13:07.149,97
+1992,F,20,Sigma Sigma Sigma,01:13:08.387,96
+1992,F,21,Sigma Delta Tau,01:12:44.594,94
+1992,F,22,Collins,01:13:50.709,94
+1992,F,23,Alpha Epsilon Phi,01:13:05.676,93
+1992,F,24,Delta Delta Delta,01:13:54.395,92
+1992,F,25,Alpha Sigma Alpha,01:13:30.617,90
+1992,F,26,Sigma Kappa,01:13:24.520,89
+1991,M,1,Acacia,02:04:16.947,200
+1991,M,2,Cutters,02:04:17.692,200
+1991,M,3,Team College Life,02:04:21.147,200
+1991,M,4,Phi Kappa Psi,02:04:51.790,200
+1991,M,5,Sigma Nu,02:04:52.013,200
+1991,M,6,Phi Delta Theta,02:04:52.553,200
+1991,M,7,Delta Upsilon,02:04:53.734,200
+1991,M,8,Phi Gamma Delta,02:05:03.526,200
+1991,M,9,Sigma Chi,02:05:25.992,200
+1991,M,10,Pi Kappa Alpha,02:05:29.854,200
+1991,M,11,Alpha Epsilon Pi,02:05:30.243,200
+1991,M,12,Cinzano,02:05:31.985,200
+1991,M,13,Sigma Alpha Epsilon,02:05:32.190,200
+1991,M,14,Foster RSV,,0
+1991,M,15,Theta Chi,,0
+1991,M,16,Phi Kappa Tau,,0
+1991,M,17,Alpha Tau Omega,,0
+1991,M,18,Evans Scholars,,0
+1991,M,19,Beta Theta Pi,,0
+1991,M,20,Delta Chi,,0
+1991,M,21,Willkie System W,,0
+1991,M,22,Sigma Pi,,0
+1991,M,23,Team Funk,,0
+1991,M,24,Lambda Chi Alpha,,0
+1991,M,25,Dodds House,,0
+1991,M,26,Delta Tau Delta,,0
+1991,M,27,Chi Phi,,0
+1991,M,28,Pi Kappa Phi,,0
+1991,M,29,TMC-McNutt,,0
+1991,M,30,Kappa Sigma,,0
+1991,M,31,Sigma Alpha Mu,,0
+1991,M,32,Sigma Phi Epsilon,,0
+1991,M,33,Team Independence,,0
+1991,F,1,Le Pas,01:08.43,100
+1991,F,2,Foster,,0
+1991,F,3,Landsharks,,0
+1991,F,4,Delta Gamma,,0
+1991,F,5,Team Sprint,,0
+1991,F,6,Kappa Alpha Theta,,0
+1991,F,7,Delta Zeta,,0
+1991,F,8,Revolution,,0
+1991,F,9,Alpha Delta Pi,,0
+1991,F,10,Zeta Tau Alpha,,0
+1991,F,11,Alpha Phi,,0
+1991,F,12,Collins,,0
+1991,F,13,Read,,0
+1991,F,14,Kappa Kappa Gamma,,0
+1991,F,15,Phi Mu,,0
+1991,F,16,Gamma Phi Beta,,0
+1991,F,17,Forest,,0
+1991,F,18,Willkie,,0
+1991,F,19,Alpha Omicron Pi,,0
+1991,F,20,Alpha Xi Delta,,0
+1991,F,21,Alpha Gamma Delta,,0
+1990,M,1,Sigma Nu,02:04.5,200
+1990,M,2,Acacia,,0
+1990,M,3,Cutters,,0
+1990,M,4,Sigma Chi,,0
+1990,M,5,Phi Gamma Delta,,0
+1990,M,6,Teter,,0
+1990,M,7,Phi Delta Theta,,0
+1990,M,8,Alpha Sigma Phi,,0
+1990,M,9,Foster,,0
+1990,M,10,Pi Kappa Phi,,0
+1990,M,11,Sigma Alpha Mu,,0
+1990,M,12,Sigma Pi,,0
+1990,M,13,Beta Theta Pi,,0
+1990,M,14,Lambda Chi Alpha,,0
+1990,M,15,Delta Upsilon,,0
+1990,M,16,Sigma Alpha Epsilon,,0
+1990,M,17,Pi Kappa Alpha,,0
+1990,M,18,Evans Scholers,,0
+1990,M,19,Phi Kappa Tau,,0
+1990,M,20,Delta Tau Delta,,0
+1990,M,21,Cinzano,,0
+1990,M,22,Phi Kappa Psi,,0
+1990,M,23,Zeta Beta Tau,,0
+1990,M,24,Kappa Sigma,,0
+1990,M,25,Theta Chi,,0
+1990,M,26,Americana,,0
+1990,M,27,Ashton,,0
+1990,M,28,Wilkie,,0
+1990,M,29,Alpha Epsilon Pi,,0
+1990,M,30,Collins,,0
+1990,M,31,Dodds House,,0
+1990,M,32,Sigma Phi Epsilon,,0
+1990,M,33,Alpha Tau Omega,,0
+1990,F,1,Team Sprint,01:09.51,100
+1990,F,2,Beyond Control,,0
+1990,F,3,Kappa Alpha Theta,,0
+1990,F,4,Foster,,0
+1990,F,5,Le Pas,,0
+1990,F,6,Delta Zeta,,0
+1990,F,7,Kappa Kappa Gamma,,0
+1990,F,8,Landsharks,,0
+1990,F,9,Revolution,,0
+1990,F,10,Wright,,0
+1990,F,11,Willkie,,0
+1990,F,12,Alpha Delta Pi,,0
+1990,F,13,Alpha Phi,,0
+1990,F,14,Off the Back,,0
+1990,F,15,Kappa Delta,,0
+1990,F,16,Alpha Xi Delta,,0
+1990,F,17,Sigma Delta Tau,,0
+1990,F,18,Gamma Phi Beta,,0
+1990,F,19,Alpha Omicron Pi,,0
+1990,F,20,Sigma Kappa,,0
+1990,F,21,Alpha Epsilon Phi,,0
+1990,F,22,Forest,,0
+1990,F,23,Collins,,0
+1990,F,24,Alpha Gamma Delta,,0
+1990,F,25,Chi Omega,,0
+1990,F,26,Phi Mu,,0
+1989,M,1,Cinzano,02:02:12.9,200
+1989,M,2,Cutters,02:02:13.4,200
+1989,M,3,Acacia,02:02:13.6,200
+1989,M,4,Teter Totano,02:02:13.7,200
+1989,M,5,Sigma Alpha Mu,02:02:13.9,200
+1989,M,6,Phi Gamma Delta,02:02:14.2,200
+1989,M,7,Phi Delta Theta,02:02:14.3,200
+1989,M,8,Americana,02:02:14.4,200
+1989,M,9,Phi Kappa Psi,02:02:16.4,200
+1989,M,10,Sigma Nu,02:02:19.6,200
+1989,M,11,Pi Kappa Alpha,,0
+1989,M,12,Kappa Sigma,,0
+1989,M,13,Delta Tau Delta,,0
+1989,M,14,Dodds House,,0
+1989,M,15,Beta Theta Pi,,0
+1989,M,16,Foster RSV,,0
+1989,M,17,Sigma Chi,,0
+1989,M,18,Sigma Alpha Epsilon,,0
+1989,M,19,Alpha Epsilon Pi,,0
+1989,M,20,Theta Chi,,0
+1989,M,21,Big Red Wave,,0
+1989,M,22,Pi Kappa Phi,,0
+1989,M,23,Delta Chi,,0
+1989,M,24,Evans Scholars,,0
+1989,M,25,Sigma Phi Epsilon,,0
+1989,M,26,Zeta Beta Tau,,0
+1989,M,27,Posers,,0
+1989,M,28,Delta Upsilon,,0
+1989,M,29,Sigma Pi,,0
+1989,M,30,Collins Gratias,,0
+1989,M,31,Chi Phi,,0
+1989,M,32,Phi Kappa Tau,,0
+1989,F,1,Beyond Control,01:06.58,100
+1989,F,2,Team Sprint,01:07.19,100
+1989,F,3,Delta Gamma,01:08.39,100
+1989,F,4,Kappa Alpha Theta,01:08.47,100
+1989,F,5,Foster Niverana,01:08.48,100
+1989,F,6,Alpha Delta Pi,01:09.44,100
+1989,F,7,Alpha Epsilon Pi,01:09.44,100
+1989,F,8,Alpha Xi Delta,01:10.25,100
+1989,F,9,Cycledelics,01:10.55,100
+1989,F,10,Delta Zeta,01:10.59,100
+1989,F,11,Graitas Women,,0
+1989,F,12,Sigma Delta Pi,,0
+1989,F,13,Alpha Phi,,0
+1989,F,14,"System ""W"" Willkie",,0
+1989,F,15,Kappa Delta,,0
+1989,F,16,Delta Delta Delta,,0
+1989,F,17,De Novo,,0
+1989,F,18,Chi Omega,,0
+1989,F,19,Genuine Draft,,0
+1989,F,20,Phi Mu,,0
+1989,F,21,Kappa Kappa Gamma,,0
+1989,F,22,Read Between the Lines,,0
+1989,F,23,Briscoe Bullets,,0
+1989,F,24,Teter BPT,,0
+1989,F,25,Pi Beta Phi,,0
+1989,F,26,Gamma Phi Beta,,0
+1989,F,27,Alpha Omicron Pi,,0
+1988,M,1,Cutters,02:07.30,200
+1988,M,2,Phi Gamma Delta,02:07.31,200
+1988,M,3,Phi Delta Theta,02:07.32,200
+1988,M,4,Lambda Chi Alpha,02:07.34,200
+1988,M,5,Alpha Epsilon Pi,02:07.35,200
+1988,M,6,Pi Kappa Alpha,02:07.36,200
+1988,M,7,Collins Graitas,02:07.37,200
+1988,M,8,Sigma Alpha Epsilon,02:07.37,200
+1988,M,9,Americana,02:07.38,200
+1988,M,10,Cinzano,02:08.10,200
+1988,M,11,Sigma Alpha Mu,02:07.36,199
+1988,M,12,Delta Tau Delta,02:07.36,199
+1988,M,13,Sigma Nu,02:07.38,199
+1988,M,14,Teter-Totano,02:07.39,199
+1988,M,15,Beachriders,02:07.36,198
+1988,M,16,Beta Theta Pi,02:07.37,198
+1988,M,17,Evans Scholars,02:07.37,198
+1988,M,18,Alpha Tau Omega,02:07.38,198
+1988,M,19,Acacia,02:07.38,198
+1988,M,20,Posers,02:07.38,198
+1988,M,21,Sigma Chi,02:08.03,198
+1988,M,22,Foster RSV,02:07.38,197
+1988,M,23,Sigma Phi Epsilon,02:07.42,197
+1988,M,24,Kappa Sigma,02:08.05,197
+1988,M,25,Dodds House,02:07.38,195
+1988,M,26,Theta Chi,02:07.39,195
+1988,M,27,Chi Phi,02:07.41,195
+1988,M,28,Phi Kappa Psi,02:07.05,194
+1988,M,29,Alpha Ssigma Phi,02:07.51,193
+1988,M,30,Delta Upsilon,02:08.09,193
+1988,M,31,Delta Chi,02:07.41,192
+1988,M,32,Sigma Pi,02:08.01,189
+1988,M,33,Phi Kappa Tau,02:07.50,184
+1988,F,1,Willkie Sprint,01:10.52,100
+1988,F,2,Kappa Alpha Theta,01:11.01,100
+1988,F,3,Delta Delta Delta,01:11.19,100
+1988,F,4,Alpha Epsilon Phi,01:11.41,100
+1988,F,5,Notorious,01:11.52,100
+1988,F,6,Cycledelics,01:12.06,100
+1988,F,7,Delta Zeta,01:12.21,100
+1988,F,8,Stonies,01:12.22,100
+1988,F,9,Delta Gamma,01:12.30,100
+1988,F,10,Sigma Kappa,01:12.53,100
+1988,F,11,Collins Graitas,01:12.26,99
+1988,F,12,Alpha Phi,01:12.28,99
+1988,F,13,Kappa Delta,01:12.37,99
+1988,F,14,The Ambassadors,01:12.39,99
+1988,F,15,Cinzano,01:12.18,98
+1988,F,16,No Brakes-Foster,01:12.26,98
+1988,F,17,Alpha Xi Delta,01:12.31,98
+1988,F,18,Zeta Tau Alpha,01:12.38,98
+1988,F,19,Alpha Omicron Pi,01:12.39,98
+1988,F,20,Alpha Delta Pi,01:12.47,98
+1988,F,21,Alpha Gamma Delta,01:12.31,98
+1988,F,22,Briscoe Bullets,01:12.49,98
+1988,F,23,Phi Mu,01:12.09,97
+1988,F,24,Cinquencento,01:12.21,95
+1988,F,25,Spokeswomen,01:12.51,93
+1988,F,26,Windsprint,01:12.40,93
+1988,F,27,Stroke Forest,01:12.41,93
+1988,F,28,Eureka,01:12.06,92
+1988,F,29,Copecetic,01:12.39,91
+1988,F,30,Wild Thing,01:12.35,89
+1987,M,1,Phi Gamma Delta,02:03.6,200
+1987,M,2,Acacia,,0
+1987,M,3,Sigma Phi Epsilon,,0
+1987,M,4,Cutters,,0
+1987,M,5,Cinzano,,0
+1987,M,6,Chi Phi,,0
+1987,M,7,Phi Delta Theta,,0
+1987,M,8,Posers,,0
+1987,M,9,Sigma Alpha Mu,,0
+1987,M,10,Sigma Alpha Epsilon,,0
+1987,M,11,Delta Chi,,0
+1987,M,12,Theta Chi,,0
+1987,M,13,Americana,,0
+1987,M,14,Alpha Tau Omega,,0
+1987,M,15,Delta Tau Delta,,0
+1987,M,16,Sigma Nu,,0
+1987,M,17,Phi Kappa Psi,,0
+1987,M,18,Collins,,0
+1987,M,19,Pi Kappa Alpha,,0
+1987,M,20,Joint Venture,,0
+1987,M,21,Sigma Pi,,0
+1987,M,22,Parks House,,0
+1987,M,23,Read Curry V,,0
+1987,M,24,Totano,,0
+1987,M,25,Evans Scholars,,0
+1987,M,26,Zeta Beta Tau,,0
+1987,M,27,Kappa Sigma,,0
+1987,M,28,Dodds House,,0
+1987,M,29,Wright,,0
+1987,M,30,Beach Riders,,0
+1987,M,31,Visitors,,0
+1987,M,32,Kappa Delta Rho,,0
+1987,M,33,Flying High,,0
+1986,M,1,Cutters,02:01.4,200
+1986,M,2,Alpha Epsilon Pi,02:01.4,200
+1986,M,3,Phi Kappa Psi,02:01.4,200
+1986,M,4,Phi Delta Theta,02:01.4,200
+1986,M,5,Chi Phi,02:01.4,200
+1986,M,6,Lambda Chi Alpha,02:01.4,200
+1986,M,7,Acacia,,0
+1986,M,8,Evans Scholars,,0
+1986,M,9,Collins,,0
+1986,M,10,Delta Tau Delta,,0
+1986,M,11,Phi Gamma Delta,,0
+1986,M,12,Cinzano,,0
+1986,M,13,Pi Kappa Alpha,,0
+1986,M,14,Alpha Tau Omega,,0
+1986,M,15,Kappa Sigma,,0
+1986,M,16,Sigma Nu,,0
+1986,M,17,Sigma Chi,,0
+1986,M,18,Sigma Phi Epsilon,,0
+1986,M,19,Theta Chi,,0
+1986,M,20,Sigma Alpha Epsilon,,0
+1986,M,21,Delta Upsilon,,0
+1986,M,22,Americana,,0
+1986,M,23,Trophy Dash,,0
+1986,M,24,Chain Gang,,0
+1986,M,25,Sigma Alpha Mu,,0
+1986,M,26,Sigma Pi,,0
+1986,M,27,Kappa Delta Rho,,0
+1986,M,28,Nichols Cyclones,,0
+1986,M,29,Read Beck II,,0
+1986,M,30,Joint Venture,,0
+1986,M,31,Read Curry,,0
+1986,M,32,Alpha Sigma Phi,,0
+1986,M,33,Pi Kappa Phi,,0
+1985,M,1,Alpha Epsilon Pi,02:05.1,200
+1985,M,2,Acacia,,0
+1985,M,3,Chi Phi,,0
+1985,M,4,Cutters,,0
+1985,M,5,Rollins,,0
+1985,M,6,Phi Kappa Alpha,,0
+1985,M,7,Phi Kappa Psi,,0
+1985,M,8,Phi Delta Theta,,0
+1985,M,9,Alpha Tau Omega,,0
+1985,M,10,Sigma Alpha Epsilon,,0
+1985,M,11,Latecomers,,0
+1985,M,12,Delta Tau Delta,,0
+1985,M,13,Sigma Phi Epsilon,,0
+1985,M,14,Graitas,,0
+1985,M,15,Cinzano,,0
+1985,M,16,Kappa Sigma,,0
+1985,M,17,Sigma Nu,,0
+1985,M,18,Nichols Cyclones,,0
+1985,M,19,Theta Chi,,0
+1985,M,20,Chain Gang,,0
+1985,M,21,Dodds House,,0
+1985,M,22,Lambda Chi Alpha,,0
+1985,M,23,Beta Theta Pi,,0
+1985,M,24,Sigma Chi,,0
+1985,M,25,Thompson V,,0
+1985,M,26,Delta Upsilon,,0
+1985,M,27,McNutt,,0
+1985,M,28,Phi Gamma Delta,,0
+1985,M,29,Evans Scholars,,0
+1985,M,30,Alpha Sigma Phi,,0
+1985,M,31,Pi Kappa Phi,,0
+1985,M,32,Sigma Alpha Mu,,0
+1985,M,33,Erbeck Memorial Visitors,,0
+1984,M,1,Cutters,02:09.4,200
+1984,M,2,Alpha Epsilon Pi,,0
+1984,M,3,Acacia,,0
+1984,M,4,Chi Phi,,0
+1984,M,5,Beta Theta Pi,,0
+1984,M,6,Phi Gamma Delta,,0
+1984,M,7,Avere,,0
+1984,M,8,Wright Jenkins,,0
+1984,M,9,Alpha Tau Omega,,0
+1984,M,10,Lambda Chi Alpha,,0
+1984,M,11,Phi Kappa Psi,,0
+1984,M,12,Phi Delta Theta,,0
+1984,M,13,Delta Tau Delta,,0
+1984,M,14,Sigma Nu,,0
+1984,M,15,Wright Rollins,,0
+1984,M,16,Delta Upsilon,,0
+1984,M,17,Sigma Pi,,0
+1984,M,18,Kappa Sigma,,0
+1984,M,19,Sigma Chi,,0
+1984,M,20,Read Curry IV,,0
+1984,M,21,Sigma Phi Epsilon,,0
+1984,M,22,Teter,,0
+1984,M,23,Wright Dodds,,0
+1984,M,24,Sigma Alpha Epsilon,,0
+1984,M,25,Alpha Sigma Phi,,0
+1984,M,26,Wright Nichols,,0
+1984,M,27,Pi Kappa Alpha,,0
+1984,M,28,Read Curry II,,0
+1984,M,29,Cosmic Debris,,0
+1984,M,30,Evans Scholars,,0
+1984,M,31,Collins,,0
+1984,M,32,Kappa Delta Rho,,0
+1984,M,33,Spokesmen,,0
+1983,M,1,Acacia,02:08:10,200
+1983,M,2,Phi Delta Theta,,0
+1983,M,3,Phi Kappa Psi,,0
+1983,M,4,Alpha Epsilon Pi,,0
+1983,M,5,Alpha Tau Omega,,0
+1983,M,6,Wheelmen,,0
+1983,M,7,Sigma Phi Epsilon,,0
+1983,M,8,Chi Phi,,0
+1983,M,9,Sigma Alpha Epsilon,,0
+1983,M,10,Jenkins House,,0
+1983,M,11,Kappa Sigma,,0
+1983,M,12,Sigma Pi,,0
+1983,M,13,Phi Gamma Delta,,0
+1983,M,14,Rollins House,,0
+1983,M,15,Sigma Chi,,0
+1983,M,16,Parks House,,0
+1983,M,17,Delta Tau Delta,,0
+1983,M,18,Dodds House,,0
+1983,M,19,Lambda Chi Alpha,,0
+1983,M,20,Delta Upsilon,,0
+1983,M,21,Alpha Sigma Phi,,0
+1983,M,22,Beta Theta Pi,,0
+1983,M,23,Tau Kappa Epsilon,,0
+1983,M,24,Hummer House,,0
+1983,M,25,Sigma Alpha Mu,,0
+1983,M,26,Sigma Nu,,0
+1983,M,27,Blitzkriegers,,0
+1983,M,28,Foster Martin III,,0
+1983,M,29,Team Anything,,0
+1983,M,30,Zeta Beta Tau,,0
+1983,M,31,Nichols House,,0
+1983,M,32,Chaingang,,0
+1983,M,33,Pi Kappa Phi,,0
+1982,M,1,Phi Delta Theta,02:03.33,200
+1982,M,2,Delta Chi,02:03.33,200
+1982,M,3,Kappa Sigma,02:03.33,200
+1982,M,4,Beta Theta Pi,02:03.34,200
+1982,M,5,Acacia,02:03.34,200
+1982,M,6,Phi Gamma Delta,02:03.34,200
+1982,M,7,Alpha Tau Omega,02:03.34,200
+1982,M,8,Sigma Chi,02:03.34,200
+1982,M,9,Sigma Phi Epsilon,02:04:08,200
+1982,M,10,Hummer House,02:04.08,200
+1982,M,11,Team Albatross,,0
+1982,M,12,Phi Kappa Psi,,0
+1982,M,13,Delta Tau Delta,,0
+1982,M,14,Parks House,,0
+1982,M,15,Sigma Alpha Epsilon,,0
+1982,M,16,Willkie Wheelmen,,0
+1982,M,17,Chi Phi,,0
+1982,M,18,Alpha Epsilon Pi,,0
+1982,M,19,Rollins House,,0
+1982,M,20,Dodds House,,0
+1982,M,21,theta chi,,0
+1982,M,22,curry II Zoo,,0
+1982,M,23,Wissler 3-2,,0
+1982,M,24,Martin II,,0
+1982,M,25,Jenkins House,,0
+1982,M,26,Lambda Chi Alpha,,0
+1982,M,27,boisen I,,0
+1982,M,28,Pi Kappa Phi,,0
+1982,M,29,Tau Kappa Epsilon,,0
+1982,M,30,Sigma Pi,,0
+1982,M,31,"Willkie 4 ""Storm""",,0
+1982,M,32,Phi Kappa Alpha,,0
+1982,M,33,Nichols House,,0
+1981,M,1,Delta Chi,02:05.17,200
+1981,M,2,Chi Phi,02:05.18,200
+1981,M,3,Alpha Tau Omega,02:05.19,200
+1981,M,4,Willkie Wheelmen,02:05.19,200
+1981,M,5,Phi Kappa Psi,02:05.19,200
+1981,M,6,Alpha Epsilon Pi,02:05.19,200
+1981,M,7,Phi Gamma Delta,02:05.56,200
+1981,M,8,Sigma Alpha Epsilon,02:05.56,200
+1981,M,9,Blitzkriegers,02:05.57,200
+1981,M,10,Wissler Five,02:06.12,200
+1981,M,11,Sigma Phi Epsilon,,0
+1981,M,12,Jenkins House,,0
+1981,M,13,Dodds House,,0
+1981,M,14,Rollins House,,0
+1981,M,15,Theta Chi,,0
+1981,M,16,Sigma Chi,,0
+1981,M,17,Sigma Nu,,0
+1981,M,18,Alpha Sigma Phi,,0
+1981,M,19,Phi Delta Theta,,0
+1981,M,20,Evans Scholars,,0
+1981,M,21,Wissler Three,,0
+1981,M,22,Kappa Sigma,,0
+1981,M,23,Acacia,,0
+1981,M,24,Delta Tau Delta,,0
+1981,M,25,Parks House,,0
+1981,M,26,Curry Two,,0
+1981,M,27,Tau Kappa Epsilon,,0
+1981,M,28,Pi Kappa Phi,,0
+1981,M,29,boisen I,,0
+1981,M,30,Sigma Pi,,0
+1981,M,31,Nichols House,,0
+1981,M,32,Pi Kappa Alpha,,0
+1981,M,33,Hummer House,,0
+1980,M,1,Delta Chi,02:09.28,200
+1980,M,2,Pi Kappa Phi,02:10.44,200
+1980,M,3,Wissler 5,02:10.48,200
+1980,M,4,Phi Gamma Delta,02:11.24,200
+1980,M,5,Willkie South III,02:11.24,200
+1980,M,6,Chi Phi,02:11.24,200
+1980,M,7,Sigma Alpha Epsilon,02:11.25,200
+1980,M,8,Dodds House,02:11.37,200
+1980,M,9,Sigma Nu,02:12.04,200
+1980,M,10,Alpha Tau Omega,02:12.04,200
+1980,M,11,Acacia,,0
+1980,M,12,Sigma Chi,,0
+1980,M,13,Pi Kappa Alpha,,0
+1980,M,14,Phi Delta Theta,,0
+1980,M,15,Beta Theta Pi,,0
+1980,M,16,Jenkins House,,0
+1980,M,17,Phi Kappa Psi,,0
+1980,M,18,Sigma Phi Epsilon,,0
+1980,M,19,Willkie South 7,,0
+1980,M,20,Shea 3-Foster,,0
+1980,M,21,Alpha Epsilon Pi,,0
+1980,M,22,Kappa Sigma,,0
+1980,M,23,Willkie South X,,0
+1980,M,24,Theta Chi,,0
+1980,M,25,Martin III,,0
+1980,M,26,Cravens A-MRC,,0
+1980,M,27,Blitzkriegers,,0
+1980,M,28,Crone Born Losers,,0
+1980,M,29,Willkie South 5,,0
+1980,M,30,Nichols House,,0
+1980,M,31,Delta Upsilon,,0
+1980,M,32,Willkie 4 Storm,,0
+1980,M,33,Parks House,,0
+1979,M,1,Delta Chi,02:10.06,200
+1979,M,2,Kappa Sigma,02:10.47,200
+1979,M,3,Jenkins House,02:10.48,200
+1979,M,4,Sigma Phi Epsilon,02:11.22,200
+1979,M,5,Sigma Alpha Epsilon,02:11.25,200
+1979,M,6,Sigma Chi,02:11.25,200
+1979,M,7,Alpha Epsilon Pi,02:11.26,200
+1979,M,8,Alpha Sigma Phi,02:11.44,200
+1979,M,9,Pi Kappa Phi,02:11.58,200
+1979,M,10,Theta Chi,02:12.03,200
+1979,M,11,Beta Theta Pi,02:11.21,199
+1979,M,12,Willkie South Suite,02:11.29,199
+1979,M,13,Dodds House,02:11.47,199
+1979,M,14,Wissler V,02:11.40,198
+1979,M,15,Willkie South III,02:11.41,198
+1979,M,16,Phi Kappa Psi,02:11.45,198
+1979,M,17,Hummer House,02:11.45,198
+1979,M,18,Rollins House,02:11.45,198
+1979,M,19,Mass Riders,02:11.50,198
+1979,M,20,Deltla Tau Delta,02:11.29,197
+1979,M,21,Cravens B,02:11.31,197
+1979,M,22,Delgado Ground,02:11.46,196
+1979,M,23,Pi Kappa Alpha,02:11.45,195
+1979,M,24,Lambda Chi Alpha,02:12.01,194
+1979,M,25,Delta Upsilon,02:11.51,193
+1979,M,26,Willkie South Five,02:11.46,192
+1979,M,27,Alpha Tau Omega,02:11.52,192
+1979,M,28,Tau Kappa Epsilon,02:11.32,191
+1979,M,29,Acacia,02:11.32,191
+1979,M,30,Willkie Deca 10,02:11.40,191
+1979,M,31,Chi Phi,02:12.03,191
+1979,M,32,Martin III,02:11.22,189
+1979,M,33,Wissler III,02:11.52,189
+1978,M,1,Phi Kappa Psi,02:12:12,200
+1978,M,2,Sigma Nu,02:12:12,200
+1978,M,3,Pi Kappa Phi,02:12:12,200
+1978,M,4,Alpha Epsilon Pi,02:12:12,200
+1978,M,5,Sigma Phi Epsilon,02:12:51,200
+1978,M,6,Dodds House,02:12:55,200
+1978,M,7,Sigma Chi,02:12:55,200
+1978,M,8,Kappa Sigma,02:13:03,200
+1978,M,9,Phi Gamma Delta,02:13:13,200
+1978,M,10,Delta Chi,02:13:45,200
+1978,M,11,Theta Chi,,0
+1978,M,12,Sigma Pi,,0
+1978,M,13,Lambda Chi Alpha,,0
+1978,M,14,Delta Tau Delta,,0
+1978,M,15,Tau Kappa Epsilon,,0
+1978,M,16,Evans Scholars,,0
+1978,M,17,Alpha Sigma Phi,,0
+1978,M,18,Hummer House,,0
+1978,M,19,Acacia,,0
+1978,M,20,Nichols House,,0
+1978,M,21,Beta Theta Pi,,0
+1978,M,22,Willkie South Suite,,0
+1978,M,23,Elkin II,,0
+1978,M,24,Alpha Tau Omega,,0
+1978,M,25,Rollins House,,0
+1978,M,26,Phi Delta Theta,,0
+1978,M,27,Pi Kappa Alpha,,0
+1978,M,28,Willkie Three,,0
+1978,M,29,Magee I,,0
+1978,M,30,Martin III,,0
+1978,M,31,Wissler 5,,0
+1978,M,32,Willkie Deca,,0
+1978,M,33,Kappa Delta Rho,,0
+1977,M,1,Delta Chi,02:09.46,200
+1977,M,2,Phi Kappa Psi,02:09.48,200
+1977,M,3,Phi Gamma Delta,02:10.23,200
+1977,M,4,Sigma Phi Epsilon,02:10.23,200
+1977,M,5,Velo-Men,02:10.23,200
+1977,M,6,Sigma Alpha Epsi9lon,02:10.23,200
+1977,M,7,Alpha Epsilon Pi,02:10.32,200
+1977,M,8,Willkie South III,02:11.08,200
+1977,M,9,Evans Scholars,02:11.10,200
+1977,M,10,Phi Delta Theta,02:12.31,200
+1977,M,11,Sigma Chi,02:11.50,199
+1977,M,12,Parks House,02:11.52,199
+1977,M,13,Martin III,02:11.53,199
+1977,M,14,Kappa Sigma,02:12.10,199
+1977,M,15,Tau Kappa Epsilon,02:12.11,199
+1977,M,16,Rollins House,02:11.55,198
+1977,M,17,Sigma Pi,02:11.53,197
+1977,M,18,Nichols House,02:12.10,197
+1977,M,19,Theta Xi,02:12.01,196
+1977,M,20,Theta Chi,02:12.04,196
+1977,M,21,Pi Kappa Alpha,02:12.21,196
+1977,M,22,Delta Tau Delta,02:11.54,195
+1977,M,23,Beta Theta Pi,02:11.56,195
+1977,M,24,Alpha Sigma Phi,02:11.50,194
+1977,M,25,Martin II,02:12.10,194
+1977,M,26,Acacia,02:12.00,192
+1977,M,27,Kappa Delta Rho,02:12.11,191
+1977,M,28,Magee I,02:12.01,190
+1977,M,29,Shea III,02:12.12,186
+1977,M,30,Jenkins House,02:12.12,182
+1977,M,31,Signa Phi Nothing,02:12.00,181
+1977,M,32,Jenkinson II,02:12.12,168
+1977,M,33,Chi Phi,,160
+1976,M,1,Delta Chi,02:10.21,200
+1976,M,2,Phi Gamma Delta,02:10.22,200
+1976,M,3,Delta Tau Delta,02:10.38,200
+1976,M,4,Sigma Chi,02:11.06,200
+1976,M,5,Sigma Nu,02:11.06,200
+1976,M,6,Phi Kappa Psi,02:11.16,200
+1976,M,7,Sigma Phi Epsilon,02:11.17,200
+1976,M,8,Acacia,02:11.55,200
+1976,M,9,Theta Xi,02:11.55,200
+1976,M,10,Sigma Alpha Epsilon,02:11.58,200
+1976,M,11,Phi Delta Theta,02:11.41,199
+1976,M,12,Beta Theta Pi,02:11.19,198
+1976,M,13,Alpha Epsilon Pi,02:11.58,198
+1976,M,14,Kappa Sigma,02:11.58,198
+1976,M,15,Doddds House-Wright Quad,02:11.21,197
+1976,M,16,Theta Chi,02:11.36,197
+1976,M,17,Rollins House-Wright Quad,02:11.40,197
+1976,M,18,Foster-Martin II,02:11.27,194
+1976,M,19,Pi Kappa Phi,02:11.37,194
+1976,M,20,Foster-Magee I,02:11.42,194
+1976,M,21,Lambda Chi Alpha,02:11.55,193
+1976,M,22,Foster-Martin III,02:11.40,190
+1976,M,23,Wright-Parks/Foster/Shea,02:11.41,190
+1976,M,24,Kappa Delta Rho,02:11.21,189
+1976,M,25,Delta Upsilon,02:11.46,188
+1976,M,26,Teter-Wissler V,02:11.17,187
+1976,M,27,Chi Phi,02:11.26,187
+1976,M,28,Alpha Sigma Phi,02:11.21,183
+1976,M,29,Evans Scholars,02:11.25,182
+1976,M,30,Teter-Boisen IV,02:11.48,182
+1976,M,31,MRC-Cravens,02:11.36,181
+1976,M,32,Nichols House-Wright Quad,02:11.54,179
+1976,M,33,Sigma Pi,02:11.15,176
+1975,M,1,Phi Gamma Delta,02:14.00,200
+1975,M,2,Delta Chi,02:14.36,200
+1975,M,3,Dodds House,02:14.50,200
+1975,M,4,Phi Kappa Psi,02:15.16,200
+1975,M,5,Delta Tau Delta,02:15.16,200
+1975,M,6,Kappa Sigma,02:15.56,200
+1975,M,7,Wissler V,02:15.56,200
+1975,M,8,Sigma Nu,02:16.02,200
+1975,M,9,Theta Chi,02:16.36,200
+1975,M,10,Delta Upsilon,02:16.48,200
+1975,M,11,Sigma Alpha Epsilon,02:16.44,199
+1975,M,12,Shea II,02:16.45,199
+1975,M,13,Beta Theta Pi,02:16.40,198
+1975,M,14,Sigma Pi,02:16.02,197
+1975,M,15,Phi Delta Theta,02:16.18,197
+1975,M,16,Acacia,02:16.25,197
+1975,M,17,Martin III,02:16.47,197
+1975,M,18,Alpha Tau Omega,02:16.19,196
+1975,M,19,Cravens B - MRC,02:16.28,196
+1975,M,20,Hummer Co-op,02:16.18,195
+1975,M,21,Evans Scholars,02:16.07,194
+1975,M,22,Read Independents,02:16.18,194
+1975,M,23,Delgado Ground,02:16.27,193
+1975,M,24,Willkie south 3,02:16.48,192
+1975,M,25,Theta Xi,02:16.47,190
+1975,M,26,Boisen 4,02:16.48,189
+1975,M,27,Jenkinson Ground,02:16.08,188
+1975,M,28,Chi Phi,02:16.18,188
+1975,M,29,Magee I,02:16.14,187
+1975,M,30,Pi Kappa Phi,02:16.18,186
+1975,M,31,Kappa Delta Rho,02:16.19,185
+1975,M,32,Willkie South 10,02:16.34,182
+1975,M,33,Alpha Epsilon Pi,02:16.42,182
+1974,M,1,Delta Chi,02:09:48,200
+1974,M,2,Kapa Sigma,02:10.56,200
+1974,M,3,Phi Kappa Psi,02:11.08,200
+1974,M,4,Martin V,02:11.18,200
+1974,M,5,Alpha Tau Omega,02:11.42,200
+1974,M,6,Dodds House,02:11.42,200
+1974,M,7,Sigma Alpha Epsilon,02:11.46,200
+1974,M,8,Sigma Chi,02:11.46,200
+1974,M,9,Sigma Nu,02:11.46,200
+1974,M,10,Shea II,02:11.48,200
+1974,M,11,Cravens B,02:11.47,199
+1974,M,12,Acacia,02:11.48,199
+1974,M,13,Sigma Phi Epsilon,02:11.19,198
+1974,M,14,Sigma Pi,02:11.19,197
+1974,M,15,Theta Chi,02:11.22,195
+1974,M,16,Pi Kappa Phi,02:11.47,195
+1974,M,17,Lambda Chi Alpha,02:11.20,194
+1974,M,18,Shea III,02:11.27,194
+1974,M,19,Theta Xi,02:11.44,194
+1974,M,20,Evans Scholars,02:11.13,193
+1974,M,21,Wissler V,02:11.13,193
+1974,M,22,Phi Delta Theta,02:11.20,193
+1974,M,23,Phi Gamma Delta,02:11.16,192
+1974,M,24,Beta Theta Pi,02:11.11,191
+1974,M,25,Delta Tau Delta,02:11.41,191
+1974,M,26,Delta Upsilon,02:11.03,188
+1974,M,27,Willkie South VI,02:11.07,187
+1974,M,28,Rollins House,02:11.17,181
+1974,M,29,Willkie South III,02:11.20,178
+1974,M,30,Magee I,02:11.15,176
+1974,M,31,Willkie South X,02:11.19,176
+1974,M,32,Read,02:11.34,174
+1974,M,33,Crone,02:11.09,171
+1973,M,1,Delta Chi,02:18.41,200
+1973,M,2,Kappa Sigma,02:18.41,200
+1973,M,3,Theta Chi,02:18.41,200
+1973,M,4,Briscoe,02:18.42,200
+1973,M,5,Phi Gamma Delta,02:18.43,200
+1973,M,6,Acacia,02:19.23,200
+1973,M,7,Dodds House,02:19.23,200
+1973,M,8,Phi Kappa Psi,02:19.59,200
+1973,M,9,Sigma Alpha Epsilon,02:20.04,200
+1973,M,10,Sigma Nu,02:20.04,200
+1973,M,11,Sigma Chi,,0
+1973,M,12,Pi Kappa Phi,,0
+1973,M,13,Theta Xi,,0
+1973,M,14,Phi Delta Theta,,0
+1973,M,15,Sigma Phi Epsilon,,0
+1973,M,16,Martin III,,0
+1973,M,17,Lambda Chi Alpha,,0
+1973,M,18,Sigma Pi,,0
+1973,M,19,Delta Tau Delta,,0
+1973,M,20,Evans Scholars,,0
+1973,M,21,Shea III,,0
+1973,M,22,Delta Upsilon,,0
+1973,M,23,Pi Kappa Alpha,,0
+1973,M,24,Shea II,,0
+1973,M,25,Alpha Epsilon Pi,,0
+1973,M,26,Martin II,,0
+1973,M,27,Cravens B,,0
+1973,M,28,Beta Theta Pi,,0
+1973,M,29,Alpha Tau Omega,,0
+1973,M,30,Bordner NW,,0
+1973,M,31,Wissler IV,,0
+1973,M,32,Willkie South III,,0
+1973,M,33,Cyclotrons,,0
+1972,M,1,Kappa Sigma,02:12.06,200
+1972,M,2,Delta Chi,02:12.07,200
+1972,M,3,Sigma Phi Epsilon,02:12.07,200
+1972,M,4,Sigma Alpha Epsilon,02:12.07,200
+1972,M,5,Acacia,02:12.08,200
+1972,M,6,Theta Chi,02:12.08,200
+1972,M,7,Phi Kappa Psi,02:12.08,200
+1972,M,8,Delta Upsilon,02:12.10,200
+1972,M,9,Briscoe 3B-5A,02:12.53,200
+1972,M,10,Dodds House,02:13.16,200
+1972,M,11,Martin III,,199
+1972,M,12,Phi Delta Theta,,198
+1972,M,13,Theta Xi,,198
+1972,M,14,Delta Tau Delta,,198
+1972,M,15,Martin II,,198
+1972,M,16,Sigma Pi,,197
+1972,M,17,Beta Theta Pi,,197
+1972,M,18,Phi Gamma Delta,,196
+1972,M,19,Sigma Chi,,196
+1972,M,20,Crone Hall,,196
+1972,M,21,Alpha Tau Omega,,196
+1972,M,22,Pi Kappa Alpha,,193
+1972,M,23,Parks House,,193
+1972,M,24,Shea Ground,,192
+1972,M,25,Cravens Hall B,,191
+1972,M,26,Alpha Sigma Phi,,190
+1972,M,27,Sigma Nu,,190
+1972,M,28,Pi Kappa Phi,,189
+1972,M,29,Alpha Epsilon Pi,,188
+1972,M,30,Evans Scholars,,187
+1972,M,31,Sigma Alpha Mu,,186
+1972,M,32,Kappa Delta Rho,,177
+1972,M,33,Funky's Funkin' Hot Sprockets,,173
+1971,M,1,Alpha Tau Omega,02:12.19,200
+1971,M,2,Acacia,02:12.24,200
+1971,M,3,Theta Chi,02:12.35,200
+1971,M,4,Phi Gamma Delta,02:12.40,200
+1971,M,5,Delta Chi,02:13.00,200
+1971,M,6,Phi Delta Theta,02:13.04,200
+1971,M,7,Kappa Sigma,02:13.07,200
+1971,M,8,Sigma Nu,02:13.14,200
+1971,M,9,Dodds House,02:13.33,200
+1971,M,10,Sigma Chi,02:13.47,200
+1971,M,11,Phi Kappa Psi,02:13.33,199
+1971,M,12,Martin III,02:13.08,198
+1971,M,13,Sigma Phi Epsilon,02:13.07,197
+1971,M,14,Delta Upsilon,02:13.31,196
+1971,M,15,Pi Kappa Alpha,02:13.36,196
+1971,M,16,Delta Tau Delta,02:13.36,195
+1971,M,17,Dewey House,02:13.20,194
+1971,M,18,Delta Sigma Pi,02:13.10,193
+1971,M,19,Briscoe,02:13.26,193
+1971,M,20,Beta Theta Pi,02:13.37,193
+1971,M,21,Sigma Alpha Epsilon,02:13.15,192
+1971,M,22,Willkie VI,02:13.44,191
+1971,M,23,Sigma Alpha Mu,02:13.30,189
+1971,M,24,Theta Xi,02:13.07,188
+1971,M,25,Willkie IV,02:13.24,187
+1971,M,26,Sigma Pi,02:13.14,186
+1971,M,27,Evans Scholars,02:13.05,184
+1971,M,28,Teter,02:13.15,183
+1971,M,29,Lambda Chi Alpha,02:13.09,182
+1971,M,30,Crone,02:13.21,182
+1971,M,31,Pi Kappa Phi,02:13.41,181
+1971,M,32,Magee II,02:13.40,174
+1971,M,33,Bryan,02:13.10,173
+1970,M,1,Sigma Phi Epsilon,02:15:56,200
+1970,M,2,Delta Chi,02:16:03,200
+1970,M,3,Dodds House,02:16:04,200
+1970,M,4,Alpha Tau Omega,02:16:12,200
+1970,M,5,Sigma Nu,02:16:16,200
+1970,M,6,Martin III,02:16:53,200
+1970,M,7,Sigma Alpha Epsilon,02:17:26,200
+1970,M,8,Briscoe B,02:17:27,200
+1970,M,9,Theta Chi,02:17:33,200
+1970,M,10,Delta Tau Delta,02:18:06,200
+1970,M,11,Kappa Sigma,,0
+1970,M,12,Lambda Chi Alpha,,0
+1970,M,13,Sigma Chi,,0
+1970,M,14,Phi Gamma Delta,,0
+1970,M,15,Acacia,,0
+1970,M,16,Phi Kappa Psi,,0
+1970,M,17,Pi Kappa Alpha,,0
+1970,M,18,Phi Delta Theta,,0
+1970,M,19,Alpha Sigma Phi,,0
+1970,M,20,Beta Theta Pi,,0
+1970,M,21,Sigma Pi,,0
+1970,M,22,Magee II,,0
+1970,M,23,Phi Kappa Theta,,0
+1970,M,24,Cravens C,,0
+1970,M,25,Crone,,0
+1970,M,26,Zeta Beta Tau,,0
+1970,M,27,Wilkie VII,,0
+1970,M,28,Chi Phi,,0
+1970,M,29,Dewey House,,0
+1970,M,30,Shea III,,0
+1970,M,31,Evans Scholars,,0
+1970,M,32,Shea II,,0
+1970,M,33,Sigma Alpha Mu,,0
+1969,M,1,Alpha Tau Omega,02:27.5,200
+1969,M,2,Phi Delta Theta,,0
+1969,M,3,Dodds House,,0
+1969,M,4,Beta Theta Pi,,0
+1969,M,5,Kappa Sigma,,0
+1969,M,6,Delta Upsilon,,0
+1969,M,7,Acacia,,0
+1969,M,8,Sigma Nu,,0
+1969,M,9,Briscoe,,0
+1969,M,10,Delta Chi,,0
+1969,M,11,Kappa Delta Rho,,0
+1969,M,12,Wissler IV,,0
+1969,M,13,Sigma Phi Epsilon,,0
+1969,M,14,Phi Kappa Psi,,0
+1969,M,15,Sigma Alpha Epsilon,,0
+1969,M,16,Delta Tau Delta,,0
+1969,M,17,Theta Chi,,0
+1969,M,18,Pi Kappa Alpha,,0
+1969,M,19,Phi Kappa Theta,,0
+1969,M,20,Phi Kappa Tau,,0
+1969,M,21,Sigma Alpha Mu,,0
+1969,M,22,Phi Gamma Delta,,0
+1969,M,23,Sigma Chi,,0
+1969,M,24,Cravens C,,0
+1969,M,25,Zeta Beta Tau,,0
+1969,M,26,Willkie,,0
+1969,M,27,Martin III,,0
+1969,M,28,Theta Xi,,0
+1969,M,29,McNutt,,0
+1969,M,30,Sigma Pi,,0
+1969,M,31,Alpha Epsilon Pi,,0
+1969,M,32,Tau Kappa Epsilon,,0
+1969,M,33,Shea II,,0
+1968,M,1,Phi Kappa Psi,02:12.5,200
+1968,M,2,Delta Upsilon,,0
+1968,M,3,Sigma Phi Epsilon,,0
+1968,M,4,Alpha Tau Omega,,0
+1968,M,5,Sigma Alpha Mu,,0
+1968,M,6,Acacia,,0
+1968,M,7,Kappa Sigma,,0
+1968,M,8,Sigma Alpha Epsilon,,0
+1968,M,9,Phi Kappa Theta,,0
+1968,M,10,Phi Gamma Delta,,0
+1968,M,11,Theta Chi,,0
+1968,M,12,Cravens C,,0
+1968,M,13,Sigma Nu,,0
+1968,M,14,Dodds House,,0
+1968,M,15,Pi Kappa Alpha,,0
+1968,M,16,Lambda Chi Alpha,,0
+1968,M,17,Willkie,,0
+1968,M,18,Magee II,,0
+1968,M,19,Kappa Delta Rho,,0
+1968,M,20,Beta Theta Pi,,0
+1968,M,21,Phi Kappa Tau,,0
+1968,M,22,Phi Epsilon Pi,,0
+1968,M,23,Wissler IV,,0
+1968,M,24,Martin III,,0
+1968,M,25,Hummer House,,0
+1968,M,26,Zeta Beta Tau,,0
+1968,M,27,Pi Kappa Phi,,0
+1968,M,28,Chi Phi,,0
+1968,M,29,McNutt,,0
+1968,M,30,Tau Kappa Epsilon,,0
+1968,M,31,Sigma Chi,,0
+1968,M,32,Willkie Co-op,,0
+1968,M,33,Phi Delta Theta,,0
+1967,M,1,Phi Gamma Delta,02:15.4,200
+1967,M,2,Phi Delta Theta,02:15.4,200
+1967,M,3,Sigma Alpha Epsilon,02:15.5,200
+1967,M,4,Alpha Tau Omega,02:15.5,200
+1967,M,5,Phi Kappa Theta,02:16.2,200
+1967,M,6,Sigma Chi,02:16.2,200
+1967,M,7,Sigma Phi Epsilon,02:16.3,200
+1967,M,8,Phi Kappa Psi,02:16.4,200
+1967,M,9,Theta Chi,02:17.1,200
+1967,M,10,Kappa Sigma,02:17.1,200
+1967,M,11,Sigma Nu,02:16.5,199
+1967,M,12,Dodds House,02:17.1,199
+1967,M,13,Acacia,02:16.3,198
+1967,M,14,Delta Upsilon,02:17.1,198
+1967,M,15,Kappa Delta Rho,02:17.1,195
+1967,M,16,Lambda Chi Alpha,02:16.4,193
+1967,M,17,Chi Phi,02:17.1,193
+1967,M,18,Sigma Pi,02:16.4,192
+1967,M,19,Delta Tau Delta,02:17.1,192
+1967,M,20,The Stew-Bums,02:16.5,191
+1967,M,21,Briscoe #1,02:16.6,191
+1967,M,22,Beta Theta Pi,02:17.0,190
+1967,M,23,Magee II,02:16.3,187
+1967,M,24,Tau Kappa Epsilon,02:16.4,187
+1967,M,25,Zeta Beta Tau,02:17.1,186
+1967,M,26,Cravens C Friars,02:16.4,184
+1967,M,27,Phi Epsilon Pi,02:16.4,184
+1967,M,28,Martin III,02:17.1,184
+1967,M,29,Fergason House,02:16.4,179
+1967,M,30,Edmondson II,02:16.6,179
+1967,M,31,Willkie Men's Co-op,02:16.4,178
+1967,M,32,Wissler IV,02:17.0,176
+1967,M,33,Alpha Epsilon Pi,02:17.1,171
+1966,M,1,Phi Kappa Psi,02:16.5,200
+1966,M,2,Sigma Phi Epsilon,,0
+1966,M,3,Sigma Nu,,0
+1966,M,4,Alpha Tau Omega,,0
+1966,M,5,Phi Gamma Delta,,0
+1966,M,6,Theta Chi,,0
+1966,M,7,Sigma Alpha Epsilon,,0
+1966,M,8,Sigma Chi,,0
+1966,M,9,Delta Upsilon,,0
+1966,M,10,McNutt,,0
+1966,M,11,Beta Theta Pi,,0
+1966,M,12,Kappa Delta Rho,,0
+1966,M,13,Phi Kappa Theta,,0
+1966,M,14,Tau Kappa Epsilon,,0
+1966,M,15,Acacia,,0
+1966,M,16,Chi Phi,,0
+1966,M,17,Lambda Chi Alpha,,0
+1966,M,18,Sigma Alpha Mu,,0
+1966,M,19,Phi Sigma Kappa,,0
+1966,M,20,Martin III,,0
+1966,M,21,Delta Tau Delta,,0
+1966,M,22,Phi Kappa Tau,,0
+1966,M,23,Delta Chi,,0
+1966,M,24,Willkie Co-op,,0
+1966,M,25,Briscoe,,0
+1966,M,26,Sigma Pi,,0
+1966,M,27,Edmondson II,,0
+1966,M,28,Hummer House,,0
+1966,M,29,Dodds House,,0
+1966,M,30,Kappa Sigma,,0
+1966,M,31,Zeta Beta Tau,,0
+1966,M,32,Cravens A,,0
+1966,M,33,Pi Kappa Phi,,0
+1965,M,1,Phi Gamma Delta,02:17.2,200
+1965,M,2,Sigma Alpha Epsilon,,0
+1965,M,3,Alpha Tau Omega,,0
+1965,M,4,Phi Kappa Psi,,0
+1965,M,5,Sigma Nu,,0
+1965,M,6,Phi Delta Theta,,0
+1965,M,7,Beta Theta Pi,,0
+1965,M,8,Kappa Delta Rho,,0
+1965,M,9,Sigma Phi Epsilon,,0
+1965,M,10,Delta Upsilon,,0
+1965,M,11,Laurel/Walnut,,0
+1965,M,12,Ruter/Jerkins,,0
+1965,M,13,Willkie Co-op,,0
+1965,M,14,Wissler II,,0
+1965,M,15,Acacia,,0
+1965,M,16,Phi Sigma Kappa,,0
+1965,M,17,Delta Tau Delta,,0
+1965,M,18,Tau Kappa Epsilon,,0
+1965,M,19,Jenkinson House,,0
+1965,M,20,Dodds House,,0
+1965,M,21,Lambda Chi Alpha,,0
+1965,M,22,Martin III,,0
+1965,M,23,Pi Kappa Alpha,,0
+1965,M,24,McNutt,,0
+1965,M,25,Kappa Sigma,,0
+1965,M,26,Theta Chi,,0
+1965,M,27,Hummer House,,0
+1965,M,28,Phi Kappa Theta,,0
+1965,M,29,Elliott/Lowe,,0
+1965,M,30,Zeta Beta Tau,,0
+1965,M,31,Alpha Epsilon Pi,,0
+1965,M,32,Todd House,,0
+1965,M,33,Ferguson House,,0
+1964,M,1,Beta Theta Pi,02:22.4,200
+1964,M,2,Sigma Alpha Epsilon,,0
+1964,M,3,Phi Gamma Delta,,0
+1964,M,4,Acacia,,0
+1964,M,5,Sigma Nu,,0
+1964,M,6,Alpha Tau Omega,,0
+1964,M,7,Dodds House,,0
+1964,M,8,Parks House,,0
+1964,M,9,Chi Phi,,0
+1964,M,10,Phi Delta Theta,,0
+1964,M,11,Phi Kappa Psi,,0
+1964,M,12,Zeta Beta Tau,,0
+1964,M,13,Jenkinson House,,0
+1964,M,14,Lambda Chi Alpha,,0
+1964,M,15,Sigma Chi,,0
+1964,M,16,Delta Upsilon,,0
+1964,M,17,Delta Chi,,0
+1964,M,18,Theta Chi,,0
+1964,M,19,Walnut Hall,,0
+1964,M,20,Kappa Delta Rho,,0
+1964,M,21,Pi Kappa Tau,,0
+1964,M,22,Tau Kappa Epsilon,,0
+1964,M,23,Delta Tau Delta,,0
+1964,M,24,Shea,,0
+1964,M,25,Cravens A,,0
+1964,M,26,Sigma Phi Epsilon,,0
+1964,M,27,Sigma Alpha Mu,,0
+1964,M,28,Phi Sigma Kappa,,0
+1964,M,29,Ferguson House,,0
+1964,M,30,Kappa Sigma,,0
+1964,M,31,Dunn House,,0
+1964,M,32,Todd House,,0
+1964,M,33,Alpha Epsilon Pi,,0
+1963,M,1,Sigma Alpha Epsilon,02:17.0,200
+1963,M,2,Alpha Tau Omega,,0
+1963,M,3,Acacia,,0
+1963,M,4,Phi Gamma Delta,,0
+1963,M,5,Beta Theta Pi,,0
+1963,M,6,Dodds House,,0
+1963,M,7,Edmondson II,,0
+1963,M,8,Laurel Hall,,0
+1963,M,9,Phi Kappa Psi,,0
+1963,M,10,Kappa Delta Rho,,0
+1963,M,11,Chi Phi,,0
+1963,M,12,Phi Delta Theta,,0
+1963,M,13,Sigma Nu,,0
+1963,M,14,Sigma Chi,,0
+1963,M,15,Sigma Phi Epsilon,,0
+1963,M,16,Parks House,,0
+1963,M,17,Jenkins House,,0
+1963,M,18,Tau Kappa Epsilon,,0
+1963,M,19,Zeta Beta Tau,,0
+1963,M,20,Forest (Goodbody),,0
+1963,M,21,Walnut Hall,,0
+1963,M,22,Lambda Chi Alpha,,0
+1963,M,23,Delta Chi,,0
+1963,M,24,Kappa Sigma,,0
+1963,M,25,Delta Tau Delta,,0
+1963,M,26,Edmondson IV,,0
+1963,M,27,Sigma Pi,,0
+1963,M,28,Delta Upsilon,,0
+1963,M,29,Theta Chi,,0
+1963,M,30,Phi Kappa Theta,,0
+1963,M,31,Phi Kappa Tau,,0
+1963,M,32,Martin Hall,,0
+1963,M,33,Hummer House,,0
+1962,M,1,Phi Kappa Psi,02:17.3,200
+1962,M,2,Sigma Alpha Epsilon,,0
+1962,M,3,Phi Gamma Delta,,0
+1962,M,4,Chi Phi,,0
+1962,M,5,Acacia,,0
+1962,M,6,Alpha Tau Omega,,0
+1962,M,7,Beta Theta Pi,,0
+1962,M,8,Phi Delta Theta,,0
+1962,M,9,Edmondson II,,0
+1962,M,10,Sigma Nu,,0
+1962,M,11,Sigma Phi Epsilon,,0
+1962,M,12,Lambda Chi Alpha,,0
+1962,M,13,Walnut Hall,,0
+1962,M,14,Delta Chi,,0
+1962,M,15,Towers D-2,,0
+1962,M,16,Zeta Beta Tau,,0
+1962,M,17,Delta Tau Delta,,0
+1962,M,18,Laurel Hall,,0
+1962,M,19,Dodds House,,0
+1962,M,20,Kappa Delta Rho,,0
+1962,M,21,Delta Upsilon,,0
+1962,M,22,Kappa Sigma,,0
+1962,M,23,Pi Kappa Tau,,0
+1962,M,24,Ferguson House,,0
+1962,M,25,Sigma Pi,,0
+1962,M,26,Phi Kappa Theta,,0
+1962,M,27,Forest Hall,,0
+1962,M,28,Campbell House,,0
+1962,M,29,Theta Chi,,0
+1962,M,30,Stockwell House,,0
+1962,M,31,Elliott House,,0
+1962,M,32,Sigma Chi,,0
+1962,M,33,Parks House,,0
+1961,M,1,Acacia,02:22.2,200
+1961,M,2,Phi Gamma Delta,,0
+1961,M,3,Phi Kappa Psi,,0
+1961,M,4,Lambda Chi Alpha,,0
+1961,M,5,Beta Theta Pi,,0
+1961,M,6,Sigma Phi Epsilon,,0
+1961,M,7,Sigma Nu,,0
+1961,M,8,Phi Delta Theta,,0
+1961,M,9,Sigma Alpha Epsilon,,0
+1961,M,10,Dodds House,,0
+1961,M,11,Sigma Chi,,0
+1961,M,12,Chi Phi,,0
+1961,M,13,Zeta Beta Tau,,0
+1961,M,14,Kappa Delta Rho,,0
+1961,M,15,Delta Tau Delta,,0
+1961,M,16,Walnut House,,0
+1961,M,17,Stockwell House,,0
+1961,M,18,Kappa Sigma,,0
+1961,M,19,Delta Upsilon,,0
+1961,M,20,Theta Chi,,0
+1961,M,21,Normal College,,0
+1961,M,22,Alpha Tau Omega,,0
+1961,M,23,Laurel Hall,,0
+1961,M,24,Campbell House,,0
+1961,M,25,Forest Hall,,0
+1961,M,26,Dunn House,,0
+1961,M,27,Parks House,,0
+1961,M,28,Delta Chi,,0
+1961,M,29,Tau Kappa Epsilon,,0
+1961,M,30,Alpha Epsilon Pi,,0
+1961,M,31,Maple Hall North,,0
+1961,M,32,Hall House,,0
+1961,M,33,Phi Sigma Kappa,,0
+1960,M,1,Phi Kappa Psi,02:21.5,200
+1960,M,2,Sigma Alpha Epsilon,,0
+1960,M,3,Lambda Chi Alpha,,0
+1960,M,4,Sigma Nu,,0
+1960,M,5,Phi Gamma Delta,,0
+1960,M,6,Chi Phi,,0
+1960,M,7,Alpha Tau Omega,,0
+1960,M,8,Acacia,,0
+1960,M,9,The Dunn House,,0
+1960,M,10,Delta Chi,,0
+1960,M,11,Dodds House,,0
+1960,M,12,Delta Upsilon,,0
+1960,M,13,Sigma Phi Epsilon,,0
+1960,M,14,Campbell House,,0
+1960,M,15,Sigma Chi,,0
+1960,M,16,Beta Theta Pi,,0
+1960,M,17,Towers Center B,,0
+1960,M,18,Forest Hall,,0
+1960,M,19,Pi Kappa Phi,,0
+1960,M,20,Zeta Beta Tau,,0
+1960,M,21,Phi Sigma Kappa,,0
+1960,M,22,Kappa Delta Rho,,0
+1960,M,23,Harding House,,0
+1960,M,24,Ruter House,,0
+1960,M,25,Sigma Pi,,0
+1960,M,26,Ferguson House,,0
+1960,M,27,Sigma Alpha Mu,,0
+1960,M,28,Delta Tau Delta,,0
+1960,M,29,Theta Chi,,0
+1960,M,30,Kappa Sigma,,0
+1960,M,31,Elliott House,,0
+1960,M,32,Lower Linden,,0
+1960,M,33,Phi Delta Theta,,0
+1959,M,1,Phi Kappa Psi,02:25.0,200
+1959,M,2,Sigma Alpha Epsilon,02:25.2,200
+1959,M,3,Sigma Nu,02:27.2,200
+1959,M,4,Chi Phi,02:28.2,200
+1959,M,5,Acacia,02:28.3,200
+1959,M,6,Phi Gamma Delta,02:30.2,200
+1959,M,7,Lambda Chi Alpha,02:30.5,200
+1959,M,8,Fergason House,02:31.5,200
+1959,M,9,Dodds House,02:32.5,200
+1959,M,10,Rollins House,02:33.2,200
+1959,M,11,Phi Delta Theta,02:32.6,199
+1959,M,12,Pi Kappa Phi,02:33.1,199
+1959,M,13,West Linden,02:32.4,198
+1959,M,14,Delta Chi,02:32.4,197
+1959,M,15,Dunn House,02:33.1,195
+1959,M,16,Sigma Chi,02:32.5,194
+1959,M,17,Theta Chi,02:33.1,193
+1959,M,18,Sigma Phi Epsilon,02:33.2,193
+1959,M,19,Delta Upsilon,02:33.0,192
+1959,M,20,South Hall Buccaneers,02:32.5,190
+1959,M,21,North Hall Friars,02:32.6,189
+1959,M,22,Beta Theta Pi,02:33.0,188
+1959,M,23,Alpha Tau Omega,02:32.5,187
+1959,M,24,Ruter House,02:32.6,184
+1959,M,25,Todd House,02:32.6,183
+1959,M,26,Zeta Beta Tau,02:32.6,183
+1959,M,27,Hickory Hall,02:33.1,183
+1959,M,28,Sigma Pi,02:32.4,182
+1959,M,29,West Hall Trojans,02:32.5,182
+1959,M,30,Phi Sigma Kappa,02:32.4,181
+1959,M,31,Delta Tau Delta,02:33.1,179
+1959,M,32,Kappa Sigma,02:33.1,176
+1959,M,33,Sigma Alpha Mu,02:32.6,175
+1958,M,1,Phi Kappa Psi,02:17:23,200
+1958,M,2,Sigma Nu,,0
+1958,M,3,Phi Gamma Delta,,0
+1958,M,4,Delta Upsilon,,0
+1958,M,5,Sigma Alpha Epsilon,,0
+1958,M,6,West Hall II,,0
+1958,M,7,South Cottage Grove,,0
+1958,M,8,Phi Delta Theta,,0
+1958,M,9,Acacia,,0
+1958,M,10,Sigma Pi,,0
+1958,M,11,Chi Phi,,0
+1958,M,12,Alpha Tau Omega,,0
+1958,M,13,Tau Kappa Epsilon,,0
+1958,M,14,South Hall Buccaneers,,0
+1958,M,15,Delta Chi,,0
+1958,M,16,Beta Theta Pi,,0
+1958,M,17,Dodds House,,0
+1958,M,18,Rollins House,,0
+1958,M,19,Kappa Delta Rho,,0
+1958,M,20,Ferguson House,,0
+1958,M,21,North Hall Barons,,0
+1958,M,22,Delta Tau Delta,,0
+1958,M,23,Hickory Hall West,,0
+1958,M,24,Kappa Kappa Psi,,0
+1958,M,25,Kappa Sigma,,0
+1958,M,26,Lambda Chi Alpha,,0
+1958,M,27,Sigma Alpha Mu,,0
+1958,M,28,Rogers V,,0
+1958,M,29,Harding House,,0
+1958,M,30,Zeta Beta Tau,,0
+1958,M,31,Hall House,,0
+1958,M,32,Laurel House,,0
+1958,M,33,Ruter House,,0
+1957,M,1,Sigma Nu,02:19:56,200
+1957,M,2,Dodds House,,0
+1957,M,3,Acacia,,0
+1957,M,4,Phi Delta Theta,,0
+1957,M,5,Delta Chi,,0
+1957,M,6,Phi Gamma Delta,,0
+1957,M,7,Alpha Tau Omega,,0
+1957,M,8,Sigma Pi,,0
+1957,M,9,Ruter House,,0
+1957,M,10,Delta Upsilon,,0
+1957,M,11,South Cottage Grove,,0
+1957,M,12,North Hall Barons,,0
+1957,M,13,Tau Kappa Epsilon,,0
+1957,M,14,Phi Kappa Psi,,0
+1957,M,15,West Hall Saints,,0
+1957,M,16,Kappa Sigma,,0
+1957,M,17,Sigma Chi,,0
+1957,M,18,Rollins House,,0
+1957,M,19,Maple Hall North,,0
+1957,M,20,South Hall Buccaneers,,0
+1957,M,21,Delta Tau Delta,,0
+1957,M,22,Kappa Delta Rho,,0
+1957,M,23,Elliott House,,0
+1957,M,24,Lambda Chi Alpha,,0
+1957,M,25,Todd House,,0
+1957,M,26,Dunn House,,0
+1957,M,27,Zeta Beta Tau,,0
+1957,M,28,Nichols House,,0
+1957,M,29,Hall House,,0
+1957,M,30,West Hall Trojans,,0
+1957,M,31,Sigma Alpha Mu,,0
+1957,M,32,Parks House,,0
+1957,M,33,Theta Xi,,0
+1956,M,1,Phi Gamma Delta,02:31:13,200
+1956,M,2,Dodds House Gargoyles,,0
+1956,M,3,South Cottage Grove,,0
+1956,M,4,Delta Chi,,0
+1956,M,5,Sigma Nu,,0
+1956,M,6,North Hall Barons,,0
+1956,M,7,Sigma Pi,,0
+1956,M,8,Acacia,,0
+1956,M,9,Kappa Delta Rho,,0
+1956,M,10,Phi Delta Theta,,0
+1956,M,11,Phi Kappa Psi,,0
+1956,M,12,Delta Upsilon,,0
+1956,M,13,Laurel Hall North,,0
+1956,M,14,Maple Hall North,,0
+1956,M,15,Rollins House,,0
+1956,M,16,Rogers I,,0
+1956,M,17,Sigma Alpha Epsilon,,0
+1956,M,18,Ruter House,,0
+1956,M,19,West Hall II,,0
+1956,M,20,Tau Kappa Epsilon,,0
+1956,M,21,Dunn House,,0
+1956,M,22,West Hall Trojans,,0
+1956,M,23,Kappa Sigma,,0
+1956,M,24,Sigma Chi,,0
+1956,M,25,Alpha Tau Omega,,0
+1956,M,26,Hickory Hall West,,0
+1956,M,27,Parks House,,0
+1956,M,28,Maple Hall South,,0
+1956,M,29,South Hall A,,0
+1956,M,30,Theta Chi,,0
+1956,M,31,Hall House Esquires,,0
+1956,M,32,Theta Xi,,0
+1956,M,33,North Hall Cavaliers,,0
+1955,M,1,South Cottage Grove,02:36:25,200
+1955,M,2,West Hall Trojans,,0
+1955,M,3,Delta Chi,,0
+1955,M,4,Acacia,,0
+1955,M,5,North Hall Barons,,0
+1955,M,6,Sigma Nu,,0
+1955,M,7,Phi Gamma Delta,,0
+1955,M,8,Dodds House,,0
+1955,M,9,Phi Delta Theta,,0
+1955,M,10,Phi Kappa Psi,,0
+1955,M,11,Sigma Pi,,0
+1955,M,12,Rollins House,,0
+1955,M,13,Hickory Hall West,,0
+1955,M,14,Sigma Alpha Epsilon,,0
+1955,M,15,Ruter House,,0
+1955,M,16,Zeta Beta Tau,,0
+1955,M,17,Hickory Hall East,,0
+1955,M,18,Kappa Sigma,,0
+1955,M,19,Kappa Delta Rho,,0
+1955,M,20,Roger I,,0
+1955,M,21,Phi Kappa,,0
+1955,M,22,Sigma Phi Epsilon,,0
+1955,M,23,Pi Lambda Phi,,0
+1955,M,24,Delta Tau Delta,,0
+1955,M,25,Parks House,,0
+1955,M,26,Alpha Tau Omega,,0
+1955,M,27,West Hall Saints,,0
+1955,M,28,Lambda Chi Alpha,,0
+1955,M,29,Elliott House,,0
+1955,M,30,Sigma Alpha Mu,,0
+1955,M,31,Phi Sigma Kappa,,0
+1955,M,32,Theta Chi,,0
+1955,M,33,Delta Upsilon,,0
+1954,M,1,Sigma Nu,02:45:35,200
+1954,M,2,Acacia,,0
+1954,M,3,Alpha Tau Omega,,0
+1954,M,4,North Hall Barons,,0
+1954,M,5,Phi Delta Theta,,0
+1954,M,6,Todd House,,0
+1954,M,7,Phi Gamma Delta,,0
+1954,M,8,Delta Chi,,0
+1954,M,9,Dodds House,,0
+1954,M,10,Phi Kappa,,0
+1954,M,11,Sigma Pi,,0
+1954,M,12,North Hall Friars,,0
+1954,M,13,Sigma Alpha Epsilon,,0
+1954,M,14,Phi Kappa Psi,,0
+1954,M,15,Lambda Chi Alpha,,0
+1954,M,16,Alpha Phi Alpha,,0
+1954,M,17,Dunn House,,0
+1954,M,18,Rogers West W,,0
+1954,M,19,Delta Upsilon,,0
+1954,M,20,Theta Chi,,0
+1954,M,21,South Hall B,,0
+1954,M,22,Sigma Chi,,0
+1954,M,23,Kappa Delta Rho,,0
+1954,M,24,Sigma Alpha Mu,,0
+1954,M,25,Beta Theta Pi,,0
+1954,M,26,Zeta Beta Tau,,0
+1954,M,27,Pi Kappa Phi,,0
+1954,M,28,Delta Tau Delta,,0
+1954,M,29,Tau Kappa Epsilon,,0
+1954,M,30,Harding House,,0
+1954,M,31,Jenkins House,,0
+1954,M,32,Phi Sigma Kappa,,0
+1954,M,33,Parks House,,0
+1953,M,1,North Hall Friars,02:28:28,200
+1953,M,2,Acacia,,0
+1953,M,3,Sigma Alpha Epsilon,,0
+1953,M,4,Delta Upsilon,,0
+1953,M,5,Phi Kappa Psi,,0
+1953,M,6,Phi Delta Theta,,0
+1953,M,7,Alpha Tau Omega,,0
+1953,M,8,Zeta Beta Tau,,0
+1953,M,9,Phi Gamma Delta,,0
+1953,M,10,Sigma Pi,,0
+1953,M,11,Phi Kappa,,0
+1953,M,12,Phi Sigma Kappa,,0
+1953,M,13,Sigma Nu,,0
+1953,M,14,Kappa Delta Rho,,0
+1953,M,15,West Hall IV Saints,,0
+1953,M,16,West Hall II,,0
+1953,M,17,Phi Kappa Alpha,,0
+1953,M,18,South Hall B,,0
+1953,M,19,Beta Theta Pi,,0
+1953,M,20,Dodds House--MQ,,0
+1953,M,21,North Hall Cavaliers,,0
+1953,M,22,Kappa Sigma,,0
+1953,M,23,Lambda Chi Alpha,,0
+1953,M,24,Todd House,,0
+1953,M,25,Delta Tau Delta,,0
+1953,M,26,Rogers East W,,0
+1953,M,27,Lowe House--MQ,,0
+1953,M,28,Ruter House--MQ,,0
+1953,M,29,Sigma Chi,,0
+1953,M,30,Sigma Phi Epsilon,,0
+1953,M,31,Theta Chi,,0
+1953,M,32,Hummer House--MQ,,0
+1953,M,33,Jenkins House-MQ,,0
+1952,M,1,North Hall Friars (Collins),02:26.1,200
+1952,M,2,Rogers East V,,0
+1952,M,3,Phi Kappa Psi,,0
+1952,M,4,Phi Delta Theta,,0
+1952,M,5,Alpha Tau Omega,,0
+1952,M,6,Zeta Beta Tau,,0
+1952,M,7,Sigma Chi,,0
+1952,M,8,Kappa Sigma,,0
+1952,M,9,Sigma Pi,,0
+1952,M,10,The Dodds House (Wright),,0
+1952,M,11,South Hall B (Collins),,0
+1952,M,12,Todd House (Wright),,0
+1952,M,13,North Hall Cavaliers (Collins),,0
+1952,M,14,Rogers East W,,0
+1952,M,15,Pi Kappa Phi,,0
+1952,M,16,Lowe House (Wright),,0
+1952,M,17,Rogers West W,,0
+1952,M,18,West Hall III Trojans,,0
+1952,M,19,Hummer House (Wright),,0
+1952,M,20,Nichols House (Wright),,0
+1952,M,21,Theta Chi,,0
+1952,M,22,North Hall Barons (Collins),,0
+1952,M,23,Lambda Chi Alpha,,0
+1952,M,24,Pi Kappa Tau,,0
+1952,M,25,Kappa Detla Rho,,0
+1952,M,26,Alpha Phi Alpha,,0
+1952,M,27,Beta Theta Pi,,0
+1952,M,28,Theta Xi,,0
+1952,M,29,Rogers West V,,0
+1952,M,30,South Hall Buccaneers (Collins),,0
+1952,M,31,Sigma Alpha Mu,,0
+1952,M,32,Campbell House (Wright),,0
+1952,M,33,Pi Kappa Alpha,,0
+1951,M,1,South Hall Buccaneers (Collins),02:38.0,200
+1951,M,2,Sigma Alpha Epsilon,02:42.0,200
+1951,M,3,Phi Gamma Delta,02:46.0,200
+1951,M,4,Rogers East V,02:45.0,200
+1951,M,5,Lambda Chi Alpha,02:46.0,200
+1951,M,6,North Hall Friars (Collins),02:47.0,200
+1951,M,7,Zeta Beta Tau,02:49.0,200
+1951,M,8,Phi Kappa Pi,02:50.0,200
+1951,M,9,Beta Theta Pi,02:50.0,200
+1951,M,10,Phi Delta Theta,02:51.0,200
+1951,M,11,Sigma Pi,02:52.0,200
+1951,M,12,Dodds House (Wright Quad),02:53.0,200
+1951,M,13,Delta Upsilon,,200
+1951,M,14,Theta Chi,,200
+1951,M,15,Alpha Tau Omega,,200
+1951,M,16,South Hall B (Collins),,0
+1951,M,17,Sigma Nu,,0
+1951,M,18,Elliott House (Wright Quad),,0
+1951,M,19,North Hall Cavaliers (Collins),,0
+1951,M,20,Ferguson House (Wright Quad),,0
+1951,M,21,Nichols House  (Wright Quad),,0
+1951,M,22,Delta Tau Delta,,0
+1951,M,23,Phi Sigma Kappa,,0
+1951,M,24,Rogers West T,,0
+1951,M,25,Acacia,,0
+1951,M,26,Alpha Phi Alpha,,0
+1951,M,27,Kappa Sigma,,0
+1951,M,28,Kappa Delta Rho,,0
+1951,M,29,Pi Lambda Phi,,0
+1951,M,30,Pi Kappa Alpha,,0
+1951,M,31,Parks House  (Wright Quad),,0
+1951,M,32,Jenkins House  (Wright Quad),,0
+1951,M,33,Hummer House  (Wright Quad),,0

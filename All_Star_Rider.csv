@@ -1,0 +1,793 @@
+Year,Gender,Name,Team
+2023,F,Grace Washburn,Melanzana Cycling
+2023,F,Jenna Rodgers,Alpha Chi Omega
+2023,F,Abby Green,Melanzana Cycling
+2023,F,Sydney Ruff,Kappa Kappa Gamma
+2023,F,Rachael Miller,SKI
+2023,F,Shannon Kerr,Delta Gamma
+2023,F,Clare Bruen,Alpha Chi Omega
+2023,F,Audrey La Valle,Kappa Alpha Theta
+2023,M,Josh Herbst,Delta Tau Delta
+2023,M,Torin Kray-Mawhorr,CUTTERS
+2023,M,Carson Etnyre,Phi Kappa Psi
+2023,M,Will Pitts,Sigma Phi Epsilon
+2023,M,Jonathan Frazier,Chi Alpha
+2023,M,Conor Berry,Alpha Sigma Phi
+2023,M,Lukas Troutman,IUDM
+2023,M,Drew Gavette,Sigma Phi Epsilon
+2023,M,Ben McKeown,Beta Sigma Psi
+2021,M,Robert Strobel,Black Key Bulls
+2021,M,Andrew La Valle,Phi Kappa Psi
+2021,M,Logan Tisdale,Gray Goat
+2021,M,Robert Krahulik,Jetblach
+2021,M,Matthew Cooper,Phi Gamma Delta
+2021,M,Anoop Chinthala,Beta Sigma Psi
+2021,M,Chase Madsen,Chi Alpha
+2021,M,Rhys Ivory-Ganja,Sigma Phi Epsilon
+2021,F,Evie Peterson,Melanzana Cycling
+2021,F,Jessica Hamilton,Alpha Xi Delta
+2021,F,Katherine Free,Delta Gamma
+2021,F,Anna Young,Kappa Alpha Theta
+2021,F,Corrine Miller,Teter
+2021,F,Margaret Nicholson,Ski
+2021,F,Alex Waples,Alpha Delta Pi
+2021,F,Megan Phillips,Alpha Xi Delta
+2019,F,Laurie Bignal,Delta Gamma
+2019,F,Lauren Britt,Teter
+2019,F,Hanna Coppens,Delta Gamma
+2019,F,Miller Fahey,Alpha Chi Omega
+2019,F,Emily Heldman,Phi Mu
+2019,F,Caitlin Kamplain,Theta Phi Alpha
+2019,F,Rylee Ollearis,Alpha Chi Omega
+2019,M,Jeffrey Beaumont,Phi Delta Theta
+2019,M,Noble Guyon,Cutters
+2019,M,Caleb Langley,Bears
+2019,M,Albert La Valle,Phi Kappa Psi
+2019,M,Xavier Martinez,Black Key Bulls
+2019,M,Robert Oehler,Jetblach
+2019,M,Tom Settle,Sigma Phi Epsilon
+2019,M,Logan Tisdale,Gray Goat
+2018,M,Samual Stratton,Gray Goat
+2018,M,Michael Schmal,Jetblach
+2018,M,Kevin Mangel,Black Key Bulls
+2018,M,Noble Guyon,Cutters
+2018,M,Erik Schwedland,Cutters
+2018,M,Joe Krahulik,Sigma Alpha Epsilon
+2018,M,Charlie Hicks,Sigma Phi Epsilon
+2018,M,Jack McNamara,Beta Theta Pi
+2018,F,Lauren Britt,Teter
+2018,F,Katie Niesen,Teter
+2018,F,Hanna Coppens,Delta Gamma
+2018,F,Rachel Brown,Kappa Alpha Theta
+2018,F,Sydney Keaton,Kappa Alpha Theta
+2018,F,Caitlin Kamplain,Theta Phi Alpha
+2018,F,Erin Adair,Alpha Gamma Delta
+2018,F,Melissa Ford,Melanzana Cycling
+2017,M,Joseph Krahulik,Sigma Alpha Epsilon
+2017,M,Reid Wilson,3PH
+2017,M,Charlie Hammon,Black Key Bulls
+2017,M,Brad Klingele,Gray Goat
+2017,M,Xavier Martinez,Black Key Bulls
+2017,M,James Welch,Gray Goat
+2017,M,Abel Barrera Duran,Delta Chi
+2017,M,Thomas Torbik,Gray Goat
+2017,F,Kristen Bignal,Delta Gamma
+2017,F,Leigh Dukeman,Alpha Omicron Pi
+2017,F,Megan Huibregtse,Ski
+2017,F,Ali Oppel,Alpha Omicron Pi
+2017,F,Grace Bennett,Kappa Alpha Theta
+2017,F,Abby Vehrs,Phi Mu
+2017,F,Evelyn Malcomb,Kappa Alpha Theta
+2017,F,Lexie Kolar,Alpha Chi Omega
+2016,M,Charlie Hammon,Black Key Bulls
+2016,M,Nick Hartman,Black Key Bulls
+2016,M,Kyle Knight,Beta Theta Pi
+2016,M,Andrew Krahulik,Sigma Alpha Epsilon
+2016,M,Joseph Krahulik,Sigma Alpha Epsilon
+2016,M,Rob Lee,Phi Delta Theta
+2016,M,Ryan Romenesko,Phi Delta Theta
+2016,M,Luke Tormoehlem,Delta Tau Delta
+2016,F,Kristen Bignal,Delta Gamma
+2016,F,Megan Huibregtse,Ski
+2016,F,Fallon Lilly,Melanzana Cycling
+2016,F,Libby Momper,Kappa Delta
+2016,F,Ali Oppel,Alpha Omicron Pi
+2016,F,Michaela Ranft,Alpha Omicron Pi
+2016,F,Abby Rogers,Kappa Alpha Theta
+2016,F,Tabitha Sherwood,Phoenix
+2015,M,Nick Thiery,Cutters
+2015,M,Spencer Brauchla,Black Key Bulls
+2015,M,Rob Lee,Phi Delta Theta
+2015,M,Chris Craig,Beta Theta Pi
+2015,M,Nick Torrence,Sigma Phi Epsilon
+2015,M,Andrew Krahulik,Sigma Alpha Epsilon
+2015,M,Luke Momper,Delta Tau Delta
+2015,M,Austin Portolese,Forest
+2015,F,Megan Huibregtse,Ski
+2015,F,Ashton DeHahn,Teter
+2015,F,Jackie Kober,Phi Mu
+2015,F,Elizabeth Lieberman,Kappa Alpha Theta
+2015,F,Fallon Lilly,Melanzana Cycling
+2015,F,Tabitha Sherwood,Phoenix
+2015,F,Syndey Schreiber,Alpha Chi Omega
+2015,F,Abby Rogers,Kappa Alpha Theta
+2014,M,Toby Kemp,Delta Sigma Pi
+2014,M,Charlie McClary,Phi Gamma Delta
+2014,M,Paul Smith,Delta Tau Delta
+2014,M,Rob Lee,Phi Delta Theta
+2014,M,Jacob Miller,Black Key Bulls
+2014,M,Michael Wilkie,Gray Goat
+2014,M,Brian Arfmann,Sigma Chi
+2014,M,Andrew Krahulik,Sigma Alpha Epsilon
+2014,F,Kelsey Tharnstrom,Alpha Chi Omega
+2014,F,Emma Caughlin,Teter
+2014,F,Aryn Doll,Chi Omega
+2014,F,Ashton DeHahn,Teter
+2014,F,Lyndii Hollis,Cru
+2014,F,Jeni Gillenwater,Phi Mu
+2014,F,Katie Reynolds,Melanzana Cycling
+2014,F,Jenny Goodwin,Kappa Kappa Gamma
+2013,M,Timothy Nixon,Cutters
+2013,M,Kevin Depasse,Cutters
+2013,M,Paul Smith,Delta Tau Delta
+2013,M,Brant Powell,Black Key Bulls
+2013,M,Eric Anderson,Beta Theta Pi
+2013,M,William Kragie,Beta Theta Pi
+2013,M,Dan Kinn,Black Key Bulls
+2013,M,Luke Momper,Delta Tau Delta
+2013,F,Kayce Doogs,Delta Gamma
+2013,F,Kathleen Chelminiak,Kappa Alpha Theta
+2013,F,Melissa Moeller,Wing It
+2013,F,Jackie Stevens,Kappa Kappa Gamma
+2013,F,Aryn Doll,Chi Omega
+2013,F,Christine Ball,Melanzana Cycling
+2013,F,Kelsey Phillips,Delta Gamma
+2013,F,Emma Caughlin,Teter
+2012,M,RJ Stuart,Delta Tau Delta
+2012,M,Kevin Depasse,Cutters
+2012,M,Rex Rafferty,Black Key Bulls
+2012,M,Andrew Morrow,Sigma Chi
+2012,M,Steve Sharp,Phi Delta Theta
+2012,M,Phil Sojka,Delta Tau Delta
+2012,M,Greg Bortz,Acacia
+2012,M,Eric Anderson,Beta Theta Pi
+2012,F,Kayce Doogs,Delta Gamma
+2012,F,Kathleen Chelminiak,Kappa Alpha Theta
+2012,F,Melissa Moeller,Wing It
+2012,F,Emma Caughlin,Teter
+2012,F,Kelsey Phillips,Delta Gamma
+2012,F,Lauren Gowdy,Teter
+2012,F,Aileen Ottenweller,Army Women
+2012,F,Abigail Legg,Wing It
+2011,M,RJ Stuart,Delta Tau Delta
+2011,M,Adam Fish,Sigma Chi
+2011,M,Eric Young,Cutters
+2011,M,Andrew Morrow,Sigma Chi
+2011,M,Steve Sharp,Phi Delta Theta
+2011,M,Jordan Bailey,Black Key Bulls
+2011,M,Greg Bortz,Acacia
+2011,M,Christopher West,Phi Delta Theta
+2011,F,Caitlin Van Kooten,Teter
+2011,F,Melinda Balchan,Alpha Gamma Delta
+2011,F,Sonja Arnesen,Gamma Phi Beta
+2011,F,Kelsey Kent,Delta Gamma
+2011,F,Amy Dickman,Kappa Alpha Theta
+2011,F,Hannah Calvert,Army Women
+2011,F,Aileen Ottenweller,Army Women
+2011,F,Caroline Brown,Pi Beta Phi
+2011,F,Abigail Legg,Wing It
+2010,M,Stephen Quay,Black Key Bulls
+2010,M,Ren-Jay Shei,Black Key Bulls
+2010,M,Eric Young,Cutters
+2010,M,Clayton Feldman,Cutters
+2010,M,Steve Sharp,Phi Delta Theta
+2010,M,Baxter Burnworth,Phi Delta Theta
+2010,M,Dan Brown,Phi Kappa Psi
+2010,M,Adam Mercer,Phi Kappa Psi
+2010,F,Caitlin Van Kooten,Teter
+2010,F,Ellen Knecht,Alpha Gamma Delta
+2010,F,Lauren Half,Delta Gamma
+2010,F,Kelsey Kent,Delta Gamma
+2010,F,Kristen Methard,Kappa Alpha Theta
+2010,F,Erin Axley,Kappa Alpha Theta
+2010,F,Katie Sauter,Kappa Kappa Gamma
+2010,F,Caroline Brown,Pi Beta Phi
+2009,M,Kenny Parks,Team Major Taylor
+2009,M,Jordan Bailey,Black Key Bulls
+2009,M,Clayton Feldman,Cutters
+2009,M,Eric Young,Cutters
+2009,M,Matt Neibler,Delta Tau Delta
+2009,M,David Richardson-Rossbach,Delta Upsilon
+2009,M,Valentine Todorow,Black Key Bulls
+2009,M,Steve Ziemba,Alpha Tau Omega
+2009,F,Sonja Arnesen,Gamma Phi Beta
+2009,F,Jennifer Balbach,Kappa Delta
+2009,F,Caroline Brown,Pi Beta Phi
+2009,F,Kristina Heath,Delta Gamma
+2009,F,Lauren Half,Delta Gamma
+2009,F,Kristi Hewitt,Wing It
+2009,F,Jackie Moeller,Teter
+2009,F,Olivia Yeagy,Athena
+2008,M,Ali Camara,Team Major Taylor
+2008,M,Mike Segal,Phi Kappa Psi
+2008,M,Isaac Neff,Black Key Bulls
+2008,M,Mike Sherer,Dodds House
+2008,M,Kenny Parks,Team Major Taylor
+2008,M,Sasha Land,Cutters
+2008,M,Paul Sigfusson,Cutters
+2008,M,David Schweer,Phi Kappa Psi
+2008,F,Pam Loebig,Cycledelics
+2008,F,Jessica Lander,Delta Gamma
+2008,F,Kristina Heath,Delta Gamma
+2008,F,Kristi Hewitt,Wing It
+2008,F,Evelyn Ewing,Cycledelics
+2008,F,Julianne Ellis,Delta Gamma
+2008,F,Liz Pallota,Kappa Alpha Theta
+2008,F,Julie Panzica,Kappa Delta
+2008,F,Jackie Moeller,Teter
+2008,F,Sarah Rieke,Teter
+2007,M,Erik Styacich,Phi Kappa Psi
+2007,M,Alex Bishop,Cutters
+2007,M,Isaac Neff,Black Key Bulls
+2007,M,David Caughlin,Cutters
+2007,M,Chris Chartier,Dodds House
+2007,M,Ali Camara,Team Major Taylor
+2007,M,Brian Adams,Phi Kapppa Psi
+2007,M,Daniel Houchens,Dodds House
+2007,M,Sasha Land,Cutters
+2007,F,Sarah Rieke,Teter
+2007,F,Lindsey Manck,Kappa Delta
+2007,F,Trevy Ramos,Alpha Phi
+2007,F,Brittany Mahoney,Kappa Alpha Theta
+2007,F,Nattie Deinlein,Alpha Chi Omega
+2007,F,Pam Loebig,Cycledelics
+2007,F,Katie Haft,Athena
+2007,F,Meg Church,Cycledelics
+2006,M,Michael Carey,Briscoe
+2006,M,Alex Bishop,Cutters
+2006,M,Kevin Moore,Dodds House
+2006,M,Chris Chartier,Dodds House
+2006,M,Joe Keck,Phi Gamma Delta
+2006,M,Hans Arnesen,Alpha Tau Omega
+2006,M,Erik Hamilton,Cinzano
+2006,M,Andy Cvengros,Acacia
+2006,F,Lauren Ziemba,Kappa Delta
+2006,F,Jess Sapp,Kappa Kappa Gamma
+2006,F,Lindsey Manck,Kappa Delta
+2006,F,Katie Thompson,Alpha Phi
+2006,F,Trevy Ramos,Alpha Phi
+2006,F,Abby Cooper,Bella Veloce
+2006,F,Laura Horvath,Cycledelics
+2006,F,Brittany Mahoney,Kappa Alpha Theta
+2005,M,Hans Arnesen,Alpha Tau Omega
+2005,M,Matt Davis,Phi Gamma Delta
+2005,M,Craig Luekens,Dodds House
+2005,M,Sasha Land,Cutters
+2005,M,Kevin Moore,Dodds House
+2005,M,Mike Carey,Briscoe
+2005,M,Ryan Smith,Delta Upsilon
+2005,M,Steve Spencer,Phi Gamma Delta
+2005,F,Abby Cooper,Bella Veloce
+2005,F,Katie Douglas,Teter
+2005,F,Jess Lindeman,Teter
+2005,F,Mia Dragon,Teter
+2005,F,Liz Milne,Kappa Alpha Theta
+2005,F,Kelsey Cooper,Kappa Kappa Gamma
+2005,F,Meredith Horner,Kappa Kappa Gamma
+2005,F,Jess Sapp,Kappa Kappa Gamma
+2004,M,Chris Vargo,Cutters
+2004,M,Jason Fowler,Cutters
+2004,M,Hans Arnesen,Alpha Tau Omega
+2004,M,Tom Meersman,Alpha Tau Omega
+2004,M,Matt Davis,Phi Gamma Delta
+2004,M,Tim Smith,Briscoe
+2004,M,Craig Luekens,Dodds House
+2004,M,David Jordan,ACR Cycling
+2004,F,Bri Kovac,Teter
+2004,F,Jessica Lindeman,Teter
+2004,F,Mia Dragon,Teter
+2004,F,Jessica Sapp,Kappa Kappa Gamma
+2004,F,Meredith Horner,Kappa Kappa Gamma
+2004,F,Kelsey Cooper,Kappa Kappa Gamma
+2004,F,Renee Luzadder,Delta Zeta
+2004,F,Nicole Vincent,Kappa Alpha Theta
+2004,F,Corey Bitzer,Alpha Gamma Delta
+2003,M,Kevin Vanes,Acacia
+2003,M,Luke Isenbarger,Corleones
+2003,M,John Grant,Gafombi
+2003,M,Dan Burns,Corleones
+2003,M,Simeon Commissiong,Team Major Taylor
+2003,M,Matt Ewing,Phi Delta Theta
+2003,M,Jason Mount,Sigma Pi
+2003,M,Mike Rubin,Gafombi
+2003,F,Nicole Vincent,Kappa Alpha Theta
+2003,F,Meredith Horner,Kappa Kappa Gamma
+2003,F,Rachel Clark,Speed
+2003,F,Analisa Dziedziejko,Phi Mu
+2003,F,Kimberly Gerbers,Kappa Delta
+2003,F,Corey Bitzer,Alpha Gamma Delta
+2003,F,Liz Keck,Alpha Chi Omega
+2003,F,Bri Kovac,Teter
+2002,M,Kevin Vanes,Acacia
+2002,M,Daniel Burns,Corleones
+2002,M,Chris Irk,Corleones
+2002,M,Todd Cornelius,Phi Gamma Delta
+2002,M,John Grant,Gafombi
+2002,M,Michael Rubin,Gafombi
+2002,M,Michael Nierengarten,Phi Gamma Delta
+2002,M,Matt Marketti,Phi Delta Theta
+2002,F,Robyn Faike,Con Fuoco
+2002,F,Jenn Wangerin,Roadrunners
+2002,F,Lauren Naset,Delta Gamma
+2002,F,Analisa Dziedziejko,Phi Mu
+2002,F,Kimberly Gerbers,Kappa Delta
+2002,F,Rachel Clark,Single Speed Sprinters
+2002,F,Jeanne Foote,Kappa Alpha Theta
+2002,F,Liz Keck,Alpha Chi Omega
+2001,M,Michael Choinacky,Teter
+2001,M,Kevin Vanes,Acacia
+2001,M,Todd Cornelius,Phi Gamma Delta
+2001,M,Jason Sonneborn,Delta Chi
+2001,M,Matt Marketti,Phi Delta Theta
+2001,M,David Eaton,Teter
+2001,M,Dan Burns,Sigma Alpha Epsilon
+2001,M,Josh Beatty,Phi Delta Theta
+2001,F,Jeannette Nigon,Cycledelics
+2001,F,Tammy Lueck,Cycledelics
+2001,F,Emily Derkasch,Alpha Delta Pi
+2001,F,Dierdre Finzer,Gamma Phi Beta
+2001,F,Sara Coffman,Kappa Alpha Theta
+2001,F,Brett Gentile,Kappa Alpha Theta
+2001,F,Lauren Naset,Delta Gamma
+2001,F,Heidi Marshall,Kappa Delta
+2001,F,Megan Lambeth,Alpha Xi Delta
+2000,M,Chris Wojtowich,Cutters
+2000,M,Jonathan Carlson,Cutters
+2000,M,Todd Smith,Theta Chi
+2000,M,Matt Burns,Sigma Alpha Epsilon
+2000,M,Josh Beatty,Phi Delta Theta
+2000,M,Todd Cornelius,Phi Gamma Delta
+2000,M,Jason Sonneborn,Delta Chi
+2000,M,Sam Horton,Phi Gamma Delta
+2000,F,Anne Holterhoff,Kappa Alpha Theta
+2000,F,Elizabeth Andrew,Kappa Kappa Gamma
+2000,F,Kara Kenney,Phi Mu
+2000,F,Lauren Naset,Delta Gamma
+2000,F,Jill Harkness,Delta Zeta
+2000,F,Emily Derkasch,Alpha Delta Pi
+2000,F,Nicole Duggan,Kappa Alpha Theta
+2000,F,Cristina Winslow,Alpha Delta Pi
+1999,M,Kurt Gensheimer,Acacia
+1999,M,Mike Possley,Phi Delta Theta
+1999,M,Matt Delks,Sigma Alpha Epsilon
+1999,M,Steve Kopach,Sigma Phi Epsilon
+1999,M,Todd Smith,Theta Chi
+1999,M,Chris Wojtowich,Cutters
+1999,M,Matt Burns,Sigma Alpha Epsilon
+1999,M,Jett Tackbary,Sigma Phi Epsilon
+1999,F,Janet Kiefer,Phi Mu
+1999,F,Lisa Roessler,Kappa Kappa Gamma
+1999,F,Anne Holterhoff,Kappa Alpha Theta
+1999,F,Sarah Wilson,Kappa Alpha Theta
+1999,F,Heather Gathercole,Alpha Delta Pi
+1999,F,Kristen Watts,Pi Beta Phi
+1999,F,Lindsey Hawkins,Chi Omega
+1999,F,Niki Gauger,Cycledelics
+1998,M,Jonathan Purvis,Dodds House
+1998,M,Jon Foote,Dodds House
+1998,M,Greg O'Brian,Dodds House
+1998,M,Kurt Gensheimer,Acacia
+1998,M,Steve Quigley,Sigma Alpha Epsilon
+1998,M,Jim Lohman,Phi Gamma Delta
+1998,M,Kyle Barker,Beta Theta Pi
+1998,M,Matt Delks,Sigma Alpha Epsilon
+1998,F,Suzannah Bero,Kappa Kappa Gamma
+1998,F,Kori Neveille,Roadrunners
+1998,F,Leslie Hobbs,Alpha Chi Omega
+1998,F,Susan Stapleton,Roadrunners
+1998,F,Lindsey Hawkins,Chi Omega
+1998,F,Mindy Ziffren,Sigma Delta Tau
+1998,F,Emily Morris,Landsharks
+1998,F,Katie Baker,Delta Gamma
+1997,M,Jim Lohman,Phi Gamma Delta
+1997,M,Justin Fox,Acacia
+1997,M,Brian Baker,Sigma Nu
+1997,M,Jon Foote,Dodds House
+1997,M,David Wolfe,Cinzano
+1997,M,Karl Bordine,Sigma Chi
+1997,M,Matt Langfeldt,Sigma Chi
+1997,M,Kurt Gensheimer,Acacia
+1997,F,Mindy Ziffren,Sigma Delta Tau
+1997,F,Julie Beck,Kappa Alpha Theta
+1997,F,Amanda Watts,Kappa Kappa Gamma
+1997,F,Susan Stapleton,Roadrunners
+1997,F,Amy Kellerman,Wright Cycledelics
+1997,F,Megan Gavin,Roadrunners
+1997,F,Katie Baker,Delta Gamma
+1997,F,Leslie Hobbs,Alpha Chi Omega
+1997,F,Karla Walawender,Gamma Phi Beta
+1996,M,Dan Possley,Phi Delta Theta
+1996,M,Bryan Riley,Acacia
+1996,M,Joel McKay,Phi Delta Theta
+1996,M,Cory Lewis,Phi Gamma Delta
+1996,M,Chris Thomas,Delta Tau Delta
+1996,M,Jason Pierce,Cinzano
+1996,M,Jim Lohman,Phi Gamma Delta
+1996,M,Brian Baker,Sigma Nu
+1996,M,Tom Hilbrich,Beta Theta Pi
+1996,M,Shawn Humphries,Sigma Chi
+1996,M,Dave Wolfe,Cinzano
+1996,F,Gina Murray,Kappa Kappa Gamma
+1996,F,Michelle Reynolds,Kappa Kappa Gamma
+1996,F,Julie Beck,Kappa Alpha Theta
+1996,F,Lisa Braun,Alpha Chi Omega
+1996,F,Maggie Mathews,Kappa Alpha Theta
+1996,F,Kelly Canull,Gamma Phi Beta
+1996,F,Kristen Menger,Alpha Gamma Delta
+1996,F,Sheri Sprau,Alpha Gamma Delta
+1995,M,Mike Foote,Dodds House
+1995,M,Mike Kiser,Dodds House
+1995,M,Bill Naas,Sigma Alpha Epsilon
+1995,M,Dan Brackney,Phi Delta Theta
+1995,M,Corey Lewis,Phi Gamma Delta
+1995,M,Justin Herman,Sigma Nu
+1995,M,Dave Perez,Sigma Chi
+1995,M,Bryan Riley,Acacia
+1995,F,Greta Hoetzer,Kappa Alpha Theta
+1995,F,Julie Beck,Kappa Alpha Theta
+1995,F,Staci Bloomberg,Kappa Kappa Gamma
+1995,F,Kristi McNally,Gamma Phi Beta
+1995,F,Cheryl Koch,Wright Cycledelics
+1995,F,Julie Brios,Alpha Gamma Delta
+1995,F,Jill Allsop,Delta Delta Delta
+1995,F,Gina Murray,Kappa Kappa Gamma
+1995,F,Tonya Diehm,Team College Life
+1994,M,Joel Kelley,Pi Kappa Alpha
+1994,M,Jeff Allman,Delta Chi
+1994,M,Randy Spruill,Sigma Chi
+1994,M,Scott Baker,Cinzano
+1994,M,Chad Ruston,Sigma Alpha Epsilon
+1994,M,Bill Naas,Sigma Alpha Epsilon
+1994,M,Steve White,Team College Life
+1994,M,Roger Stevens,Cinzano
+1994,F,Greta Hoetzer,Kappa Alpha Theta
+1994,F,Jenny Luhman,Alpha Omicron Pi
+1994,F,Staci Bloomberg,Kappa Kappa Gamma
+1994,F,Megan Hall,Delta Delta Delta
+1994,F,Julie Biros,Alpha Gamma Delta
+1994,F,Cindy Osborne,Alpha Phi
+1994,F,Julie Schmalz,Landsharks
+1994,F,Kathy Bennett,Roadrunners
+1994,F,Kristin Mueller,Zeta Tau Alpha
+1993,M,Jeff Allman,Delta Chi
+1993,M,Chris Cooley,Pi Kappa Phi
+1993,M,Dan Funk,Phi Kappa Psi
+1993,M,Eric Gullet,Cutters
+1993,M,Todd Hancock,Delta Chi
+1993,M,Joel Kelley,Pi Kappa Alpha
+1993,M,Ben Sharp,Cinzano
+1993,M,Mark Thannert,Delta Upsilon
+1993,M,Steve White,Team College Life
+1993,F,Staci Bloomberg,Kappa Kappa Gamma
+1993,F,Julie Chickedantz,Kappa Alpha Theta
+1993,F,Megan Coyle,Kappa Alpha Theta
+1993,F,Melissa Duffy,Alpha Phi
+1993,F,Sara Gardner,Landsharks
+1992,M,Troy Lewis,Phi Gamma Delta
+1992,M,Benjamin Sharp,Cinzano
+1992,M,Randy Spruill,Sigma Chi
+1992,M,Demetri Hubbard,Cutters
+1992,M,John Jones,Team College Life
+1992,M,Robert Oetjen,Cinzano
+1992,M,Christopher Snyder,Acacia
+1992,M,Mark Thannert,Delta Upsilon
+1992,F,Julie Chickedantz,Kappa Alpha Theta
+1992,F,Sara Gardner,Landsharks
+1992,F,Lara Keeley,Landsharks
+1992,F,Jennifer Thomas,Phi Mu
+1992,F,Sonja Fritzsche,Read Fury
+1992,F,Anne Latchford,Alpha Delta Pi
+1992,F,Kristen Youngsquist,Kappa Kappa Gamma
+1991,M,David Anderson,Cinzano
+1991,M,Michael Barszcz,Sigma Nu
+1991,M,Barrett Gardiner,Alpha Tau Omega
+1991,M,Demetri Hubbard,Cutters
+1991,M,Mike Lantz,Team College Life
+1991,M,Dave Nedeff,Sigma Nu
+1991,M,Pete Noverr,Acacia
+1991,M,Jim Swigart,Acacia
+1991,F,Jen Creed,Delta Gamma
+1991,F,Kerry Hellmuth,Team Sprint
+1991,F,Tara Jackson,Delta Zeta
+1991,F,Reyna Randall,Foster Nirvana
+1991,F,Jennifer Saunders,Foster Nirvana
+1991,F,Lissa Somers,Foster Nirvana
+1991,F,Jody Sundt,Landsharks
+1991,F,Kristen Youngsquist,Kappa Kappa Gamma
+1990,M,Demetri Hubbard,Cutters
+1990,M,David Nedeff,Sigma Nu
+1990,M,Scott Hunt,Phi Gamma Delta
+1990,M,Jeff Cole,Teter-Totano
+1990,M,Pete Noverr,Acacia
+1990,M,Joel Cooper,Sigma Chi
+1990,M,Jason Anderson,Pi Kappa Phi
+1990,F,Kerry Hellmuth,Team Sprint
+1990,F,Melissa Munkwitz,Beyond Control
+1990,F,Mia Middleton,Team Sprint
+1990,F,Sue Hackett,Beyond Control
+1990,F,Kristen Youngsquist,Kappa Kappa Gamma
+1990,F,Lissa Somers,Forest Nirvana
+1990,F,Annette Caito,Alpha Phi
+1989,M,Marc Kase,Teter-Totano
+1989,M,John White,Cutters
+1989,M,John Huesing,Acacia
+1989,M,Dave Schmidt,Phi Gamma Delta
+1989,M,Kris Schneck,Phi Delta Theta
+1989,M,Mike Asher,Cinzano
+1989,M,Fred Rose,Cinzano
+1989,M,Michael Goldstein,Sigma Alpha Mu
+1989,F,Kerry Hellmuth,Team Sprint
+1989,F,Mia Middleton,Team Sprint
+1989,F,Amy Tucker,Team Sprint
+1989,F,Martha Hinkamp,Kappa Alpha Theta
+1989,F,Julie Schoen,Delta Delta Delta
+1989,F,Molly Wood,Delta Gamma
+1989,F,Peggy Hlavacek,Delta Gamma
+1989,F,Paige Snyder,Phi Mu
+1988,M,Jay Polsgrove,Cutters
+1988,M,Paul Krackhardt,Acacia
+1988,M,Dave Schmidt,Phi Gamma Delta
+1988,M,Tom Rothrock,Phi Delta Theta
+1988,M,Rod Jette,Sigma Alpha Epsilon
+1988,M,John Huesing,Acacia
+1988,M,Mike Asher,Cinzano
+1988,M,Karl Westenfelder,Alpha Tau Omega
+1988,F,Kerry Hellmuth,Willkie Sprint
+1988,F,Mia Middleton,Nortorious
+1988,F,Jill Janov,Alpha Epsilon Pi
+1988,F,Martha Hinkamp,Kappa Alpha Theta
+1988,F,Kirsten Swanson,Willkie Sprint
+1988,F,Sue Hackett,Cycledelics
+1988,F,Suzi Bostwick,Delta Delta Delta
+1988,F,LeeAnn Guzek,Kappa Alpha Theta
+1987,M,Ken Aull,Chi Phi
+1987,M,Wes Harris,Posers
+1987,M,Vince Hoeser,Cutters
+1987,M,Dave Holleran,Phi Delta Theta
+1987,M,John Huesing,Acacia
+1987,M,Craig Hume,Phi Kappa Psi
+1987,M,Paul Krackhardt,Acacia
+1987,M,Dave Pritchett,Phi Delta Theta
+1987,M,Jay Polsgrove,Cutters
+1987,M,Marc Senese,Phi Gamma Delta
+1986,M,Dave Holleran,Phi Delta Theta
+1986,M,Vincent Noone,Phi Delta Theta
+1986,M,Jim Pollak,Alpha Epsilon Pi
+1986,M,Sheldon Weiss,Alpha Epsilon Pi
+1986,M,Roce Blair,Sigma Phi Epsilon
+1986,M,Kent Compton,Phi Kappa Psi
+1986,M,Todd Lemon,Phi Kappa Psi
+1986,M,Craig Hume,Phi Kappa Psi
+1986,M,Steve Queisser,Sigma Chi
+1986,M,Jay Polsgrove,Cutters
+1986,M,Tony Ceccanese,Cutters
+1986,M,George Carlin,Cutters
+1986,M,Vince Hoeser,Cutters
+1986,M,Ken Aull,Chi Phi
+1985,M,Adam Giles,Cutters
+1985,M,Tony Ceccanese,Cutters
+1985,M,Vince Hoeser,Cutters
+1985,M,Jim Gurbach,Phi Delta Theta
+1985,M,Peter Tattersfield,Phi Delta Theta
+1985,M,Sheldon Weiss,Alpha Epsilon Pi
+1985,M,Jim Pollak,Alpha Epsilon Pi
+1985,M,Marc Korman,Alpha Epsilon Pi
+1985,M,Tony Checroun,Alpha Epsilon Pi
+1985,M,Dan McNutt,Chi Phi
+1985,M,John Garman,Chi Phi
+1985,M,George Grubb,Acacia
+1985,M,Jeff Hilligoss,Acacia
+1985,M,Robert Johnson,Alpha Tau Omega
+1984,M,Adam Giles,Cutters
+1984,M,Vince Hoeser,Avéré
+1984,M,Jim Pollak,Alpha Epsilon Pi
+1984,M,Jeff Hilligoss,Acacia
+1984,M,George Grubb,Acacia
+1984,M,Jim Holland,Phi Gamma Delta
+1984,M,Paul Paslaski,Alpha Tau Omega
+1984,M,Todd Lemmon,Phi Kappa Psi
+1984,M,Steve Gerritzen,Sigma Nu
+1983,M,Jim Mahaffey,Phi Delta Theta
+1983,M,Leo Magrini,Alpha Tau Omega
+1983,M,Jeff Hilligoss,Acacia
+1983,M,Jeff Pauloski,Kappa Sigma
+1983,M,Cary Sierzputowski,Acacia
+1983,M,Bob Wilson,Wheelmen
+1983,M,Brad Beamon,Phi Kappa Psi
+1983,M,Randy Ochs,Chi Phi
+1983,M,Cory Campbell,Chi Phi
+1983,M,Dave Nabb,Jenkins House
+1982,M,Chris Gutowsky,Delta Chi
+1982,M,Jim Mahaffey,Phi Delta Theta
+1982,M,Leo Magrini,Alpha Tau Omega
+1982,M,Randy Ochs,Chi Phi
+1982,M,Bob Wilson,Willkie
+1982,M,Randy Strong,Delta Chi
+1982,M,Chip Helm,Phi Gamma Delta
+1982,M,Mike Koufos,Sigma Phi Epsilon
+1982,M,Jeff Jellison,Sigma Alpha Epsilon
+1982,M,Jeff Hilligoss,Acacia
+1982,M,Greg Smith,Phi Delta Theta
+1982,M,Fritz Westenfelder,Alpha Tau Omega
+1981,M,Bill Brissman,Delta Chi
+1981,M,Chris Gutowsky,Delta Chi
+1981,M,Doug Tate,Delta Chi
+1981,M,Alan Williams,Delta Chi
+1981,M,Paul Berg,Phi Kappa Psi
+1981,M,Brian Pogue,Jenkins House
+1981,M,Anthony Albanese,Willkie
+1981,M,Leo Magrini,Alpha Tau Omega
+1981,M,Randy Ochs,Chi Phi
+1981,M,John Warner,Chi Phi
+1981,M,J. Kevin King,Phi Gamma Delta
+1981,M,Gary Palmer,Wissler V
+1980,M,Bill Brissman,Delta Chi
+1980,M,Chris Gutowsky,Delta Chi
+1980,M,Doug Tate,Delta Chi
+1980,M,Alan Williams,Delta Chi
+1980,M,Tony Albanese,Willkie South III
+1980,M,Paul Berg,Phi Kappa Psi
+1980,M,Mike Emoff,Alpha Epsilon Pi
+1980,M,Pete Gruber,Chi Phi
+1980,M,John Hayden,Pi Kappa Phi
+1980,M,Kevin King,Phi Gamma Delta
+1980,M,Kent MacPherson,Acacia
+1980,M,Doug Moody,Phi Kappa Psi
+1980,M,Gary Palmer,Wissler V
+1980,M,John Rosner,Pi Kappa Phi
+1980,M,Steve Smith,Pi Kappa Phi
+1979,M,Doug Tate,Delta Chi
+1979,M,Bill Brissman,Delta Chi
+1979,M,Alan Williams,Delta Chi
+1979,M,Greg Silence,Delta Chi
+1979,M,Steve Koenig,Kappa Sigma
+1979,M,David Filbey,Alpha Sigma Phi
+1979,M,John Hayden,Pi Kappa Phi
+1979,M,Gary Gaddis,Delta Tau Delta
+1978,M,Larry Micon,Alpha Epsilon Pi
+1978,M,Mark Needham,Phi Gamma Delta
+1978,M,Dave Schapker,Sigma Nu
+1978,M,Steve Salmon,Tau Kappa Epsilon
+1978,M,Todd Emoff,Alpha Epsilon Pi
+1978,M,Jeff Kurzawa,Sigma Phi Epsilon
+1978,M,Doug Moody,Phi Kappa Psi
+1978,M,Stuart Kelly,Phi Kappa Psi
+1978,M,Tim Cummings,Phi Kappa Psi
+1978,M,Paul Berg,Phi Kappa Psi
+1977,M,Mike Alexander,Delta Chi
+1977,M,Garry Rybar,Delta Chi
+1977,M,Jeff Pollom,Delta Chi
+1977,M,Rob Brown,Delta Chi
+1977,M,Jay Allardt,Phi Gamma Delta
+1977,M,Larry Micon,Alpha Epsilon Pi
+1977,M,Howard May,Phi Kappa Psi
+1977,M,Ed Hawes,Phi Kappa Psi
+1977,M,Greg Brown,Velo-Man
+1977,M,Steve McClain,Velo-Man
+1976,M,Mark Dayton,Delta Chi
+1976,M,Garry Rybar,Delta Chi
+1976,M,Roger Antoniu,Delta Chi
+1976,M,Mike Alexander,Delta Chi
+1976,M,Jay Allardt,Phi Gamma Delta
+1976,M,Howard May,Phi Kappa Psi
+1976,M,Rusty Harrell,Phi Kappa Psi
+1976,M,Don Jones,Delta Tau Delta
+1976,M,Dave Rubenking,Dodds House
+1976,M,Dave Garriott,Theta Xi
+1975,M,Pete King,Phi Gamma Delta
+1975,M,Mark Dayton,Delta Chi
+1975,M,Garry Rybar,Delta Chi
+1975,M,Phil Sheridan,Phi Kappa Psi
+1975,M,Don Ballard,Delta Tau Delta
+1975,M,Roger Brown,Kappa Sigma
+1975,M,Dave Rubenking,Dodds House
+1975,M,Jay Allardt,Phi Gamma Delta
+1975,M,Charlie Turk,Phi Gamma Delta
+1975,M,Eric King,Phi Gamma Delta
+1974,M,Bob Kirkwood,Kappa Sigma
+1974,M,Ron Martin,Dodds House
+1974,M,Warren Meinschein,Phi Gamma Delta
+1974,M,Michael Rose,Sigma Chi
+1974,M,Phil Sheridan,Phi Kappa Psi
+1973,M,Bill Canida,Phi Gamma Delta
+1973,M,Peter DeWitt,Phi Kappa Psi
+1973,M,Jim Kendall,Briscoe Quad
+1973,M,Bob Kirkwood,Kappa Sigma
+1973,M,Eddie Krause,Theta Chi
+1973,M,Bob Shanteau,Kappa Sigma
+1972,M,Kris Bank,Acacia
+1972,M,Peter DeWitt,Phi Kappa Psi
+1972,M,Jim Kendall,Briscoe Quad
+1972,M,Eddie Krause,Theta Chi
+1972,M,Eddy Van Guyse,Delta Chi
+1972,M,Mark Wade,Sigma Phi Epsilon
+1971,M,Mark Bailey,Sigma Nu
+1971,M,Glenn Curtis,Acacia
+1971,M,Mike Howard,Dodds House
+1971,M,Eddie Krause,Theta Chi
+1971,M,Mark Malangoni,Phi Kappa Psi
+1971,M,Eddy Van Guyse,Delta Chi
+1970,M,Mark Bailey,Sigma Nu
+1970,M,John Elliot,Delta Tau Delta
+1970,M,Mike Howard,Dodds House
+1970,M,Mike Koch,Dodds House
+1970,M,Carlo Logan,Alpha Tau Omega
+1970,M,Eddy Van Guyse,Delta Chi
+1969,M,Tom Battle,Sigma Phi Epsilon
+1969,M,Mike Bell,Kappa Sigma
+1969,M,Dan Fowler,Acacia
+1969,M,Mike Koch,Dodds House
+1969,M,Gib Miller,Sigma Nu
+1969,M,Glynn Olson,Phi Delta Theta
+1969,M,Dave Padgett,Phi Delta Theta
+1968,M,Tom Battle,Sigma Phi Epsilon
+1968,M,Mike Bell,Kappa Sigma
+1968,M,Jim Davis,Delta Upsilon
+1968,M,Bill Hoelker,Phi Kappa Theta
+1968,M,Vic Thompson,Sigma Alpha Epsilon
+1968,M,Jack Wehner,Phi Kappa Theta
+1967,M,Malcolm Beckner,Sigma Phi Epsilon
+1967,M,Bill Hoelker,Phi Kappa Theta
+1967,M,Jim Knauer,Alpha Tau Omega
+1967,M,Dave Padgett,Phi Delta Theta
+1967,M,Chuck Richards,Sigma Nu
+1967,M,Charles Taylor,Theta Chi
+1966,M,Bob Bailey,Sigma Alpha Epsilon
+1966,M,Jerry Bradley,Phi Gamma Delta
+1966,M,Morrie Erickson,Sigma Alpha Epsilon
+1966,M,Jim Knauer,Alpha Tau Omega
+1966,M,Steve Powell,Phi Gamma Delta
+1966,M,Chuck Richards,Sigma Nu
+1965,M,Brock Blosser,Beta Theta Pi
+1965,M,Eric Christophersen,Sigma Alpha Epsilon
+1965,M,"Skip Higgins, Jr.",Kappa Delta Rho
+1965,M,Ivan Johns,Alpha Tau Omega
+1965,M,Rick Huff,Phi Delta Theta
+1965,M,Terry Townsend,Phi Kappa Psi
+1964,M,Jerry Bradley,Phi Gamma Delta
+1964,M,Ross Creekmore,Sigma Nu
+1964,M,Eddie Doerr,Alpha Tau Omega
+1964,M,Larry Miller,Dodds House
+1964,M,Alan Somers,Phi Kappa Psi
+1964,M,Steve Tesich,Phi Kappa Psi
+1964,M,Claude Thompson,Sigma Alpha Epsilon
+1963,M,Brock Blosser,Beta Theta Pi
+1963,M,Eddie Doerr,Alpha Tau Omega
+1963,M,Larry Miller,Dodds House
+1963,M,Dave Parks,Phi Gamma Delta
+1963,M,Steve Tesich,Phi Kappa Psi
+1963,M,Terry Townsend,Edmondson II
+1962,M,Bob Bolyard,Sigma Alpha Epsilon
+1962,M,Dave Brown,Acacia
+1962,M,Tom Cook,Chi Phi
+1962,M,Larry Miller,Dodds House
+1962,M,Dave Perks,Phi Gamma Delta
+1962,M,Terry Townsend,Edmondson II
+1961,M,Tom Bolyard,Sigma Alpha Epsilon
+1961,M,Jeff Coulter,Phi Gamma Delta
+1961,M,Henry Hudson,Lambda Chi Alpha
+1961,M,Don Leedy,Phi Kappa Psi
+1961,M,Gary Long,Sigma Nu
+1961,M,John Odusch,Phi Kappa Psi
+1960,M,Dave Brown,Acacia
+1960,M,Mac Crosbie,Sigma Alpha Epsilon
+1960,M,Gary Long,Sigma Nu
+1960,M,Jerry Tardy,Phi Gamma Delta
+1960,M,Dave Thulin,Sigma Alpha Epsilon
+1960,M,Dave Wilson,Delta Chi
+1955,M,Bill Forney,West Fall Trojans
+1955,M,Bill Mann,Acacia
+1955,M,Fred Mercer,Sigma Nu
+1955,M,Clarence Doninger,Sigma Nu
+1952,M,Russ Keller,North Hall Friars
+1951,M,Bob  Moore,South Hall Buccaneers

@@ -1,0 +1,157 @@
+---
+title: "Little 500 Project"
+author: "Jayden Fisher"
+date: "2023-11-27"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Loading Libraries and Data.
+```{r}
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+itt_data = read.csv("Individual_Time_Trials.csv")
+little500_data = read.csv("Little_500_Race.csv")
+qualifications_data = read.csv("Qualifications.csv")
+team_pursuit_data = read.csv("Team_Pursuit.csv")
+```
+
+Changing Column Names, and only using Male race's for consistency (Female times are much different since only 100 laps.)
+```{r}
+itt_data = itt_data %>%
+  filter(Gender == 'M') %>%
+  rename(Team = Team, Finish_Time = `Finish.Time`)
+
+little500_data = little500_data %>%
+  filter(Gender == 'M') %>%
+  rename(Team = Team, Finish_Time_Little500 = `Finish.Time`, Laps = Laps)
+
+qualifications_data = qualifications_data %>%
+  filter(Gender == 'M') %>%
+  rename(Team = Team, Finish_Time_Qualifications = `Finish.Time`)
+
+team_pursuit_data = team_pursuit_data %>%
+  filter(Gender == 'M') %>%
+  rename(Team = Team, Finish_Time_Team_Pursuit = `Finish.Time`)
+
+model_data = little500_data
+```
+
+Cleaning team ITT, getting averages between years, converting to seconds, adding to model data.
+```{r}
+itt_data = itt_data %>%
+  mutate(
+    Finish_Time = as.numeric(ms(Finish_Time))  
+  )
+
+itt_data = itt_data %>%
+  group_by(Team, Year) %>%
+  summarize(Avg_ITT_Time = mean(Finish_Time, na.rm = TRUE)) %>%
+  ungroup()
+
+itt_data = na.omit(itt_data)
+
+model_data = merge(model_data, itt_data, by = c("Team", "Year"), all.x = TRUE)
+```
+
+Cleaning team Qualifying, getting averages between years, converting to seconds, adding to model data.
+```{r}
+qualifications_data = qualifications_data %>%
+  mutate(
+    Finish_Time_Qualifications = as.numeric(ms(Finish_Time_Qualifications))  
+  )
+
+qualifications_data = qualifications_data %>%
+  group_by(Team, Year) %>%
+  summarize(Finish_Time_Qualifications = mean(Finish_Time_Qualifications, na.rm = TRUE)) %>%
+  ungroup()
+
+qualifications_data = na.omit(qualifications_data)
+model_data = merge(model_data, qualifications_data, by = c("Team", "Year"), all.x = TRUE)
+```
+
+Cleaning team pursuit, getting averages between years, converting to seconds, adding to model data.
+```{r}
+team_pursuit_data = team_pursuit_data %>%
+  mutate(
+    Finish_Time_Team_Pursuit = as.numeric(ms(Finish_Time_Team_Pursuit))
+  )
+
+team_pursuit_data = na.omit(team_pursuit_data)
+
+team_pursuit_data = team_pursuit_data %>%
+  group_by(Team, Year) %>%
+  summarize(Finish_Time_Team_Pursuit = mean(Finish_Time_Team_Pursuit, na.rm = TRUE)) %>%
+  ungroup()
+
+model_data = merge(model_data, team_pursuit_data, by = c("Team", "Year"), all.x = TRUE)
+```
+
+Cleaning model data and converting little 500 into seconds.
+```{r}
+model_data = model_data %>%
+  mutate(
+    Finish_Time_Little500 = as.numeric(ms(Finish_Time_Little500)) 
+  )
+
+model_data = model_data %>%
+  filter(!is.na(Finish_Time_Qualifications) & !is.na(Avg_ITT_Time) & !is.na(Finish_Time_Team_Pursuit) & !is.na(Finish_Time_Little500))
+```
+
+Interaction Tests.
+```{r}
+full_model_interaction = lm(Finish_Time_Little500 ~ Finish_Time_Qualifications * Avg_ITT_Time + Finish_Time_Team_Pursuit, data = model_data)
+
+reduced_model_no_interaction = lm(Finish_Time_Little500 ~ Finish_Time_Qualifications + Finish_Time_Team_Pursuit + Avg_ITT_Time, data = model_data)
+
+anova_result = anova(reduced_model_no_interaction, full_model_interaction)
+
+anova_result
+```
+
+Model Predictor Tests.
+```{r}
+anova_result_1 = anova(lm(Finish_Time_Little500 ~ Avg_ITT_Time + Finish_Time_Team_Pursuit, data = model_data), full_model_interaction)
+
+anova_result_2 = anova(lm(Finish_Time_Little500 ~ Finish_Time_Qualifications + Finish_Time_Team_Pursuit, data = model_data), full_model_interaction)
+
+anova_result_3 = anova(lm(Finish_Time_Little500 ~ Finish_Time_Qualifications + Avg_ITT_Time, data = model_data), full_model_interaction)
+
+anova_result_1
+
+anova_result_2
+
+anova_result_3
+```
+
+Final Model
+```{r}
+model = lm(Finish_Time_Little500 ~ Finish_Time_Qualifications * Avg_ITT_Time + Finish_Time_Team_Pursuit, data = model_data)
+
+summary(model)
+```
+
+Testing the model
+```{r}
+new_data = data.frame(
+  Finish_Time_Qualifications = c(150.12),
+  Avg_ITT_Time = c(146.52),
+  Finish_Time_Team_Pursuit = c(588.35)
+)
+
+predicted_finish_times = predict(model, newdata = new_data)
+
+predicted_finish_times_hours = floor(predicted_finish_times / 60)
+predicted_finish_times_minutes = round(predicted_finish_times %% 60, 2)
+
+predicted_finish_times_formatted = sprintf("%02d:%05.2f", predicted_finish_times_hours, predicted_finish_times_minutes)
+
+predicted_finish_times_formatted
+```
+
+
